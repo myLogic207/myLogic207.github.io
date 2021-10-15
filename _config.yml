@@ -34,6 +34,7 @@ copyright: "Copyright © 2021 CFVR. All rights reserved."
 
 # Build settings
 theme: minima
+#theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 markdown: kramdown
