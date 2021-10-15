@@ -33,7 +33,7 @@ github_username:  myLogic207
 copyright: "Copyright © 2021 CFVR. All rights reserved."
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 markdown: kramdown
