@@ -1,2 +1,4 @@
-# myLogic207.github.io
+# myLogic207 very own awesome webpage
+
 Website repository duh
+Looking for the [Berufschul]() repo?
