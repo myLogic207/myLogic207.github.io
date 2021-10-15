@@ -3,14 +3,14 @@ layout: default
 title: "ENG"
 permalink: /eng/
 ---
-
+[Zurück](/)\
 [Dateien](/files#eng)
 
 - [Programmin Languages - 04.10.2021](#programmin-languages---04102021)
 - [Worksheet](#worksheet)
   - [1. What is programming](#1-what-is-programming)
   - [2. Rewrite the following programming steps in the correct order](#2-rewrite-the-following-programming-steps-in-the-correct-order)
-  - [3. Match the definitions on the right to the corresponding basic programming terms on the left](#3-match-the-definitions-on-the-right-to-the-corresponding-basic-programming-terms-on-the-left)
+  - [3. Match the definitions](#3-match-the-definitions)
 - [Listening Comprehension](#listening-comprehension)
 - [Programming Logic](#programming-logic)
   - [4. Structural elements](#4-structural-elements)
@@ -54,7 +54,7 @@ Task: [Worksheet1](./resources/prog_lang_2.pdf)
 2. Using a computer **language**/~~set~~ of icons such as **Basic**/~~Windows~~ the programmer can **control**/~~help~~ what the computer ~~thinks~~/**does**
 
 ### 2. Rewrite the following programming steps in the correct order
-
+<!-- markdownlint-disable MD029 -->
 4. Analyse the problem
 5. Design the Programm
 6. Write the Code
@@ -63,8 +63,10 @@ Task: [Worksheet1](./resources/prog_lang_2.pdf)
 9. Train the users
 10. Get feedback from the users
 11. Provide documentation (ongoing process)
+<!-- markdownlint-enable MD029 -->
+### 3. Match the definitions
 
-### 3. Match the definitions on the right to the corresponding basic programming terms on the left
+Match the definitions on the right to the corresponding basic programming terms on the left
 
 | Term | Definition |
 | ---- | ---------- |

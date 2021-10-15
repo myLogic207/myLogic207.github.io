@@ -3,18 +3,18 @@ layout: default
 title: "PUG"
 permalink: /pug/
 ---
+[Zurück](/)\
 
-- [Der Rechtsstaat - 05.10.2021](#der-rechtsstaat---05102021)
-- [Grundgesetz - 08.10.2021](#grundgesetz---08102021)
-  - [*Wie Deutschland zu seinem Grundgesetz kam*](#wie-deutschland-zu-seinem-grundgesetz-kam)
+- [Der Rechtsstaat](#der-rechtsstaat)
+- [Grundgesetz](#grundgesetz)
+  - [Wie Deutschland zu seinem Grundgesetz kam](#wie-deutschland-zu-seinem-grundgesetz-kam)
   - [Struktur des Grundgesetzes](#struktur-des-grundgesetzes)
-    - [**Das Grundgesetzt**](#das-grundgesetzt)
+    - [Das Grundgesetzt](#das-grundgesetzt)
 - [Das Menschenbild des Grundgesetzes und die Grundrechte](#das-menschenbild-des-grundgesetzes-und-die-grundrechte)
-- [Zusammenfassung für Kurzarbeit](#zusammenfassung-für-kurzarbeit)
 
-## Der Rechtsstaat - 05.10.2021
+## Der Rechtsstaat
 
-*Arbeitsblatt*:
+[*Arbeitsblatt*](resources/1.%20Der%20Staat/Arbeitsblatt.pdf):
 
 1. **Äußere Sicherheit**
    - Schutz vor kriegerischen Überfällen
@@ -67,9 +67,9 @@ permalink: /pug/
 
 ---
 
-## Grundgesetz - 08.10.2021
+## Grundgesetz
 
-### *Wie Deutschland zu seinem Grundgesetz kam*
+### Wie Deutschland zu seinem Grundgesetz kam
 
 Lückentext:
 
@@ -112,7 +112,7 @@ Zwei Große bereiche:
    - Wahlen
    - Regierung
 
-#### **Das Grundgesetzt**
+#### Das Grundgesetzt
 
 Das Grundgesetz ist die Verfassung der Bundesrepublik Deutschland. In einer Verfassung stehen die wichtigsten Regeln für das Zusammenleben in einem Staat.
 
@@ -125,8 +125,6 @@ In den ersten Artikeln (1 bis 19) des Grundgesetzes sind die Grundrechte der Bü
 ---
 
 ## Das Menschenbild des Grundgesetzes und die Grundrechte
-
-[Skizze (folgt)](./)
 
 **Menschrenrechte gelten für *alle Menschen***
 
@@ -141,5 +139,4 @@ In den ersten Artikeln (1 bis 19) des Grundgesetzes sind die Grundrechte der Bü
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | - Versammlungsfreiheit<br>- Vereins- und Vereinigungsfreiheit<br>- Freizügigkeit<br>- Berufswahlfreiheit und freie Wahl der Ausbildungsstätte und des Arbeitsplatzes<br>- Ausbürgerungsverbot<br>- Auslieferungsverbot | - Widerstandsrecht (Art. 20)<br>- freie Parteiengründung (Art. 21)<br>- Recht auf Zugang zu öffentlichen Ämtern (Art. 33)<br>- Wahlrecht (Art. 38)<br>- Recht auf gesetzlichen Richter (Art. 101)<br>- Anspruch auf rechtliches Gehör vor Gericht (Art. 103)<br>- Schutz vor willkürlicher Verhaftung (Art. 104) |
 
-[Zusammenfassung für Kurzarbeit](./resources/zusammenfassung_block1.md)
 ---

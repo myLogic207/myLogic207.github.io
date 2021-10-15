@@ -22,7 +22,7 @@ title: IF11C - Berufschulerepo
 subtitle: Alles aus der Berufschule, täglich aktualisiert
 email: lijon.fogel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Very cool webiste currently used for my jobschool stuff
+  Willst du nicht lieber spenden als das hier zu lesen?
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
 # Google search results) and in your feed.xml site description.
@@ -57,6 +57,7 @@ exclude:
   - /IF11C/markdownCS.md
   - /IF11C/AWP/resources/Datenbanken_zusammenfassung.m
   - /IF11C/PuG/resources/zusammenfassung_block1.md
+  - about.markdown.old
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

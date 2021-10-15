@@ -3,10 +3,11 @@ layout: default
 title: "ITS"
 permalink: /its/
 ---
+[Zurück](/)\
 [Dateien](/files#its)
 [Klassennotizbuch](https://ip-generation.de/Kip94IKYTnKIWyZXzWWyUw?both)
 
-- [[LS 1.3: Active Directory [Info]](https://lernplattform.mebis.bayern.de/mod/page/view.php?id=34978722)](#ls-13-active-directory-info)
+- [LS 1.3: Active Directory](#ls-13-active-directory)
 - [LS 1.9: Automatisch verteilt: DHCP](#ls-19-automatisch-verteilt-dhcp)
   - [Gruppen Labor Herbst](#gruppen-labor-herbst)
   - [Gruppen Labor Graf](#gruppen-labor-graf)
@@ -74,7 +75,9 @@ Diese Vorteile führen zu weiteren positiven Merkmalen:
 
 ![Serverplanung](.\image\Serverplanung.png)
 
-### [LS 1.1: Autohaus mit Server [Planung]](https://lernplattform.mebis.bayern.de/mod/page/view.php?id=34978720)
+### LS 1.1: Autohaus mit Server
+
+[mebis](https://lernplattform.mebis.bayern.de/mod/page/view.php?id=34978720)
 
 Benutzer:
 ![Benutzerliste](https://rgw.noris.net/hedgedoc-prod/uploads/upload_47795d321f3b661120e2f2922f9d1e0b.png)
@@ -93,7 +96,9 @@ Ordnerstruktur:
 Rechtemanagement:
 ![Rechte](https://rgw.noris.net/hedgedoc-prod/uploads/upload_b5abebb8a0856da507f04e16824a152c.png)
 
-## [LS 1.3: Active Directory [Info]](https://lernplattform.mebis.bayern.de/mod/page/view.php?id=34978722)
+## LS 1.3: Active Directory
+
+[mebis](https://lernplattform.mebis.bayern.de/mod/page/view.php?id=34978722)
 
 **Gliederung Autohaus Nettmann in einer Domäne
 und jeweils eine OU für die Abteilung**

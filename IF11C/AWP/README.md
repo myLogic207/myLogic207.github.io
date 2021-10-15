@@ -3,6 +3,7 @@ layout: default
 title: "AWP"
 permalink: /awp/
 ---
+[Zurück](/)\
 [Dateien](/files/#awp)\
 [Klassennotizbuch](https://cryptpad.fr/pad/#/2/pad/edit/a5yHproaBJN8nlJdmNrtfmSL/)\
 (Wird aber auch rein kopiert)

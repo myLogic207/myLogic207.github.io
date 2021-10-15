@@ -4,8 +4,8 @@ title: "Home"
 ---
 [Links](#quick-links) ---
 [Feedback](https://forms.gle/efXCc41bpAw2JcBz9) ---
-[Spenden](https://ko-fi.com/myLogic207) ---
-[Website](myLogic207.github.io)
+[Spenden](https://ko-fi.com/myLogic207)
+<!-- [Website](myLogic207.github.io) -->
 
 ## Eine täglich aktualieserte mitschrift der Berufschule (dateien inklusive)
 
@@ -19,6 +19,9 @@ Dieses GitHub-repo ist auf allen internetfähigen geräten abrufbar (wenns bei d
 
 ## FAQ
 
+**Q**: Und wo finde ich das jetzt alles?\
+**A**: Je nach dem an welchem gerät du gerade bist oben als Zeile, oben recht als Menü oder immer hier unten
+
 **Q**: Heißt das, dass ich nicht mehr mitschreiben muss?\
 **A**: Ja genau das, lass dich halt nicht erwischen
 
@@ -29,7 +32,7 @@ Dieses GitHub-repo ist auf allen internetfähigen geräten abrufbar (wenns bei d
 **A**: Mindestens ein push am ende des tages, maximal einer nach jedem fach
 
 **Q**: Ey, du hast da nen fehler\
-**A**: Cool, hab ich nicht gesehen. Kommentier, schreib mir ne mail oder ne whatsapp mit dem inhalt was falsch ist *und wie es geändert werden soll*, ich bemühe mich das anzupassen (auch rechtschreibfehler)
+**A**: Cool, hab ich nicht gesehen. Schreib mir ein [Feedback](https://forms.gle/efXCc41bpAw2JcBz9) oder ne [mail](mailto:lijon.fogel@gmail.com) *wo welcher inhalt* falsch ist und *wie es geändert werden soll*, ich bemühe mich das anzupassen (auch rechtschreibfehler)
 
 ## Quick links
 
@@ -40,6 +43,7 @@ Dieses GitHub-repo ist auf allen internetfähigen geräten abrufbar (wenns bei d
 - [ITT Hefteintrag](/its)
 - [PlusD Hefteintrag](/plusd)
 - [PuG Hefteintrag](/pug)
+- [Dateien](/files)
 - [Spenden](https://ko-fi.com/myLogic207)
 - [Feedback](https://forms.gle/efXCc41bpAw2JcBz9)
 <!--- [FallbackFeedback](https://docs.google.com/forms/d/e/1FAIpQLSf2jT9Wh8k5JtnhZN9c0CMExNB_n3KsLWxeVb5TGHG73S_JEg/viewform?usp=sf_link) -->
