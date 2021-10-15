@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Logics awesome site
-subtitle: currently used as a web version of my jobschool stuff
+title: IF11C - Berufschulerepo
+subtitle: Alles aus der Berufschule, täglich aktualisiert
 email: lijon.fogel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Very cool webiste currently used for my jobschool stuff
@@ -33,11 +33,14 @@ github_username:  myLogic207
 copyright: "Copyright © 2021 CFVR. All rights reserved."
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jekyll-feed
 markdown: kramdown
 
+#theme settings
+minima:
+  skin: dark
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -66,3 +69,4 @@ keep_files:
   - "CNAME"
   - ".git"
   - ".gitignore"
+
