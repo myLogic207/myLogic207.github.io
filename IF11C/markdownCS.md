@@ -1,7 +1,10 @@
-	Markdown Syntax - Comment
 # H1
+
 ## H2
+
 ### H3
+
+<!-- Markdown Syntax - Comment -->
 
 **bold**    Ctrl+B \
 *italic*    Ctrl+I
@@ -10,18 +13,21 @@
 > blockquote
 
 Ordered List
+
 1. First item
 2. Second item
 3. Third item
 
 Unordered List
+
 - First item
 - Second item
 - Third item
 
 `code`
 
---- 
+---
+
 Horizontal Line
 
 [title](https://www.example.com)    Link
@@ -29,26 +35,28 @@ Horizontal Line
 
 Extended:
 
-Table	| Syntax | Description
-
+| Table | Syntax | Description
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
 
-```
+```json
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
 ```
-Footnote	Here's a sentence with a footnote. [^1]
+
+Footnote Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
-### My Great Heading {#custom-id}       
-Definition List	term
+### My Great Heading {#custom-id}
+
+Definition List term
 : definition
+
 - [X] Write Task List
 - [ ] Update the website
 - [ ] Contact the media

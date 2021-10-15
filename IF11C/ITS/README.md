@@ -3,25 +3,15 @@ layout: page
 title: "ITS"
 permalink: /its/
 ---
+[Dateien](/files#its)
+[Klassennotizbuch](https://ip-generation.de/Kip94IKYTnKIWyZXzWWyUw?both)
 
-- [sponsored by noris network AG](#sponsored-by-noris-network-ag)
-- [Gemeinsames Notizbuch](#gemeinsames-notizbuch)
-  - [Vorteile Client-Server-Systeme](#vorteile-client-server-systeme)
-  - [Fragen an den Kunden](#fragen-an-den-kunden)
-  - [[LS 1.1: Autohaus mit Server [Planung]](https://lernplattform.mebis.bayern.de/mod/page/view.php?id=34978720)](#ls-11-autohaus-mit-server-planung)
 - [[LS 1.3: Active Directory [Info]](https://lernplattform.mebis.bayern.de/mod/page/view.php?id=34978722)](#ls-13-active-directory-info)
 - [LS 1.9: Automatisch verteilt: DHCP](#ls-19-automatisch-verteilt-dhcp)
   - [Gruppen Labor Herbst](#gruppen-labor-herbst)
   - [Gruppen Labor Graf](#gruppen-labor-graf)
 
-## sponsored by [noris network AG](https://www.noris.de/)
-
-## Gemeinsames Notizbuch
-
-Dies ist die gemeinsame Notiz- und Arbeitsseite der Klasse IF11C. Diese Seite ist über das Internet frei zugänglich, und das mit Vollzugriff.
-Jeder kann jederzeit die Informationen lesen, editieren oder löschen. Bitte verwenden Sie keine persönlichen Informationen (Namen etc.).
-
----
+<!-- ## sponsored by [noris network AG](https://www.noris.de/) -->
 
 ### Vorteile Client-Server-Systeme
 
@@ -40,8 +30,6 @@ Diese Vorteile führen zu weiteren positiven Merkmalen:
 - Bessere Zugriffssicherheit
 - Einfachere Administration u. Wartung
 - Gut skalierbar (Stabile Struktur)
-
----
 
 ### Fragen an den Kunden
 
@@ -65,7 +53,7 @@ Diese Vorteile führen zu weiteren positiven Merkmalen:
   - Benötigt, Erklärung folgt
 - Soll ein Netzwerkspeicher bereitgestellt werden?
   - Wird benötigt, läuft auf haupt Server
-- Homeoffice benötigt? (VPN-Verbindung
+- Homeoffice benötigt? (VPN-Verbindung)
   - Wird nicht benötigt
 - Gebäudeplan?
   - Denkbar
@@ -84,7 +72,7 @@ Diese Vorteile führen zu weiteren positiven Merkmalen:
 - WINDOWS LINUX MACOS?
   - Windows
 
-![Serverplanung.png](image/.mitschrift/Serverplanung.png)
+![Serverplanung](.\image\Serverplanung.png)
 
 ### [LS 1.1: Autohaus mit Server [Planung]](https://lernplattform.mebis.bayern.de/mod/page/view.php?id=34978720)
 

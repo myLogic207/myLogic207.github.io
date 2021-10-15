@@ -4,6 +4,8 @@ title: "BGP"
 permalink: /bgp/
 ---
 
+[Dateien](/files#bgp)
+
 - [Services](#services)
   - [1.1 Services im IT-Bereich unterscheiden](#11-services-im-it-bereich-unterscheiden)
     - [1.1.2 Services im IT-Bereich](#112-services-im-it-bereich)
@@ -13,8 +15,8 @@ permalink: /bgp/
   - [1.2.3 Management-Systeme](#123-management-systeme)
   - [1.2.4 Management-Teilbereiche und Prozesse im IT-Servicemanagement](#124-management-teilbereiche-und-prozesse-im-it-servicemanagement)
   - [1.2.5 Übungsaufgaben](#125-übungsaufgaben)
-    - [**1. Aufgabe**](#1-aufgabe)
-    - [**2. Aufgabe**](#2-aufgabe)
+    - [1. Aufgabe](#1-aufgabe)
+    - [2. Aufgabe](#2-aufgabe)
 
 ## Services
 
@@ -115,7 +117,7 @@ Service Operation:  Bereitstellung und einbringung von Services
 
 ### 1.2.5 Übungsaufgaben
 
-#### **1. Aufgabe**
+#### 1. Aufgabe
 
 - Service Availability-Management
 - Service Level Management
@@ -127,6 +129,6 @@ Service Operation:  Bereitstellung und einbringung von Services
 - Requirenment Engineering
 - Service-Catalogue-Management
 
-#### **2. Aufgabe**
+#### 2. Aufgabe
 
 ---

@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Englisch"
-permalink: /englisch/
+title: "ENG"
+permalink: /eng/
 ---
+
+[Dateien](/files#eng)
 
 - [Programmin Languages - 04.10.2021](#programmin-languages---04102021)
 - [Worksheet](#worksheet)
@@ -11,7 +13,7 @@ permalink: /englisch/
   - [3. Match the definitions on the right to the corresponding basic programming terms on the left](#3-match-the-definitions-on-the-right-to-the-corresponding-basic-programming-terms-on-the-left)
 - [Listening Comprehension](#listening-comprehension)
 - [Programming Logic](#programming-logic)
-  - [4. Every program logic consists of three main structural elements: Sequenz, Selection and Iteration (loop). Which is which?](#4-every-program-logic-consists-of-three-main-structural-elements-sequenz-selection-and-iteration-loop-which-is-which)
+  - [4. Structural elements](#4-structural-elements)
   - [5. Structoral elements](#5-structoral-elements)
 
 ## Programmin Languages - 04.10.2021
@@ -53,13 +55,13 @@ Task: [Worksheet1](./resources/prog_lang_2.pdf)
 
 ### 2. Rewrite the following programming steps in the correct order
 
-4. Analyse the problem\
-5. Design the Programm\
-6. Write the Code\
-7. Compile the Programm\
-8. Get Feedback from the users\
-9. Train the users\
-10. Get feedback from the users\
+4. Analyse the problem
+5. Design the Programm
+6. Write the Code
+7. Compile the Programm
+8. Get Feedback from the users
+9. Train the users
+10. Get feedback from the users
 11. Provide documentation (ongoing process)
 
 ### 3. Match the definitions on the right to the corresponding basic programming terms on the left
@@ -110,10 +112,12 @@ Task: [Worksheet1](./resources/prog_lang_2.pdf)
 
 [Worksheet](./resources/prog_lang_4.pdf)
 
-### 4. Every program logic consists of three main structural elements: Sequenz, Selection and Iteration (loop). Which is which?
+### 4. Structural elements
 
-a. *Sequenz* is a series of command wherby B automatically and necessarily follows A.
-b. *Iteration (loop)* repeats a given sequenz of commands as long as given conditions exists or until a given condition is fullfilled.
+Every program logic consists of three main structural elements: Sequenz, Selection and Iteration (loop). Which is which?
+
+a. *Sequenz* is a series of command wherby B automatically and necessarily follows A.\
+b. *Iteration (loop)* repeats a given sequenz of commands as long as given conditions exists or until a given condition is fullfilled.\
 c. *Selection* executes one of two or more possible functions in a program depending on whatever a given condition has been fulfilled or not
 
 ### 5. Structoral elements

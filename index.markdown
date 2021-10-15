@@ -1,13 +1,10 @@
 ---
 layout: page
 title: "Home"
-permalink: /if11c/
 ---
-
-# Klassenrepository der IF11C
-
-[Feedback](https://forms.gle/efXCc41bpAw2JcBz9)
-[Spenden](https://ko-fi.com/myLogic207)
+[Links](#quick-links) ---
+[Feedback](https://forms.gle/efXCc41bpAw2JcBz9) ---
+[Spenden](https://ko-fi.com/myLogic207) ---
 [Website](myLogic207.github.io)
 
 ## Eine täglich aktualieserte mitschrift der Berufschule (dateien inklusive)
@@ -36,13 +33,17 @@ Dieses GitHub-repo ist auf allen internetfähigen geräten abrufbar (wenns bei d
 
 ## Quick links
 
-- [AWP Hefteintrag](./AWP/README.md)
-- [BGP Hefteintrag](./BGP/README.md)
-- [Egnlisch Hefteintrag](./English/README.md)
-- [ITS Hefteintrag](./ITS/README.md)
-- [ITT Hefteintrag](./ITT/README.md)
-- [PlusD Hefteintrag](./PlusD/README.md)
-- [PuG Hefteintrag](./PuG/README.md)
+- [AWP Hefteintrag](/awp)
+- [BGP Hefteintrag](/bgp)
+- [Englisch Hefteintrag](/eng)
+- [ITS Hefteintrag](/its)
+- [ITT Hefteintrag](/its)
+- [PlusD Hefteintrag](/plusd)
+- [PuG Hefteintrag](/pug)
 - [Spenden](https://ko-fi.com/myLogic207)
 - [Feedback](https://forms.gle/efXCc41bpAw2JcBz9)
 <!--- [FallbackFeedback](https://docs.google.com/forms/d/e/1FAIpQLSf2jT9Wh8k5JtnhZN9c0CMExNB_n3KsLWxeVb5TGHG73S_JEg/viewform?usp=sf_link) -->
+
+---
+
+[nach oben](/)

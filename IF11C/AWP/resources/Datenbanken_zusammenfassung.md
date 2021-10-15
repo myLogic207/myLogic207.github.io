@@ -2,21 +2,21 @@
 
 ## Definitionen
 
-###### Datenintegration
+### Datenintegration
 
 Daten aus verschiedenen Quellen werden zu einer Datenbank zusammengeführt
 
-##### Prozessintegration
+### Prozessintegration
 
 Mehrere Teilprozesse werden zu einem Gesamtprozess zusammengeführt
 
-##### Integrierte Informationsverarbeitung
+### Integrierte Informationsverarbeitung
 
 Zusammenführung der Datenintegration und der Prozessintegration
 
 ## Wissenspyramide
 
-#### Daten
+### Daten
 
 "Rohmaterial", unverknüpfte Daten
 
@@ -30,7 +30,7 @@ Informationen mit intelligentem Netzwerk, Informationen wurden mit Kontext und E
 
 ## Datenbankmodelle
 
-#### Hierarchisches Datenbankmodell
+### Hierarchisches Datenbankmodell
 
 - Abbildung der realen Welt
 - Realisierung durch hierarchische Baumstruktur
@@ -89,7 +89,7 @@ Datenschutz kann nur duch Datensicherheit aufrecht erhalten werden.
 - American National Standards Institute (Normenaussschuss der USA)
 - Aufgeteilt in Datenbasis und DBMS (Datenbasis - Speicher für Daten, DBMS - Verwaltungssoftware)
 
-#### Fünf Funktionen eines Datenbanksystems
+### Fünf Funktionen eines Datenbanksystems
 
 - Datendefinition (Strukturaufbau)
 - Datenmanipulation (Datenabänderung)

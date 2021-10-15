@@ -3,7 +3,9 @@ layout: page
 title: "AWP"
 permalink: /awp/
 ---
-[files](../resources/fileindex.md)
+[Dateien](/files/#awp)\
+[Klassennotizbuch](https://cryptpad.fr/pad/#/2/pad/edit/a5yHproaBJN8nlJdmNrtfmSL/)\
+(Wird aber auch rein kopiert)
 
 - [1. Grundlagen](#1-grundlagen)
   - [LS 1.1 Daten und Datenquellen](#ls-11-daten-und-datenquellen)
