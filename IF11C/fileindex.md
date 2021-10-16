@@ -110,7 +110,3 @@ permalink: /files/
 [Menschenbild](PuG/resources/2.%20Das%20Grundgesetz/Das%20Menschenbild%20der%20GG/Das%20Menschenbild%20des%20GG.pdf)\
 [Lückentext](PuG/resources/2.%20Das%20Grundgesetz/Lückentext%20wie%20Deutschland%20zu%20seinem%20GG%20kam.pdf)\
 [Rätsel](PuG/resources/2.%20Das%20Grundgesetz/Rätsel%20GG.pdf)
-
----
-
-[Nach oben](#verzeichnis)

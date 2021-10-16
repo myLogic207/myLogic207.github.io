@@ -49,7 +49,3 @@ Die einzelnen hefteinträge sind eine eigene Seite so wie dieses hier, dateien s
 - [Spenden](https://ko-fi.com/myLogic207)
 - [Feedback](https://forms.gle/efXCc41bpAw2JcBz9)
 <!--- [FallbackFeedback](https://docs.google.com/forms/d/e/1FAIpQLSf2jT9Wh8k5JtnhZN9c0CMExNB_n3KsLWxeVb5TGHG73S_JEg/viewform?usp=sf_link) -->
-
----
-
-[nach oben](/)
