@@ -10,8 +10,10 @@ title: "Home"
 ## Eine täglich aktualieserte mitschrift der Berufschule (dateien inklusive)
 
 Freut mich, dass du auch mal hier vorbeischaust.
-Diese Repository ist **nur** zur internen verwendung der IF11C bestimmt, für das teilen mit anderen schuldest du mir automatisch einen Keks.
-Dieses GitHub-repo ist auf allen internetfähigen geräten abrufbar (wenns bei dir nicht geht, ist es mir egal). Die einzelnen hefteinträge sind ein *README.md* so wie dieses hier, hat den vorteil, dass es automatisch angezeigt wird.
+Diese Website ist **nur** zur internen verwendung der IF11C bestimmt, für das teilen mit anderen schuldest du mir automatisch einen Keks.
+Dieses progressive webapp (jaja, kannst dir das hier einfach als "app" speicher, schon geil ne) ist auf allen internetfähigen geräten abrufbar
+(wenns bei dir nicht geht, ist es mir egal; Funktioniert als webapp nach dem laden dann auch offline).
+Die einzelnen hefteinträge sind eine eigene Seite so wie dieses hier, dateien sind per links eingebunden oder können über [Dateien](/files) oben aufgerufen werden.
 
 ### **Lasst euch nicht von einem Lehrer erwischen, kann zur folge haben, dass ich es Löschen muss und das will ja keiner**
 
@@ -31,7 +33,7 @@ Dieses GitHub-repo ist auf allen internetfähigen geräten abrufbar (wenns bei d
 **Q**: Wie oft wird das aktualisiert?\
 **A**: Mindestens ein push am ende des tages, maximal einer nach jedem fach
 
-**Q**: Ey, du hast da nen fehler\
+**Q**: Ey, du hast da nen fehler *oder* ich hab da ne frage zu\
 **A**: Cool, hab ich nicht gesehen. Schreib mir ein [Feedback](https://forms.gle/efXCc41bpAw2JcBz9) oder ne [mail](mailto:lijon.fogel@gmail.com) *wo welcher inhalt* falsch ist und *wie es geändert werden soll*, ich bemühe mich das anzupassen (auch rechtschreibfehler)
 
 ## Quick links
