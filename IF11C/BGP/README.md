@@ -130,5 +130,3 @@ Service Operation:  Bereitstellung und einbringung von Services
 - Service-Catalogue-Management
 
 #### 2. Aufgabe
-
----

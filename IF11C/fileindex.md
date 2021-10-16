@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Dateien"
-permalink: /files/
+permalink: /files
 ---
 
 [Hauptmenü](/home/)
@@ -27,47 +27,47 @@ permalink: /files/
 
 ## AWP
 
-[Zusammenfassung block 1](./AWP/resources/Datenbanken_zusammenfassung.pdf)
+[Zusammenfassung block 1](../IF11C/AWP/resources/Datenbanken_zusammenfassung.pdf)
 
 ### Datenbanken
 
-[INF_PhasenDatenbankentwicklung](.\AWP\resources\Datenbanken\020_INF_PhasenDatenbankenwicklung_01b.pdf)\
-[AB_PhasenDatenbankentwicklung](.\AWP\resources\Datenbanken\030_AB_PhasenDatenbankenwicklung.pdf)\
-[AB_Anforderungsdefinition](.\AWP\resources\Datenbanken\040_AB_Anforderungsdefinition_SuS.pdf)
+[INF_PhasenDatenbankentwicklung](../IF11C/AWP/resources\Datenbanken/020_INF_PhasenDatenbankenwicklung_01b.pdf)\
+[AB_PhasenDatenbankentwicklung](../IF11C/AWP/resources/Datenbanken/030_AB_PhasenDatenbankenwicklung.pdf)\
+[AB_Anforderungsdefinition](../IF11C/AWP/resources/Datenbanken/040_AB_Anforderungsdefinition_SuS.pdf)
 
 ### Kundendaten
 
 <!-- [Serienbrief Vorlage](./AWP/resources/Serienbrief/Serienbrief_Werbeaktion_Vorlage.docx)\ -->
-[Kundendaten CSV](./AWP/resources/Serienbrief/Kundendaten/Nettmann_Kunden_V1.CSV)\
-[Kundendaten JSON](./AWP/resources/Serienbrief/Kundendaten/Nettmann_Kunden_V1.json)\
-[Kundendaten XML](./AWP/resources/Serienbrief/Kundendaten/Nettmann_Kunden_V1.xml)
+[Kundendaten CSV](../IF11C/AWP/resources/Serienbrief/Kundendaten/Nettmann_Kunden_V1.CSV)\
+[Kundendaten JSON](../IF11C/AWP/resources/Serienbrief/Kundendaten/Nettmann_Kunden_V1.json)\
+[Kundendaten XML](../IF11C/AWP/resources/Serienbrief/Kundendaten/Nettmann_Kunden_V1.xml)
 
 ---
 
 ## BGP
 
-[Services unterscheiden](./BGP/resources/1.1._Services_im_IT-Bereich_unterscheiden_S.pdf)\
-[Managements unterscheiden](./BGP/resources/1.2._Service-Management-Arten_unterscheiden_S.pdf)\
-[Unternehmensmuster](./BGP/resources/Unternehmensstruktur_der_Musterfirma_Datasol._DINA4.pdf)
+[Services unterscheiden](../IF11C/BGP/resources/1.1._Services_im_IT-Bereich_unterscheiden_S.pdf)\
+[Managements unterscheiden](../IF11C/BGP/resources/1.2._Service-Management-Arten_unterscheiden_S.pdf)\
+[Unternehmensmuster](../IF11C/BGP/resources/Unternehmensstruktur_der_Musterfirma_Datasol._DINA4.pdf)
 
 ---
 
 ## ENG
 
-[Vocablen_1](English/resources/Englisch_voc.pdf)\
-[prog_lang_1](English/resources/prog_lang_1.pdf)\
-[prog_lang_2](English/resources/prog_lang_2.pdf)\
-[prog_lang_3](English/resources/prog_lang_3.pdf)\
-[prog_lang_4](English/resources/prog_lang_4.pdf)\
-[prog_lang_solutions](English/resources/prog_lang_3-4_solution.pdf)\
-[prog_lang_voc](English/resources/prog_lang_voc.pdf)\
-[Höhrverstehen](English/resources/software%20problems%20listening.pdf)
+[Vocablen_1](../IF11C/English/resources/Englisch_voc.pdf)\
+[prog_lang_1](../IF11C/English/resources/prog_lang_1.pdf)\
+[prog_lang_2](../IF11C/English/resources/prog_lang_2.pdf)\
+[prog_lang_3](../IF11C/English/resources/prog_lang_3.pdf)\
+[prog_lang_4](../IF11C/English/resources/prog_lang_4.pdf)\
+[prog_lang_solutions](../IF11C/English/resources/prog_lang_3-4_solution.pdf)\
+[prog_lang_voc](../IF11C/English/resources/prog_lang_voc.pdf)\
+[Höhrverstehen](../IF11C/English/resources/software%20problems%20listening.pdf)
 
 ---
 
 ## ITS
 
-[Verlaufprotokoll](ITS/resources/Name-Vorname-Verlaufprotokoll-Server-Client.pdf)
+[Verlaufprotokoll](../IF11C/ITS/resources/Name-Vorname-Verlaufprotokoll-Server-Client.pdf)
 
 ---
 
@@ -75,9 +75,9 @@ permalink: /files/
 
 ### Blätter
 
-[Modellierung](ITT/resources/050_Vorlagen_fuer_Modellierungen.pptx)\
-[Unix-Grundbefehle](ITT/resources/120_AB_Unix-Grundbefehle_SuS.pdf)\
-[Linux-Grundlagen](ITT/resources/LI11SHerdt_Kapitel2_GrundlagenLinux.pdf)
+[Modellierung](../IF11C/ITT/resources/050_Vorlagen_fuer_Modellierungen.pptx)\
+[Unix-Grundbefehle](../IF11C/ITT/resources/120_AB_Unix-Grundbefehle_SuS.pdf)\
+[Linux-Grundlagen](../IF11C/ITT/resources/LI11SHerdt_Kapitel2_GrundlagenLinux.pdf)
 
 ### Programme
 
@@ -91,22 +91,22 @@ permalink: /files/
 
 ## PlusD
 
-[Grundlagen 1.1](PlusD/resources/1.%20Grundlagen/1.1.%20Grundlagen_S.pdf)
+[Grundlagen 1.1](../IF11C/PlusD/resources/1.%20Grundlagen/1.1.%20Grundlagen_S.pdf)
 
 ---
 
 ## PuG
 
-[Zusammenfassung Block 1](PuG/resources/zusammenfassung_block1.pdf)
+[Zusammenfassung Block 1](../IF11C/PuG/resources/zusammenfassung_block1.pdf)
 
 ### Der Staat
 
-[Arbeitsblatt](PuG/resources/1.%20Der%20Staat/Arbeitsblatt.pdf)\
+[Arbeitsblatt](../IF11C/PuG/resources/1.%20Der%20Staat/Arbeitsblatt.pdf)\
 [Aufgaben des Staats](PuG/resources/1.%20Der%20Staat/Aufgaben%20des%20Staats%20_%20AB.pdf)\
-[Insel-Szenario](PuG/resources/1.%20Der%20Staat/Insel-Szenario.pdf)
+[Insel-Szenario](../IF11C/PuG/resources/1.%20Der%20Staat/Insel-Szenario.pdf)
 
 ### Das Grundgesetz
 
-[Menschenbild](PuG/resources/2.%20Das%20Grundgesetz/Das%20Menschenbild%20der%20GG/Das%20Menschenbild%20des%20GG.pdf)\
-[Lückentext](PuG/resources/2.%20Das%20Grundgesetz/Lückentext%20wie%20Deutschland%20zu%20seinem%20GG%20kam.pdf)\
-[Rätsel](PuG/resources/2.%20Das%20Grundgesetz/Rätsel%20GG.pdf)
+[Menschenbild](../IF11C/PuG/resources/2.%20Das%20Grundgesetz/Das%20Menschenbild%20der%20GG/Das%20Menschenbild%20des%20GG.pdf)\
+[Lückentext](../IF11C/PuG/resources/2.%20Das%20Grundgesetz/Lückentext%20wie%20Deutschland%20zu%20seinem%20GG%20kam.pdf)\
+[Rätsel](../IF11C/PuG/resources/2.%20Das%20Grundgesetz/Rätsel%20GG.pdf)

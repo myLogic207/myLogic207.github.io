@@ -4,6 +4,7 @@ title: "PUG"
 permalink: /pug/
 ---
 [Zurück](/)\
+[Dateien](/files#pug)
 
 - [Der Rechtsstaat](#der-rechtsstaat)
 - [Grundgesetz](#grundgesetz)
@@ -128,15 +129,14 @@ In den ersten Artikeln (1 bis 19) des Grundgesetzes sind die Grundrechte der Bü
 
 **Menschrenrechte gelten für *alle Menschen***
 
-| **Freiheitsrechte**                                                                                                                                                                                                | **Soziale Rechte**                                                                                                                                                                                                                  |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|**Freiheitsrechte**| **Soziale Rechte**|
+|--------------|------------------|
 | - Freie Entfaltung der Persönlichleit und Freiheit der Person<br>- Glaubens- und Gewissensfreiheit<br>- Recht zur freien entfaltung<br>- Freiheit von Kunst, Wissenschaft, Forschung und Lehre<br>- Petitionsrecht | - Schutz von Ehe und Familie (Art. 6)<br>- Anspruch jeder Mutter auf Schutz und Fürsorge durch den Staat (Art. 6)<br>- Recht zur Errichtung von Privaten Schulen (Art. 7)<br>- Koalitionsfreiheit (Art. 9)<br>- Asylrecht (Art. 16) |
-| **Gleichheitsrechte**                                                                                                                                                                                              | **Unverletzlichkeitsrecht**                                                                                                                                                                                                         |
+|**Gleichheitsrechte**| **Unverletzlichkeitsrecht**|
 | - Gleichheit aller Menschen vor dem Gesetz<br>- Gleichberechtigung von Mann und Frau<br>- Chancengleichheit<br>- Gleichstellung von außerehelichen und ehelichen Kindern                                           | - Recht auf Leben und körperliche Unversehrtheit<br>- Gewährleistung von Eigentum<br>- Unverletzlichkeit des Brief-, Post- und Fernmeldegeheimnisses<br>- Unverletzlichkeit der Wohnung                                             |
 
 **Bürgerrechte gelten für *Deutsche und teils für ausländische Bürger***
-| **Grundrechtekatalog**                                                                                                                                                                                                 | **Weitere Rechte**                                                                                                                                                                                                                                                                                               |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - Versammlungsfreiheit<br>- Vereins- und Vereinigungsfreiheit<br>- Freizügigkeit<br>- Berufswahlfreiheit und freie Wahl der Ausbildungsstätte und des Arbeitsplatzes<br>- Ausbürgerungsverbot<br>- Auslieferungsverbot | - Widerstandsrecht (Art. 20)<br>- freie Parteiengründung (Art. 21)<br>- Recht auf Zugang zu öffentlichen Ämtern (Art. 33)<br>- Wahlrecht (Art. 38)<br>- Recht auf gesetzlichen Richter (Art. 101)<br>- Anspruch auf rechtliches Gehör vor Gericht (Art. 103)<br>- Schutz vor willkürlicher Verhaftung (Art. 104) |
 
----
+| **Grundrechtekatalog**| **Weitere Rechte** |
+|--------|-------------------------|
+| - Versammlungsfreiheit<br>- Vereins- und Vereinigungsfreiheit<br>- Freizügigkeit<br>- Berufswahlfreiheit und freie Wahl der Ausbildungsstätte und des Arbeitsplatzes<br>- Ausbürgerungsverbot<br>- Auslieferungsverbot | - Widerstandsrecht (Art. 20)<br>- freie Parteiengründung (Art. 21)<br>- Recht auf Zugang zu öffentlichen Ämtern (Art. 33)<br>- Wahlrecht (Art. 38)<br>- Recht auf gesetzlichen Richter (Art. 101)<br>- Anspruch auf rechtliches Gehör vor Gericht (Art. 103)<br>- Schutz vor willkürlicher Verhaftung (Art. 104) |

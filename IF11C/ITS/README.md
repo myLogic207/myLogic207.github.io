@@ -188,5 +188,3 @@ Das Abrufen einer IP-Adresse erfolgt nach einem festen vorgegebenen Schema. Das 
 |   5    | Felix             | 192.168.5.12 |  00054588    | Client |
 |        | Dominik           | 192.168.5.13 |  00054584    | Client |
 |        | Josiah            | 192.168.5.8  |  00054591    | Server |
-
----

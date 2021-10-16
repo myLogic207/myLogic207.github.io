@@ -153,5 +153,3 @@ Vorgehensweisen in der IT:
 - Medien
 
 #### 1.1.8 Projekt-Schneeflocke
-
----
