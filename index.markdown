@@ -51,6 +51,5 @@ Die einzelnen hefteinträge sind eine eigene Seite so wie dieses hier, dateien s
 <!--- [FallbackFeedback](https://docs.google.com/forms/d/e/1FAIpQLSf2jT9Wh8k5JtnhZN9c0CMExNB_n3KsLWxeVb5TGHG73S_JEg/viewform?usp=sf_link) -->
 
 ---
-<iframe id='kofiframe' src='https://ko-fi.com/mylogic207/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='mylogic207'></iframe>
 
 [nach oben](/)

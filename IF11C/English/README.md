@@ -54,6 +54,7 @@ Task: [Worksheet1](./resources/prog_lang_2.pdf)
 2. Using a computer **language**/~~set~~ of icons such as **Basic**/~~Windows~~ the programmer can **control**/~~help~~ what the computer ~~thinks~~/**does**
 
 ### 2. Rewrite the following programming steps in the correct order
+
 <!-- markdownlint-disable MD029 -->
 4. Analyse the problem
 5. Design the Programm
@@ -64,6 +65,7 @@ Task: [Worksheet1](./resources/prog_lang_2.pdf)
 10. Get feedback from the users
 11. Provide documentation (ongoing process)
 <!-- markdownlint-enable MD029 -->
+
 ### 3. Match the definitions
 
 Match the definitions on the right to the corresponding basic programming terms on the left
