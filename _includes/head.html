@@ -11,7 +11,7 @@
                 console.log("An active service worker found, no need to register");
             } else {
                 navigator.serviceWorker
-                    .register("{{ site.baseurl }}/service-worker.js", {
+                    .register("/service-worker.js", {
                         scope: "./"
                     })
                     .then(function(reg) {
