@@ -15,6 +15,7 @@ permalink: /eng/
 - [Programming Logic](#programming-logic)
   - [4. Structural elements](#4-structural-elements)
   - [5. Structoral elements](#5-structoral-elements)
+- [The Problem with Programming](#the-problem-with-programming)
 
 ## Programmin Languages - 04.10.2021
 
@@ -137,3 +138,17 @@ c. *Selection* executes one of two or more possible functions in a program depen
 | 7         | a          |
 | 8         | f          |
 | 9         | e          |
+
+## The Problem with Programming
+
+1. Why is most software so bad? <br>
+  c) Some software  is  actually  pretty  good  by  any standards.  Think  of  the  Mars Rovers, Google, and the Human Genome Project. That's quality software! On the  other  hand,  looking  at  "average"  pieces  of code  can  make  me  cry.  The structure  is  appalling, and  the  programmers  clearly  didn't  think  deeply about correctness,  algorithms,  data  structures,  or maintainability.  l  think  the  real problem is that we" (that is, we software developers) are in a permanent state of  emergency,  grasping  at  straws to  get  our  work  done.  We  perform  many minor miracles  through  trial  and  error,  excessive  use  of brute  force,  and  lots and lots of testing, but -so often -it's not enough.
+2. How can we fix the mess we are in? <br>
+  d)In  theory,  the  answer  is  simple:  educate  our software  developers  better,  use more-appropriate  design  methods,  and  design  for  flexibility  and  forthe  long haul.  Reward  correct, solid,  and  safe systems.  Punish  sloppiness.  In reality, that's  impossible.  People  reward  developers  who  deliver software  that  is cheap, buggy, and  first.  That's because people want fancy  new  gadgets  now.They  don't  want inconvenience,  don't  want  to  learn  new  ways  of interacting with their computers, don't want delays in delivery, and don't want to pay extra for quality.
+3. The idea behind C++ was that programmers would work harder in return for more efficient code. Today there are a lot of software developers and computers are very fast. Does this vitiate the point of C++?<br>
+  b) C++ has indeed become too “expert friendly” at a time where the degree of effective  formal  education  of  the  average  software  developer  has  declined. However, the solution is not to dumb down the programming languages but to use a variety of programming languages and to educate more experts.There have  to  be  languages  for  those  experts  to  use -C++  is  one  of  those languages.
+4. In retrospect, in designing C++, wasn’t your decision to trade off programmer efficiency, security, and software reliability for run time performance a fundamental mistake? <br>
+  f)Well,  l  don't  think  l  made  such  a  trade-off.  l  want elegant  and  efficient  code. Sometimes l get it. These dichotomies (between efficiency versus correctness, efficiency versus programmer time, efficiency versus high-level, et cetera.) are bogus.What l did do was to design C++ as first of all a systems programming language: l wanted to be able to write device drivers, embedded systems, and other code that needed to use hardware directly. Next, l wanted C++ to be a good language for designing tools.That required flexibility and performance, but  also  the  ability  toexpress  elegant interfaces.  My  view  was  that  to  do higher-level stuff, to build complete applications, you first needed to buy, build, or  borrow  libraries  providing  appropriate abstractions.  Often,  when  people have  trouble  with  C++,  the real  problem  is  that  they  don't  have  appropriate libraries -or that they can't find the libraries that are available.
+5. What do you regret the most? <br>
+  
+6. How do you account for the fact that C++ is both widely criticized and resented by many programmers but at the same time very broadly used? Why is it so successful? <br>
