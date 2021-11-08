@@ -8,7 +8,8 @@ permalink: /its/
 [Klassennotizbuch](https://ip-generation.de/Kip94IKYTnKIWyZXzWWyUw?both)
 
 - [LS 1.3: Active Directory](#ls-13-active-directory)
-- [LS 1.9: Automatisch verteilt: DHCP](#ls-19-automatisch-verteilt-dhcp)
+- [LS 1.6: Rechte und Berechtigungen](#ls-16-rechte-und-berechtigungen)
+- [LS 1.10: Automatisch verteilt: DHCP](#ls-110-automatisch-verteilt-dhcp)
   - [Gruppen Labor Herbst](#gruppen-labor-herbst)
   - [Gruppen Labor Graf](#gruppen-labor-graf)
 
@@ -105,7 +106,20 @@ und jeweils eine OU für die Abteilung**
 
 ![Aufgabe 2](https://rgw.noris.net/hedgedoc-prod/uploads/upload_fafe608fb51dfa686371e0c4c6ca4937.jpg)
 
-## [LS 1.9: Automatisch verteilt: DHCP](https://lernplattform.mebis.bayern.de/mod/page/view.php?id=35316070)
+## LS 1.6: Rechte und Berechtigungen
+
+[mebis](https://lernplattform.mebis.bayern.de/mod/page/view.php?id=35737949)
+
+|  Freigabe  |  NTFS  |
+| :--------: | :----: |
+| Jeder Voll | Rechte wie gewünscht einstellen |
+| Rechte Kummulativ: | |
+| z.B Jeder Voll <br> Azubi Lesen <br> => Vollzugriff | |
+| -> Sind beide Systeme ativ wirkt die größere Einschränkung | |
+
+## LS 1.10: Automatisch verteilt: DHCP
+
+[mebis](https://lernplattform.mebis.bayern.de/mod/page/view.php?id=35316070)
 
 **Vorteil**:
 
