@@ -3,6 +3,7 @@ layout: default
 title: "ENG"
 permalink: /eng/
 ---
+
 [Zurück](/)\
 [Dateien](/files#eng)
 
@@ -21,31 +22,20 @@ permalink: /eng/
 
 Task: [Worksheet1](./resources/prog_lang_2.pdf)
 
-| high-level langauges  | dates-developed | uses                                              | characterisitcs                                                                    | associated languages       |
-| --------------------- | --------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------- |
-| 1.                    | 59-61           | bussiness/adminitration                           | easy, english-like syntax                                                          |                            |
-| FORTRAN               | 54-57           | 2.                                                | supports use of formulas                                                           |                            |
-| Logo, APL Prolog, PL1 | 60-70           | varios                                            | no longer widely used                                                              |                            |
-| 3                     | 64              | teaching, general purpose                         | relatively easy                                                                    | Visual Basic               |
-| Pascal                | 68              | structured applications                           | 3rd gen language                                                                   | 4                          |
-| C                     | 5               | system programming                                | compact code, simple structure                                                     | C++/C#                     |
-| C++                   | 80's            | System programming, efficient hardware controller | 6                                                                                  | C/C#                       |
-| Visual Basic          | 94              | teaching, general applications                    | 7                                                                                  | Basic                      |
-| Java                  | 95              | 8                                                 | stand-alone program                                                                |                            |
-| Javascript            | 95              | create interactive webpages                       | 9                                                                                  | embedded in HTML documents |
-| Delphi                | 95              | 10                                                | visual Programming language                                                        | Pascal                     |
-| UML                   | 95              | modelling complex systems                         | unifies a number of object oriented languages, standardized collection of diagrams |                            |
-
-1. COBOL
-2. Scientific Programming
-3. Basic
-4. Turbo Pascal
-5. 1972
-6. Lightweight, versitile
-7. General Purpose (add-on) for Window apps
-8. General Purpose
-9. Embedded in HTML, user interactive
-10. Construct and Document artifacts
+| high-level langauges  | dates-developed  | uses            | characterisitcs           | associated languages |
+| --------------------- | ---------------- | --------------- | ------------------------- | -------------------- |
+| *COBOL*               | 59-61  | bussiness/adminitration   | easy, english-like syntax |                      |
+| FORTRAN               | 54-57  | *Scientific Programming*  | supports use of formulas  |                      |
+| Logo, APL Prolog, PL1 | 60-70  | varios                    | no longer widely used     |                      |
+| *Basic*               | 1964   | teaching, general purpose | relatively easy           | Visual Basic         |
+| Pascal                | 1968   | structured applications   | 3rd gen language          | *Turbo Pascal*       |
+| C                     | *1972* | system programming        | compact code, simple structure | C++/C#          |
+| C++                   | 1980's | System programming, efficient hardware controller | *Lightweight, versitile* | C/C#                 |
+| Visual Basic          | 1994   | teaching, general applications | *General Purpose (add-on) for Window apps* | Basic                |
+| Java                  | 1995   | *General Purpose*  | stand-alone program       |                      |
+| Javascript            | 1995   |create interactive webpages| *Embedded in HTML, user interactive* | embedded in HTML documents |
+| Delphi                | 1995   | *Construct and Document artifacts* | visual Programming language | Pascal             |
+| UML                   | 1995   | modelling complex systems | unifies a number of object oriented languages, standardized collection of diagrams | |
 
 ## [Worksheet](./respurces/prog_lang_3.pdf)
 
@@ -57,6 +47,7 @@ Task: [Worksheet1](./resources/prog_lang_2.pdf)
 ### 2. Rewrite the following programming steps in the correct order
 
 <!-- markdownlint-disable MD029 -->
+
 4. Analyse the problem
 5. Design the Programm
 6. Write the Code
@@ -71,47 +62,47 @@ Task: [Worksheet1](./resources/prog_lang_2.pdf)
 
 Match the definitions on the right to the corresponding basic programming terms on the left
 
-| Term | Definition |
-| ---- | ---------- |
-| 1. algorithm | b |
-| 2. comments  | d |
-| 3. variable  | e |
-| 4. Data      | g |
-| 5. Coding    | a |
-| 6. degubbing | f |
-| 7. structogramm/flowchart| c |
+| Term                      | Definition |
+| ------------------------- | ---------- |
+| 1. algorithm              | b          |
+| 2. comments               | d          |
+| 3. variable               | e          |
+| 4. Data                   | g          |
+| 5. Coding                 | a          |
+| 6. degubbing              | f          |
+| 7. structogramm/flowchart | c          |
 
 ## Listening Comprehension
 
-|                                                                                                    |true|false|
-| -------------------------------------------------------------------------------------------------- | -- | --- |
-| 1. Hothouse is a firm which produces design software.                                              |    |  X  |
-| 2. Sleekware was written for a single, specific purpose.                                           |    |  X  |
-| 3. Tom blames faulty hardware for Sleekware’s printing problems.                                   |  X |     |
-| 4. Jerry reports that the people at Hothouse are completely dissatisfied with the Sleekware program.|   |  X  |
-| 5. Tom is annoyed that the Hothouse people didn’t follow his hardware recommendations.             |  X |     |
-|6. The Hothouse people were eager to buy Sleekware.                                                 |    |  X  |
-|7. There is nothing Tom can do or suggest to help Jerry with the problem.                           |    |  X  |
+|                                                                                                      | true | false |
+| ---------------------------------------------------------------------------------------------------- | ---- | ----- |
+| 1. Hothouse is a firm which produces design software.                                                |      | X     |
+| 2. Sleekware was written for a single, specific purpose.                                             |      | X     |
+| 3. Tom blames faulty hardware for Sleekware’s printing problems.                                     | X    |       |
+| 4. Jerry reports that the people at Hothouse are completely dissatisfied with the Sleekware program. |      | X     |
+| 5. Tom is annoyed that the Hothouse people didn’t follow his hardware recommendations.               | X    |       |
+| 6. The Hothouse people were eager to buy Sleekware.                                                  |      | X     |
+| 7. There is nothing Tom can do or suggest to help Jerry with the problem.                            |      | X     |
 
 **Jerry**: Uh, Tom have you got a minute?\
 **Tom**: Well …\
 **Jerry**: Look, I know you’re busy and I wouldn’t bother you if the Hothouse people weren’t breaking down my door, but …\
-**Tom**: That’s OK, Jerry. No problem. Come in and have a seat. I suppose it’s about the appliance design software we put together for them, that *Multipurpose* program.\
+**Tom**: That’s OK, Jerry. No problem. Come in and have a seat. I suppose it’s about the appliance design software we put together for them, that _Multipurpose_ program.\
 **Jerry**: That’s right – Sleekware we called it.\
 **Tom**: So?\
-**Jerry**: Well, they really like Sleekware’s *user interface* - it’s faster and more stable than the parent program. They only wish they’d had it all along. It would have saved them a lot of time and *hassle*. The thing is…\
+**Jerry**: Well, they really like Sleekware’s _user interface_ - it’s faster and more stable than the parent program. They only wish they’d had it all along. It would have saved them a lot of time and _hassle_. The thing is…\
 **Tom**: Out with it.\
-**Jerry**: It’s the product planning part of the program. When they try to print their cost calculations they get *garbled output*.\
-**Tom**: The printing routines we used are absolutely standard and were *thoroughly* tested.\
-**Jerry**: I realize that but I’m getting a lot of *flak* from these Hothouse people – hotheads would be a better name for them. Can’t you do some kind of work around?\
-**Tom**: That’s not the point. It would be a waste of time and energy to try and doctor up a piece of perfectly sound software. When we were there the program ran *smoothly* and they had no complaints. The question is: Have they changed anything since?\
+**Jerry**: It’s the product planning part of the program. When they try to print their cost calculations they get _garbled output_.\
+**Tom**: The printing routines we used are absolutely standard and were _thoroughly_ tested.\
+**Jerry**: I realize that but I’m getting a lot of _flak_ from these Hothouse people – hotheads would be a better name for them. Can’t you do some kind of work around?\
+**Tom**: That’s not the point. It would be a waste of time and energy to try and doctor up a piece of perfectly sound software. When we were there the program ran _smoothly_ and they had no complaints. The question is: Have they changed anything since?\
 **Jerry**: Yes, you remember they said they wanted to invest in a couple of new printers and print servers.\
 **Tom**: And what did they end up buying?\
 **Jerry**: Quickie Print.\
-**Tom**: Well, no wonder they’re having trouble. I *recommended* Jewel Packets. If they’d followed my advice and invested a few more hundred in decent hardware they wouldn’t be having these problems. We should have *pushed the point* more.\
-**Jerry**: Maybe, but it was a hard sell. If we’d made it a *condition*, I’m afraid we would have *lost the contract*.\
+**Tom**: Well, no wonder they’re having trouble. I _recommended_ Jewel Packets. If they’d followed my advice and invested a few more hundred in decent hardware they wouldn’t be having these problems. We should have _pushed the point_ more.\
+**Jerry**: Maybe, but it was a hard sell. If we’d made it a _condition_, I’m afraid we would have _lost the contract_.\
 **Tom**: Could be but it’s too late now. My only suggestion at this point would be to lend them a printer and print server. If the software runs smoothly – and I’m sure it will – it would prove I’m right and that it’s their hardware and not our program that’s at fault.\
-**Jerry**: Good, that’s a  fair offer  - I’ll get back to you on that.
+**Jerry**: Good, that’s a fair offer - I’ll get back to you on that.
 
 ## Programming Logic
 
@@ -121,14 +112,14 @@ Match the definitions on the right to the corresponding basic programming terms 
 
 Every program logic consists of three main structural elements: Sequenz, Selection and Iteration (loop). Which is which?
 
-a. *Sequenz* is a series of command wherby B automatically and necessarily follows A.\
-b. *Iteration (loop)* repeats a given sequenz of commands as long as given conditions exists or until a given condition is fullfilled.\
-c. *Selection* executes one of two or more possible functions in a program depending on whatever a given condition has been fulfilled or not
+a. _Sequenz_ is a series of command wherby B automatically and necessarily follows A.\
+b. _Iteration (loop)_ repeats a given sequenz of commands as long as given conditions exists or until a given condition is fullfilled.\
+c. _Selection_ executes one of two or more possible functions in a program depending on whatever a given condition has been fulfilled or not
 
 ### 5. Structoral elements
 
 | Structure | Definition |
-|-----------|------------|
+| --------- | ---------- |
 | 1         | b          |
 | 2         | h          |
 | 3         | c          |
@@ -142,13 +133,13 @@ c. *Selection* executes one of two or more possible functions in a program depen
 ## The Problem with Programming
 
 1. Why is most software so bad? <br>
-  c) Some software  is  actually  pretty  good  by  any standards.  Think  of  the  Mars Rovers, Google, and the Human Genome Project. That's quality software! On the  other  hand,  looking  at  "average"  pieces  of code  can  make  me  cry.  The structure  is  appalling, and  the  programmers  clearly  didn't  think  deeply about correctness,  algorithms,  data  structures,  or maintainability.  l  think  the  real problem is that we" (that is, we software developers) are in a permanent state of  emergency,  grasping  at  straws to  get  our  work  done.  We  perform  many minor miracles  through  trial  and  error,  excessive  use  of brute  force,  and  lots and lots of testing, but -so often -it's not enough.
+   c) Some software is actually pretty good by any standards. Think of the Mars Rovers, Google, and the Human Genome Project. That's quality software! On the other hand, looking at "average" pieces of code can make me cry. The structure is appalling, and the programmers clearly didn't think deeply about correctness, algorithms, data structures, or maintainability. l think the real problem is that we" (that is, we software developers) are in a permanent state of emergency, grasping at straws to get our work done. We perform many minor miracles through trial and error, excessive use of brute force, and lots and lots of testing, but -so often -it's not enough.
 2. How can we fix the mess we are in? <br>
-  d)In  theory,  the  answer  is  simple:  educate  our software  developers  better,  use more-appropriate  design  methods,  and  design  for  flexibility  and  forthe  long haul.  Reward  correct, solid,  and  safe systems.  Punish  sloppiness.  In reality, that's  impossible.  People  reward  developers  who  deliver software  that  is cheap, buggy, and  first.  That's because people want fancy  new  gadgets  now.They  don't  want inconvenience,  don't  want  to  learn  new  ways  of interacting with their computers, don't want delays in delivery, and don't want to pay extra for quality.
+   d)In theory, the answer is simple: educate our software developers better, use more-appropriate design methods, and design for flexibility and forthe long haul. Reward correct, solid, and safe systems. Punish sloppiness. In reality, that's impossible. People reward developers who deliver software that is cheap, buggy, and first. That's because people want fancy new gadgets now.They don't want inconvenience, don't want to learn new ways of interacting with their computers, don't want delays in delivery, and don't want to pay extra for quality.
 3. The idea behind C++ was that programmers would work harder in return for more efficient code. Today there are a lot of software developers and computers are very fast. Does this vitiate the point of C++?<br>
-  b) C++ has indeed become too “expert friendly” at a time where the degree of effective  formal  education  of  the  average  software  developer  has  declined. However, the solution is not to dumb down the programming languages but to use a variety of programming languages and to educate more experts.There have  to  be  languages  for  those  experts  to  use -C++  is  one  of  those languages.
+   b) C++ has indeed become too “expert friendly” at a time where the degree of effective formal education of the average software developer has declined. However, the solution is not to dumb down the programming languages but to use a variety of programming languages and to educate more experts.There have to be languages for those experts to use -C++ is one of those languages.
 4. In retrospect, in designing C++, wasn’t your decision to trade off programmer efficiency, security, and software reliability for run time performance a fundamental mistake? <br>
-  f)Well,  l  don't  think  l  made  such  a  trade-off.  l  want elegant  and  efficient  code. Sometimes l get it. These dichotomies (between efficiency versus correctness, efficiency versus programmer time, efficiency versus high-level, et cetera.) are bogus.What l did do was to design C++ as first of all a systems programming language: l wanted to be able to write device drivers, embedded systems, and other code that needed to use hardware directly. Next, l wanted C++ to be a good language for designing tools.That required flexibility and performance, but  also  the  ability  toexpress  elegant interfaces.  My  view  was  that  to  do higher-level stuff, to build complete applications, you first needed to buy, build, or  borrow  libraries  providing  appropriate abstractions.  Often,  when  people have  trouble  with  C++,  the real  problem  is  that  they  don't  have  appropriate libraries -or that they can't find the libraries that are available.
+   f)Well, l don't think l made such a trade-off. l want elegant and efficient code. Sometimes l get it. These dichotomies (between efficiency versus correctness, efficiency versus programmer time, efficiency versus high-level, et cetera.) are bogus.What l did do was to design C++ as first of all a systems programming language: l wanted to be able to write device drivers, embedded systems, and other code that needed to use hardware directly. Next, l wanted C++ to be a good language for designing tools.That required flexibility and performance, but also the ability toexpress elegant interfaces. My view was that to do higher-level stuff, to build complete applications, you first needed to buy, build, or borrow libraries providing appropriate abstractions. Often, when people have trouble with C++, the real problem is that they don't have appropriate libraries -or that they can't find the libraries that are available.
 5. What do you regret the most? <br>
-  
+
 6. How do you account for the fact that C++ is both widely criticized and resented by many programmers but at the same time very broadly used? Why is it so successful? <br>
