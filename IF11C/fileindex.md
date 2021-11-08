@@ -55,12 +55,12 @@ permalink: /files
 ## ENG
 
 [Vocablen_1](../IF11C/English/resources/Englisch_voc.pdf)\
-[prog_lang_1](../IF11C/English/resources/prog_lang_1.pdf)\
-[prog_lang_2](../IF11C/English/resources/prog_lang_2.pdf)\
-[prog_lang_3](../IF11C/English/resources/prog_lang_3.pdf)\
-[prog_lang_4](../IF11C/English/resources/prog_lang_4.pdf)\
-[prog_lang_solutions](../IF11C/English/resources/prog_lang_3-4_solution.pdf)\
-[prog_lang_voc](../IF11C/English/resources/prog_lang_voc.pdf)\
+[prog_lang_1](../IF11C/English/resources/prog_lang/prog_lang_1.pdf)\
+[prog_lang_2](../IF11C/English/resources/prog_lang/prog_lang_2.pdf)\
+[prog_lang_3](../IF11C/English/resources/prog_lang/prog_lang_3.pdf)\
+[prog_lang_4](../IF11C/English/resources/prog_lang/prog_lang_4.pdf)\
+[prog_lang_solutions](../IF11C/English/resources/prog_lang/prog_lang_3-4_solution.pdf)\
+[prog_lang_voc](../IF11C/English/resources/prog_lang/prog_lang_voc.pdf)\
 [Höhrverstehen](../IF11C/English/resources/software%20problems%20listening.pdf)
 
 ---

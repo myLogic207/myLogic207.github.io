@@ -30,7 +30,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://myLogic207.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: myLogic207
 github_username:  myLogic207
-copyright: "Copyright © 2021 CFVR. All rights reserved."
+copyright: "Geistiges Eigentum Lijon Fogel - Teilen nur gegen Kaffee und Kekse"
 
 # Build settings
 theme: minima
