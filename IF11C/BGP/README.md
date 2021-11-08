@@ -69,9 +69,7 @@ ITIL4: Mittel, um die gemeinsame Wertschöpfung (Value-Co-Creation) zu ermöglic
 
 ### 1.2.1 Service Management
 
-```t
-"Managen bedeutet, ein umfangreiches Fachgebiet besonders gut zu organisieren und zu bewältigen und aus den Inputs einen möglichst guten Output zu erzeugen"
-```
+**"Managen bedeutet, ein umfangreiches Fachgebiet besonders gut zu organisieren und zu bewältigen und aus den Inputs einen möglichst guten Output zu erzeugen"**
 
 ### 1.2.2 Eintelung in Phasen nach ITIL Standard 3
 
