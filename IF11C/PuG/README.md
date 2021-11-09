@@ -12,6 +12,7 @@ permalink: /pug/
   - [Struktur des Grundgesetzes](#struktur-des-grundgesetzes)
     - [Das Grundgesetzt](#das-grundgesetzt)
 - [Das Menschenbild des Grundgesetzes und die Grundrechte](#das-menschenbild-des-grundgesetzes-und-die-grundrechte)
+- [Grundgesetzprinzipien](#grundgesetzprinzipien)
 
 ## Der Rechtsstaat
 
@@ -123,8 +124,6 @@ In den ersten Artikeln (1 bis 19) des Grundgesetzes sind die Grundrechte der Bü
 | ----------- | - | ----------- | - | ----------- | - | ----------- | - | ----------- | - | ----------- | - | ----------- | - | ----------- | - | --------------- |
 | **A** |   | **B** |   | **C** |   | **D** |   | **E** |   | **F** |   | **G** |   | **H** |   |                 |
 
----
-
 ## Das Menschenbild des Grundgesetzes und die Grundrechte
 
 **Menschrenrechte gelten für *alle Menschen***
@@ -140,3 +139,18 @@ In den ersten Artikeln (1 bis 19) des Grundgesetzes sind die Grundrechte der Bü
 | **Grundrechtekatalog**| **Weitere Rechte** |
 |--------|-------------------------|
 | - Versammlungsfreiheit<br>- Vereins- und Vereinigungsfreiheit<br>- Freizügigkeit<br>- Berufswahlfreiheit und freie Wahl der Ausbildungsstätte und des Arbeitsplatzes<br>- Ausbürgerungsverbot<br>- Auslieferungsverbot | - Widerstandsrecht (Art. 20)<br>- freie Parteiengründung (Art. 21)<br>- Recht auf Zugang zu öffentlichen Ämtern (Art. 33)<br>- Wahlrecht (Art. 38)<br>- Recht auf gesetzlichen Richter (Art. 101)<br>- Anspruch auf rechtliches Gehör vor Gericht (Art. 103)<br>- Schutz vor willkürlicher Verhaftung (Art. 104) |
+
+## Grundgesetzprinzipien
+
+1. Erstellen Sie eine tebellarische Übersicht zu den sechs Grundgesetzprinzipien nach folgeden Merkmalen: Prinzip, Kurzbeschreibung, konkretes Beispiel(siehe Tabelle unten)
+
+| Prinzip | Kurzbeschreibung | Beispiel |
+| :-----: | :--------------: | :------: |
+| Demokratie | - Alle Staatsgewalt geht vom volk aus <br> - Entscheidungen werden duch anhand eines **Mehrheitsprinzips** getroffen (z.B. Abstimmungen im Bundestag, Volksentschide etc.) <br> Aktiver Minderheitenschutz | Bundestagswahlen |
+| Bundestaatlichkeit | - Deutschland besteht aus 16 Bundesstaaten <br> - Alle Bundesstaaten verfügen über eigene Gesetzgebung und eine eigene Landesregierung | Verschiedene schulische Abschlussprüfungen in verschiedenen Bundesländern |
+| Rechtsstaatlichkeit | - Rechtssicherheit - keine Rückwirkende Anwendung von Gesetzen <br> - Rechtsgleichheit - jeder Mensch ist vor dem Gesetz gleich <br> - Rechtsunabhängigkeit - Gereichte entscheiden unabgängig vom staat | Racial Profiling/Polizeigewalt ist gegen das Gesetz Rechtssicherheit Polizeigewalt |
+| Gewaltenteilung | - vertikale und horizontale Telung politscher Macht | Die Polizei kann mich zwar festnehmen, aber nicht verurteilen |
+| Sozialstaatlichkeit | - Ziel: Sozialer Frieden <br> - Mittel: Sozialverischerungen & Mitbestimmungsrechte | ALGI & ALGII, Bafög, Recht auf JAV, Betriebsrat etc. |
+| Widerstandsrechte | - Ist die *verfassungsrechtliche Grundordnung* in Gefahr, so darf das Volk Widerstand leisten <br> - Voraussetzung: *Gerichte und Parlamente* sind nicht mehr handlungsfähig <br> -**Problem: Abschaffung des GG durch antidemokratische Kräfte führt auch zum Verlust des Widerstandsrecht** | Gewaltvolle Proteste bei dem Versuch der Machtergreifung einer antidemokratischen Partei, die bereites Gerichte eingenommen hat zu verhindern |
+
+1. Erläutern Sie mithilfe der Grafik das Zusammenspiel zwischen Verpflichtung des Einzelnen und sozialer Verantwortung des Staates
