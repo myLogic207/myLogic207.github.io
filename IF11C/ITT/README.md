@@ -5,8 +5,8 @@ permalink: /itt/
 ---
 [Zurück](/)\
 [Dateien](/files#itt)\
-[Mitschrift](https://lernplattform.mebis.bayern.de/mod/url/view.php?id=34985213)\
-(Wird reinkopiert)
+[Mitschrift](https://docs.google.com/document/d/1I6zBz2cM4uV0Hzi5TliMU-tyylGswI217WQqIjOcaFM/edit?usp=sharing)\
+(Wird reinkopiert, Bilder eher nicht so)
 
 - [Wie realisieren wir die Torüberwachung des AHN?](#wie-realisieren-wir-die-torüberwachung-des-ahn)
 - [Unterschied Lastenheft - Pflichtenheft](#unterschied-lastenheft---pflichtenheft)
@@ -17,6 +17,7 @@ permalink: /itt/
   - [Härtung](#härtung)
 - [Besonderheiten/Unterschiede zwischen Linux und Windows](#besonderheitenunterschiede-zwischen-linux-und-windows)
   - [Linuxgrundlagen](#linuxgrundlagen)
+- [Laden des Python-Programm “Werkstatttore” auf den Raspberry Pi](#laden-des-python-programm-werkstatttore-auf-den-raspberry-pi)
 
 ## Wie realisieren wir die Torüberwachung des AHN?
 
@@ -46,7 +47,7 @@ Pflichtenheft: Umsetzung der Auftragnehmers, die an den Auftraggeber zurückgesc
 
 ### Beispiel für CP-Teilsysteme (Smart City Light Barcelona)
 
-![CP-Example](./image/README/cp-example.png)
+![CP-Example](./image/cp-example.png)
 
 Ein sehr gutes Beispiel, dass Teilsysteme untereinander kommunizieren!
 
@@ -80,25 +81,57 @@ Welche grundlegenden Arten von Befehlen sollte man in jedem Betriebssystem kenne
 
 1. Welche Benutzer sind auf dem System angemeldet?\
    last
-2. Mit welcher Kennung sind sie angemeldet?
+2. Mit welcher Kennung sind sie angemeldet?\
   whoami
-3. An welchem Verzeichnispfad befinden Sie sich gerad?
+3. An welchem Verzeichnispfad befinden Sie sich gerade?\
   pwd
 4. Lassen Sie sich den Inhalt des aktuellen Verzeichnisses anzeigen!\
   ls
 5. Erstellen Sie das Unterverzeichnis cpsim aktuellen Verzeichnis und überprüfen Sie,ob dies erstellt wurde\
   mkdir cps/
 6. Welche Unterverzeichnisse gib es in /Documents?\
-   ls
-7. Erstellen Sie im Verzeichnis /Documents/cpseine Datei namens b3.txtmit dem Inhalt „Hallo Welt!“\
+   cd /documents; ls -> Keine
+7. Erstellen Sie im Verzeichnis /Documents/cps eine Datei namens *b3.txt* mit dem Inhalt „Hallo Welt!“\
 
-| variante 1 | variante 2 |
-| --- | ---|
-| touch b3.txt <br> vi b3.txt <br> ESC i <br> Hallo Welt! <br> ESC :wq | Cat > b3.txt <br> Hallo Welt! <br> Eingabe CTRL+C |
+    | variante 1 | variante 2 |
+    | --- | ---|
+    | touch b3.txt <br> vi b3.txt <br> ESC i <br> Hallo Welt! <br> ESC :wq | Cat > b3.txt <br> Hallo Welt! <br> Eingabe CTRL+C |
 
-1. Benennen Sie die Datei b3.txtin les.txt um:\
+8. Benennen Sie die Datei b3.txtin les.txt um:\
    mv b3.txt les.txt
-2. Erstellen Sie eine Kopie der Datei les.txtund benennen Sie diese les-kopie.txt\
+9. Erstellen Sie eine Kopie der Datei les.txtund benennen Sie diese les-kopie.txt\
     cp les.txt les-lopie.txt
-3. Wie müssen Sie den Befehl anpassen, wenn die Kopie les-kopie.txtim übergeordneten Ordner kopiert werden soll?\
-    cp lex.txt ../les-kopie.txt
+10. Wie müssen Sie den Befehl anpassen, wenn die Kopie les-kopie.txtim übergeordneten Ordner kopiert werden soll?\
+  cp lex.txt ../les-kopie.txt
+11. Wechseln Sie in den übergeordneten Ordner und benennen Sie die Datei *les-kopie.txt* in *les-kopie2.txt* um! Verschieben Sie die Datei anschließend in den Ordner /Documentsunter ihren User!\
+  cd ..; mv les-kopie.txt Documents/les-kopie-verschoben.txt
+12. Löschen Sie die Datei les-kopie-verschoben.txt\
+  rm les-kopie-verschoben.txt
+13. Löschen Sie nun das das Verzeichnis cps\
+  cd ..; rm -r cps
+14. MarkierenSie sich den Ordner Documents um schneller dorthin springen zu können (Lesezeichnen setzen).\
+  pushd Documents; popd
+15. Lassen Sie die Benutzerechte der Datei les.txtanzeigen! Welche Rechte sind vergeben?\
+  ls -lah (-rw-rw-r-- 664)
+16. Ändern Sie die Benutzerrechte des Eigentümers, der Gruppe und aller anderen der Datei les.txtauf nur lesen!\
+  chmod 444 les.txt
+17. Wie lautet die IPv4-Adresse Ihres Systems? \
+  ifconfig
+18. Wie lautet die IPv4-Adresse zu dem Hostnamen www.b3-fuerth.de?\
+  nslookup www.b3-f.de
+19. Öffnen Sie eine Root-Shell\
+  sudo -s
+  
+## Laden des Python-Programm “Werkstatttore” auf den Raspberry Pi
+
+1. Verbindung testen
+-->OSI 1 NW-Kabel angeschlossen
+-->OSI 2 Link vorhanden -->LED
+-->OSI 3 Raspi 192.168.2.59/24 im gleichen Subnetz wie Laptop 
+
+2. Datei mit Filezilla oder Swish auf den Rasbperry übertragen
+-->Verbindung über SFTP und Benutzer pi (PW schueler) mit Verzeichnis /home/pi
+herstellen
+
+3. Abändern des Python Programms direkt auf dem Raspi mit Hilfe von VNC
+-->Python Programm öffnen und die GPIOs an das Bernhardt-Board anpassen
