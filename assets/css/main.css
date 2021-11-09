@@ -252,6 +252,7 @@ table td { border: 1px solid #adb5bd; }
   color: #adb5bd;
   font-weight: 700;
   cursor: pointer;
+  border-radius: 100px;
   -webkit-border-radius: 100px;
   display: flex!important;
   height: 46px;

@@ -63,9 +63,9 @@ permalink: /files
 [prog_lang_voc](../IF11C/English/resources/prog_lang/prog_lang_voc.pdf)\
 [Höhrverstehen](../IF11C/English/resources/software%20problems%20listening.pdf)
 
-[Interview](English/resources/progr%20lang%20interview.pdf)
-[Höhrverstehen fehler](English/resources/prg_lng_listening/__prg_lng_listening_Error.txt)
-[Hörverstehen all fehler](English/resources/prg_lng_listening/___All_Errors.txt)
+[Interview](../IF11C/English/resources/progr%20lang%20interview.pdf)
+[Höhrverstehen fehler](../IF11C/English/resources/prg_lng_listening/__prg_lng_listening_Error.txt)
+[Hörverstehen all fehler](../IF11C/English/resources/prg_lng_listening/___All_Errors.txt)
 
 ---
 
@@ -113,6 +113,6 @@ permalink: /files
 
 [Menschenbild](../IF11C/PuG/resources/2.%20Das%20Grundgesetz/Das%20Menschenbild%20der%20GG/Das%20Menschenbild%20des%20GG.pdf)\
 [Lückentext](../IF11C/PuG/resources/2.%20Das%20Grundgesetz/Lückentext%20wie%20Deutschland%20zu%20seinem%20GG%20kam.pdf)\
-[Rätsel](../IF11C/PuG/resources/2.%20Das%20Grundgesetz/Rätsel%20GG.pdf)
-[Grundgesetzprinzipien](PuG/resources/2.%20Das%20Grundgesetz/Grundordnung%20BRD/Grundgesetzprinzipien.pdf)
-[Gewaltenteilung](PuG/resources/2.%20Das%20Grundgesetz/Grundordnung%20BRD/AB_SK11_Gewaltenteilung.pdf)
+[Rätsel](../IF11C/PuG/resources/2.%20Das%20Grundgesetz/Rätsel%20GG.pdf)\
+[Grundgesetzprinzipien](../IF11C/PuG/resources/2.%20Das%20Grundgesetz/Grundordnung%20BRD/Grundgesetzprinzipien.pdf)\
+[Gewaltenteilung](../IF11C/PuG/resources/2.%20Das%20Grundgesetz/Grundordnung%20BRD/AB_SK11_Gewaltenteilung.pdf)

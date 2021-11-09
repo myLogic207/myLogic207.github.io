@@ -1,6 +1,6 @@
 {
     "lang": "de",
-    "name": "Logics Berufschulrepo",
+    "name": "Logics Berufschulrepo v2.0.1",
     "short_name": "IF11C",
     "start_url": "/",
     "orientation": "natural",
@@ -14,7 +14,7 @@
         "sizes": "512x512",
         "type": "image/png"
     }],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#1f242A",
+    "background_color": "#1f242A",
     "display": "standalone"
 }
