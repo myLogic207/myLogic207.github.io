@@ -12,16 +12,12 @@ permalink: /awp/
   - [LS 1.1 Daten und Datenquellen](#ls-11-daten-und-datenquellen)
   - [LS 1.2 Datenbank Grundlagen](#ls-12-datenbank-grundlagen)
 - [2. Datenmodellierung](#2-datenmodellierung)
-- [2.1 Phasen der Datenmodelierung](#21-phasen-der-datenmodelierung)
-  - [Handlungsschritte](#handlungsschritte)
+  - [2.1 Phasen der Datenmodelierung](#21-phasen-der-datenmodelierung)
+    - [Handlungsschritte](#handlungsschritte)
     - [1. Informieren Sie sich über die einzelnen Phasen der Datenbankentwicklung mit Hilfe des Infotextes](#1-informieren-sie-sich-über-die-einzelnen-phasen-der-datenbankentwicklung-mit-hilfe-des-infotextes)
     - [2. Schreiben Sie Tätigkeiten und Ziele der einzelnen Phasen in der Übersicht zusammen](#2-schreiben-sie-tätigkeiten-und-ziele-der-einzelnen-phasen-in-der-übersicht-zusammen)
-      - [1. Anforderungsanalyse](#1-anforderungsanalyse)
-      - [2. Konzeptioneller Entwurf](#2-konzeptioneller-entwurf)
-      - [3. Logischer Entwurf](#3-logischer-entwurf)
-      - [4. Physische Phase](#4-physische-phase)
-  - [3. Präsentieren Sie Ihre Ergebnisse](#3-präsentieren-sie-ihre-ergebnisse)
-- [3. SQL](#3-sql)
+    - [3. Präsentieren Sie Ihre Ergebnisse](#3-präsentieren-sie-ihre-ergebnisse)
+  - [2.2.1 ER-Diagramm](#221-er-diagramm)
 
 ## 1. Grundlagen
 
@@ -77,7 +73,7 @@ Einstieg Lernsituation: Warum nutzen wir Datenbanken?
 
 ## 2. Datenmodellierung
 
-## 2.1 Phasen der Datenmodelierung
+### 2.1 Phasen der Datenmodelierung
 
 [mebis](https://lernplattform.mebis.bayern.de/course/view.php?id=1162649&section=16#tabs-tree-start)
 
@@ -88,7 +84,7 @@ Einstieg Lernsituation: Warum nutzen wir Datenbanken?
 - GUI planen
 - Zugriffsverwaltung/Rechtekonzept
 
-### Handlungsschritte
+#### Handlungsschritte
 
 #### 1. Informieren Sie sich über die einzelnen Phasen der Datenbankentwicklung mit Hilfe des [Infotextes](./resources/Datenbanken/020_INF_PhasenDatenbankenwicklung_01b.pdf)
 
@@ -96,45 +92,38 @@ Einstieg Lernsituation: Warum nutzen wir Datenbanken?
 
   Phasen anhand [dieses Modelles](./resources/Datenbanken/030_AB_PhasenDatenbankenwicklung.pdf)
 
-##### 1. Anforderungsanalyse
-
-- **Tätigkeiten**
-  - Datenformat definieren
-  - Ziel der Datenbank bestimmen
-  - Anforderungen der Benutzer definieren und Klassifizieren
-  - Datenbasis bestimmen
-- **Dokumente**
-  - Lastenheft/Pflichtenheft
-
-##### 2. Konzeptioneller Entwurf
-
-- **Tätigkeiten**
-  - Definition der Datenobjekte mit deren Attributen
-  - Bestimmung der Beziehungen (zwischen den Daten)
-  - Festlegung des Datanbankmodells
-  - Erstellung des ER-Modells
-- **Dokumente**
-  - Konzepttionelles Gesamtschema
-  - ER-Modell
-
-##### 3. Logischer Entwurf
-
-- **Tätigkeiten**
-  - Überprüfung des ER-Modells anhand von Transformationsregeln in ein Logisches Modell
-  - Überprüfung mit Hilfe der Normalisierung
-- **Dokumente**
-  - Logisches Datenbankmodell
-  - Relationales Datenbankmodell
-
-##### 4. Physische Phase
-
-- **Tätigkeiten**
-  - Definition der Speicherstrukturen/Zugriffsmechanismen
-  - Implementierung des internen und externen Schemas
-  - Zugriffsrechte Festlegen
-- **Dokumente**
-  - Datenbank
-  - SQL-Skript
+1. Anforderungsanalyse
+   - **Tätigkeiten**
+     - Datenformat definieren
+     - Ziel der Datenbank bestimmen
+     - Anforderungen der Benutzer definieren und Klassifizieren
+     - Datenbasis bestimmen
+   - **Dokumente**
+     - Lastenheft/Pflichtenheft
+2. Konzeptioneller Entwurf
+   - **Tätigkeiten**
+     - Definition der Datenobjekte mit deren Attributen
+     - Bestimmung der Beziehungen (zwischen den Daten)
+     - Festlegung des Datanbankmodells
+     - Erstellung des ER-Modells
+   - **Dokumente**
+     - Konzepttionelles Gesamtschema
+     - ER-Modell
+3. Logischer Entwurf
+   - **Tätigkeiten**
+     - Überprüfung des ER-Modells anhand von Transformationsregeln in ein Logisches Modell
+     - Überprüfung mit Hilfe der Normalisierung
+   - **Dokumente**
+     - Logisches Datenbankmodell
+     - Relationales Datenbankmodell
+4. Physische Phase
+   - **Tätigkeiten**
+     - Definition der Speicherstrukturen/Zugriffsmechanismen
+     - Implementierung des internen und externen Schemas
+     - Zugriffsrechte Festlegen
+   - **Dokumente**
+     - Datenbank
+     - SQL-Skript
 
 [Arbeitsblatt Anforderungsanalyse](./resources/Datenbanken/040_AB_Anforderungsdefinition_SuS.pdf)
 
@@ -148,10 +137,12 @@ Einstieg Lernsituation: Warum nutzen wir Datenbanken?
 - Top-Down-Ansatz:
   - In Besprechungen/durch Realitätsbeaobachtungen werden Datenobjekte/Beziehungen definiert
 
-### 3. Präsentieren Sie Ihre Ergebnisse
+#### 3. Präsentieren Sie Ihre Ergebnisse
 
    [Präsentation](n.a.)
 
-## 3. SQL
+### 2.2.1 ER-Diagramm
 
-(Comming Soon)
+[mebis](https://lernplattform.mebis.bayern.de/course/view.php?id=1162649&section=17)
+
+![er-modell](resources/Datenbanken/er_modell_solution.png)
