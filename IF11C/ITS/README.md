@@ -74,7 +74,7 @@ Diese Vorteile führen zu weiteren positiven Merkmalen:
 - WINDOWS LINUX MACOS?
   - Windows
 
-![Serverplanung](.\image\Serverplanung.png)
+![Serverplanung](../IF11C/ITS/resources/image/Serverplanung.png)
 
 ### LS 1.1: Autohaus mit Server
 
