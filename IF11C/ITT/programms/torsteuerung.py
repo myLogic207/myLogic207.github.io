@@ -3,8 +3,8 @@ import RPi.GPIO as GPIO                     # import GPIO lib
 import time                                 # import cmos time, useless
 
 # define pin-sets
-leds = [22, 24, 26, 28]                     # define all led pins
-sensors = [27, 29, 31, 33]                  # define all sensor pins
+leds = [3, 24, 26, 28]                     # define all led pins
+sensors = [3, 5, 7, 33]                  # define all sensor pins
 
 # setup pins
 GPIO.setmode(GPIO.BOARD)                    # set pin layout to Pi-Board

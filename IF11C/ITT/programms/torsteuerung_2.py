@@ -11,9 +11,6 @@ for pin in range(27, 34, 2):
 while True:                        
     # loop 5 times                 
     for i in range(27, 34, 2):     
-        # Check sensor
-        state = GPIO.input(i)      
-        # just a second
         time.sleep(1)              
         # set state of LED
-        GPIO.output(i-5, state) 
+        GPIO.output(i-5, GPIO.input(i))
