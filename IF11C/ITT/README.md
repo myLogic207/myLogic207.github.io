@@ -127,7 +127,7 @@ Welche grundlegenden Arten von Befehlen sollte man in jedem Betriebssystem kenne
 1. Verbindung testen
 -->OSI 1 NW-Kabel angeschlossen
 -->OSI 2 Link vorhanden -->LED
--->OSI 3 Raspi 192.168.2.59/24 im gleichen Subnetz wie Laptop 
+-->OSI 3 Raspi 192.168.2.59/24 im gleichen Subnetz wie Laptop
 
 2. Datei mit Filezilla oder Swish auf den Rasbperry übertragen
 -->Verbindung über SFTP und Benutzer pi (PW schueler) mit Verzeichnis /home/pi
