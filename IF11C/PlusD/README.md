@@ -15,7 +15,7 @@ permalink: /plusd/
     - [1.1.5 Abschlussprojekt in der IT-Ausbildung](#115-abschlussprojekt-in-der-it-ausbildung)
     - [1.1.6 Projektmanagement](#116-projektmanagement)
     - [1.1.7 Beteiligte des Projektmanagements](#117-beteiligte-des-projektmanagements)
-    - [1.1.8 Projekt-Schneeflocke](#118-projekt-schneeflocke)
+    - [1.1.11 Übungsaufgaben](#1111-übungsaufgaben)
 
 ## 1 Was ist ein Projekt
 
@@ -152,4 +152,29 @@ Vorgehensweisen in der IT:
 - Übrige Behörden
 - Medien
 
-#### 1.1.8 Projekt-Schneeflocke
+#### 1.1.11 Übungsaufgaben
+
+1. Welche Merkmale charakterisieren ein Projekt?\
+   Siehe S. 2 + 3\
+   Einmalig, neuartig, zeitlich begrenzt, komplex, risikobehaftet, begrenzte resourcen, vorgegebenes Ziel
+2. Wie ist der Begriff "Projekt" definiert?\
+   Siehe S.1
+   Ein Projekt ist ein Vorgehen, das in im Wesentlichen durch Einmaligkeit der Bedingung in ihrer Gesamtheit Gekennzeichnet ist.\
+   Es zeichnet sich aus durch:
+      - eine Zielvorgabe
+      - zeitliche, finanzielle, personelle oder andere Begrenzungen
+      - projektspezifisch Organisation
+3. Nach welchen Kriterien kann die Projektart festgelegt werden?\
+   - Projektinhalt
+   - Größe und Umfang
+   - Komplexität
+   - Laufzeit
+   - Strategische Bedeutung
+   - Reichweite
+   - Stellung des Kunden/Auftraggebers
+4. Was ist Projektmanagement und welche Vorteile sind damit verbunden?\
+   Projektmanagement ist die Planung, Überwachung, Steuerung und der Abschluss des Projekts\
+   Vorteile: Übersichtliche Pläne (-> bessere Zusammenarbeit), Klare Rollenverteilung (Projektleiter = Verantwortlicher), Klare Ziele, Teilziele sind leichter zu verwalten, Spezialisten unterschiedlicher Abteilungen ergänzen sich, Aufgaben werden schneller/gleichzeitig erledigt (aufgrund von aufgaben(ver)teilung)
+5. Beschreiben Sie, was man im Projektmanagement unter dem Begriff Meilenstein versteht.\
+   Ein Meileinstein ist ein überprüfbares Zwischenergebnis. Meilensteine markieren den Fortschritt eines Projekts innerhalb der Projektphasen.\
+   **Ziel-Definition: Ziele müssen *SMART* sein, um überprüft werden zu können**(S = Spezifisch *WAS?*, M = Messbar *WIE?*, A = Akzeptiert *WER?*, R = Realistisch *ERREICHBAR?*, T = Terminiert *WANN?*)
