@@ -55,7 +55,6 @@ exclude:
   - Gemfile.lock
   - /vendor/
   - /IF11C/markdownCS.md
-  - /IF11C/AWP/resources/Datenbanken_zusammenfassung.m
   - /IF11C/PuG/resources/zusammenfassung_block1.md
   - about.markdown.old
 #   - .sass-cache/
