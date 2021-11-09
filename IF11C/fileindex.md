@@ -46,9 +46,11 @@ permalink: /files
 
 ## BGP
 
-[Services unterscheiden](../IF11C/BGP/resources/1.1._Services_im_IT-Bereich_unterscheiden_S.pdf)\
-[Managements unterscheiden](../IF11C/BGP/resources/1.2._Service-Management-Arten_unterscheiden_S.pdf)\
-[Unternehmensmuster](../IF11C/BGP/resources/Unternehmensstruktur_der_Musterfirma_Datasol._DINA4.pdf)
+[Unternehmensmuster](../IF11C/BGP/resources/0.%20Modellunternehmen/Unternehmensstruktur_der_Musterfirma_Datasol._DINA4.pdf)\
+[Services unterscheiden](../IF11C/BGP/resources/1.%20IT-Service%20und%20IT-Service%20Management/1.1.%20Services%20im%20IT-Bereich%20unterscheiden_S.pdf)\
+[Managements unterscheiden](../IF11C/BGP/resources/1.%20IT-Service%20und%20IT-Service%20Management/1.2.%20Service-Management-Arten%20unterscheiden_S.pdf)\
+[Aufbau und Ablauforganisation](../IF11C/BGP/resources/2.%20Aufbau-%20und%20Ablauforganisation/1.%20AufbauUndAblauforganisation_S.pdf)
+
 
 ---
 

@@ -17,6 +17,10 @@ permalink: /bgp/
   - [1.2.5 Übungsaufgaben](#125-übungsaufgaben)
     - [1. Aufgabe](#1-aufgabe)
     - [2. Aufgabe](#2-aufgabe)
+- [LS 02: Aufbau- und Ablauforganisation](#ls-02-aufbau--und-ablauforganisation)
+  - [2.1. Sitation](#21-sitation)
+  - [Situationsanalyse](#situationsanalyse)
+- [2.2 Die Aufgabenorganisation](#22-die-aufgabenorganisation)
 
 ## Services
 
@@ -69,7 +73,7 @@ ITIL4: Mittel, um die gemeinsame Wertschöpfung (Value-Co-Creation) zu ermöglic
 
 ### 1.2.1 Service Management
 
-**"Managen bedeutet, ein umfangreiches Fachgebiet besonders gut zu organisieren und zu bewältigen und aus den Inputs einen möglichst guten Output zu erzeugen"**
+> **"Managen bedeutet, ein umfangreiches Fachgebiet besonders gut zu organisieren und zu bewältigen und aus den Inputs einen möglichst guten Output zu erzeugen"**
 
 ### 1.2.2 Eintelung in Phasen nach ITIL Standard 3
 
@@ -128,3 +132,39 @@ Service Operation:  Bereitstellung und einbringung von Services
 - Service-Catalogue-Management
 
 #### 2. Aufgabe
+
+## LS 02: Aufbau- und Ablauforganisation
+
+### 2.1. Sitation
+
+### Situationsanalyse
+
+| Sitation | Analyse |
+|-|-|
+| Problem | Projekt ist liegengeblieben -> Imageschaden |
+| Ursache | Auftrag blieb am Schreibtisch liegen. Dieser war 2 Wochen im Urlaub |
+| Hilfmittel | Azubimappe; Internet |
+| Ziel | Organisation bzw. Zuständigkeiten und Abläufe Optimieren |
+
+## 2.2 Die Aufgabenorganisation
+
+Fragen:
+
+- Wie werden die einzelnen Aufgaben verteilt? -> Aufgabenverteilung
+- Wer darf wem etwas vorschreiben bzw. weisungen verteilen? -> Leitungssysteme
+- Wer darf in einem Unternhemen welche entscheidungen treffen? -> Entscheidungssysteme
+
+> => **Die Aufbauorganisation**
+> Die Aufbauorganisation gleidert den Betrieb in *funktionsfähige Teileinheiten* und koordiniert sie im hinblick auf die *betriebliche Zielsetzung*
+
+**Aufgabenverteilung**\
+Die Aufgabenverteilung erfolgt in vier Phasen:
+
+1. Phase **Aufgabegliederung**\
+   Die Gesamtaufgabe des Betriebs wird in sinnvolle Einzelaufgaben gegliedert.
+2. Phase: **Stellenbildung**\
+   Zusammengehörende *Einzelaufgaben* werden zu *Tätigkeitsbereichen (=Stellen)* zusammengefasst.
+3. Phase **Abteilungsbildung**\
+   Zusammenfassung mehrerer Stellen
+4. Phase **Stellenbesetzung**
+   Besetzung der *Stellen mit geeigneten Personen*.
