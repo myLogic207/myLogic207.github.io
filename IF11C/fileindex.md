@@ -46,10 +46,10 @@ permalink: /files
 
 ## BGP
 
-[Unternehmensmuster](../IF11C/BGP/resources/0.%20Modellunternehmen/Unternehmensstruktur_der_Musterfirma_Datasol._DINA4.pdf){:target="_blank"}\
-[Services unterscheiden](../IF11C/BGP/resources/1.%20IT-Service%20und%20IT-Service%20Management/1.1.%20Services%20im%20IT-Bereich%20unterscheiden_S.pdf){:target="_blank"}\
-[Managements unterscheiden](../IF11C/BGP/resources/1.%20IT-Service%20und%20IT-Service%20Management/1.2.%20Service-Management-Arten%20unterscheiden_S.pdf){:target="_blank"}\
-[Aufbau und Ablauforganisation](../IF11C/BGP/resources/2.%20Aufbau-%20und%20Ablauforganisation/1.%20AufbauUndAblauforganisation_S.pdf){:target="_blank"}
+[Unternehmensmuster](../IF11C/BGP/resources/0._Modellunternehmen/Unternehmensstruktur_der_Musterfirma_Datasol.pdf){:target="_blank"}\
+[Services unterscheiden](../IF11C/BGP/resources/1._IT-Service_und_IT-Service_Management/1.1._Services_im_IT-Bereich_unterscheiden_S.pdf){:target="_blank"}\
+[Managements unterscheiden](../IF11C/BGP/resources/1._IT-Service_und_IT-Service_Management/1.2._Service-Management-Arten_unterscheiden_S.pdf){:target="_blank"}\
+[Aufbau und Ablauforganisation](../IF11C/BGP/resources/2._Aufbau-_und_Ablauforganisation/1._AufbauUndAblauforganisation_S.pdf){:target="_blank"}
 
 ---
 
@@ -62,9 +62,9 @@ permalink: /files
 [prog_lang_4](../IF11C/English/resources/prog_lang/prog_lang_4.pdf){:target="_blank"}\
 [prog_lang_solutions](../IF11C/English/resources/prog_lang/prog_lang_3-4_solution.pdf){:target="_blank"}\
 [prog_lang_voc](../IF11C/English/resources/prog_lang/prog_lang_voc.pdf){:target="_blank"}\
-[Höhrverstehen](../IF11C/English/resources/software%20problems%20listening.pdf){:target="_blank"}
+[Höhrverstehen](../IF11C/English/resources/software_problems_listening.pdf){:target="_blank"}
 
-[Interview](../IF11C/English/resources/progr%20lang%20interview.pdf){:target="_blank"}\
+[Interview](../IF11C/English/resources/progr_lang_interview.pdf){:target="_blank"}\
 [Höhrverstehen fehler](../IF11C/English/resources/prg_lng_listening/__prg_lng_listening_Error.txt){:target="_blank"}\
 [Hörverstehen all fehler](../IF11C/English/resources/prg_lng_listening/___All_Errors.txt){:target="_blank"}
 
@@ -96,7 +96,7 @@ permalink: /files
 
 ## PlusD
 
-[Grundlagen 1.1](../IF11C/PlusD/resources/1.%20Grundlagen/1.1.%20Grundlagen_S.pdf){:target="_blank"}
+[Grundlagen 1.1](../IF11C/PlusD/resources/1._Grundlagen/1.1._Grundlagen_S.pdf){:target="_blank"}
 
 ---
 
@@ -106,14 +106,14 @@ permalink: /files
 
 ### Der Staat
 
-[Arbeitsblatt](../IF11C/PuG/resources/1.%20Der%20Staat/Arbeitsblatt.pdf){:target="_blank"}\
-[Aufgaben des Staats](PuG/resources/1.%20Der%20Staat/Aufgaben%20des%20Staats%20_%20AB.pdf){:target="_blank"}\
-[Insel-Szenario](../IF11C/PuG/resources/1.%20Der%20Staat/Insel-Szenario.pdf){:target="_blank"}
+[Arbeitsblatt](../IF11C/PuG/resources/1._Der_Staat/Arbeitsblatt.pdf){:target="_blank"}\
+[Aufgaben des Staats](PuG/resources/1._Der_Staat/Aufgaben_des_Staats___AB.pdf){:target="_blank"}\
+[Insel-Szenario](../IF11C/PuG/resources/1._Der_Staat/Insel-Szenario.pdf){:target="_blank"}
 
 ### Das Grundgesetz
 
-[Menschenbild](../IF11C/PuG/resources/2.%20Das%20Grundgesetz/Das%20Menschenbild%20der%20GG/Das%20Menschenbild%20des%20GG.pdf){:target="_blank"}\
-[Lückentext](../IF11C/PuG/resources/2.%20Das%20Grundgesetz/Lückentext%20wie%20Deutschland%20zu%20seinem%20GG%20kam.pdf){:target="_blank"}\
-[Rätsel](../IF11C/PuG/resources/2.%20Das%20Grundgesetz/Rätsel%20GG.pdf){:target="_blank"}\
-[Grundgesetzprinzipien](../IF11C/PuG/resources/2.%20Das%20Grundgesetz/Grundordnung%20BRD/Grundgesetzprinzipien.pdf){:target="_blank"}\
-[Gewaltenteilung](../IF11C/PuG/resources/2.%20Das%20Grundgesetz/Grundordnung%20BRD/AB_SK11_Gewaltenteilung.pdf){:target="_blank"}
+[Menschenbild](../IF11C/PuG/resources/2._Das_Grundgesetz/Das_Menschenbild_der_GG/Das_Menschenbild_des_GG.pdf){:target="_blank"}\
+[Lückentext](../IF11C/PuG/resources/2._Das_Grundgesetz/Lückentext_wie_Deutschland_zu_seinem_GG_kam.pdf){:target="_blank"}\
+[Rätsel](../IF11C/PuG/resources/2._Das_Grundgesetz/Rätsel_GG.pdf){:target="_blank"}\
+[Grundgesetzprinzipien](../IF11C/PuG/resources/2._Das_Grundgesetz/Grundordnung_BRD/Grundgesetzprinzipien.pdf){:target="_blank"}\
+[Gewaltenteilung](../IF11C/PuG/resources/2._Das_Grundgesetz/Grundordnung_BRD/AB_SK11_Gewaltenteilung.pdf){:target="_blank"}
