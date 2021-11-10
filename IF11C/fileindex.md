@@ -51,7 +51,6 @@ permalink: /files
 [Managements unterscheiden](../IF11C/BGP/resources/1.%20IT-Service%20und%20IT-Service%20Management/1.2.%20Service-Management-Arten%20unterscheiden_S.pdf)\
 [Aufbau und Ablauforganisation](../IF11C/BGP/resources/2.%20Aufbau-%20und%20Ablauforganisation/1.%20AufbauUndAblauforganisation_S.pdf)
 
-
 ---
 
 ## ENG

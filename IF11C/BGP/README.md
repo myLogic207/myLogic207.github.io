@@ -21,6 +21,8 @@ permalink: /bgp/
   - [2.1. Sitation](#21-sitation)
   - [Situationsanalyse](#situationsanalyse)
 - [2.2 Die Aufgabenorganisation](#22-die-aufgabenorganisation)
+  - [2.3 Weisungssysteme](#23-weisungssysteme)
+- [2.4 Organigramm](#24-organigramm)
 
 ## Services
 
@@ -168,3 +170,34 @@ Die Aufgabenverteilung erfolgt in vier Phasen:
    Zusammenfassung mehrerer Stellen
 4. Phase **Stellenbesetzung**
    Besetzung der *Stellen mit geeigneten Personen*.
+
+### 2.3 Weisungssysteme
+
+1. Stablinien-System
+2. Spartenorganisation
+3. Mehrliniensystem
+4. Einlinien-System
+5. Matrixorganisation
+6. Mehrliniensystem
+
+## 2.4 Organigramm
+
+| Position | Beschreibung |
+| Administrator | Verwalter der IT-Landschaft |
+| IT-Spezialist | "Profi in seinem bereich" |
+| Change Manager | Plant und Steuert betriebliche Verwaltungsprozesse |
+| Projektleiter und Projektteam | Gruppe von Sachkundingen, die selbständig ein aufwendiges Vorhaben<br>planen, realisieren und kontrollieren |
+| Mitarbeiter der Partnerfirmen | Fachkundiger Externer |
+| IT-Management | Verwaltung; CIO (Chief Information Officer = Leiter der IT) |
+| Vorstand | Representative Führungsinstanz; Verantwortliche in Fragen von strategischen Änderungen und Bewilligungen in den technischen, organisatorischen und finanziellen Breichen |
+| Helpdesk | Technischer Support, erster Anlaufpunkt bei Fragen und Problemen rund um das IT-System |
+| Kunden | Auftraggeber |
+| Anwender | Benutzer; IT-Nuter |
+
+Aus Sicht des Prozessmanagements und in Bezug auf die Verantwortlichkeiten ergeben sich weitere Rollen
+
+| Person | Beschreibung |
+| - | - |
+| Service Owner | Verwantwortlicher für den Service (Dienstleistung) |
+| Prozess Owner | Verantwortlicher für den Ablauf (Prozesse) |
+| Prozess Executer | Ausführende Kraft |
