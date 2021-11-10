@@ -146,6 +146,7 @@ c. _Selection_ executes one of two or more possible functions in a program depen
    e)
 
 Study the interview with Bjarne Stroustrup and answer the following questions:
+
 1. What does Bjarne Stroustrup think of modern software?\
    Some software is oretty good by any standards. On the other hand, looking at average pieces of code can make him cry. The structure is appalling.
 2. What does he criticize about some programmers? Why does he think thisis the case?\
@@ -155,11 +156,13 @@ Study the interview with Bjarne Stroustrup and answer the following questions:
 4. Does he think C++ is still a relevant programming language? For whom?\
    He thinks it is a good but limited programming language. It's expert friendly.
 5. Does he feel he compromised on the design of C++? Why or why not?\
-   
+
 6. What aims did he have in mind when designing C++?\
    He wanted to be able to write device drivers, embedded systems. Next, he wanted c++ to be a good language for designing tools
 7. What does he think is the underlying problem many people have withC++?\
    The real problem people are having with c++ is that they don't have access to the libaries or they can't find any
 8. What comprises a "good" programming language, in his opinion?\
-9.  Why does he think C++ is so successful?\
+
+9. Why does he think C++ is so successful?\
+
 10. Is Bjarne Stroustrup 100% satisfied with his achievements?\
