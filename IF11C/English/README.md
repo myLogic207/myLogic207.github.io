@@ -132,14 +132,34 @@ c. _Selection_ executes one of two or more possible functions in a program depen
 
 ## The Problem with Programming
 
-1. Why is most software so bad? <br>
+1. Why is most software so bad?\
    c) Some software is actually pretty good by any standards. Think of the Mars Rovers, Google, and the Human Genome Project. That's quality software! On the other hand, looking at "average" pieces of code can make me cry. The structure is appalling, and the programmers clearly didn't think deeply about correctness, algorithms, data structures, or maintainability. l think the real problem is that we" (that is, we software developers) are in a permanent state of emergency, grasping at straws to get our work done. We perform many minor miracles through trial and error, excessive use of brute force, and lots and lots of testing, but -so often -it's not enough.
-2. How can we fix the mess we are in? <br>
+2. How can we fix the mess we are in?\
    d)In theory, the answer is simple: educate our software developers better, use more-appropriate design methods, and design for flexibility and forthe long haul. Reward correct, solid, and safe systems. Punish sloppiness. In reality, that's impossible. People reward developers who deliver software that is cheap, buggy, and first. That's because people want fancy new gadgets now.They don't want inconvenience, don't want to learn new ways of interacting with their computers, don't want delays in delivery, and don't want to pay extra for quality.
-3. The idea behind C++ was that programmers would work harder in return for more efficient code. Today there are a lot of software developers and computers are very fast. Does this vitiate the point of C++?<br>
+3. The idea behind C++ was that programmers would work harder in return for more efficient code. Today there are a lot of software developers and computers are very fast. Does this vitiate the point of C++?\
    b) C++ has indeed become too “expert friendly” at a time where the degree of effective formal education of the average software developer has declined. However, the solution is not to dumb down the programming languages but to use a variety of programming languages and to educate more experts.There have to be languages for those experts to use -C++ is one of those languages.
-4. In retrospect, in designing C++, wasn’t your decision to trade off programmer efficiency, security, and software reliability for run time performance a fundamental mistake? <br>
+4. In retrospect, in designing C++, wasn’t your decision to trade off programmer efficiency, security, and software reliability for run time performance a fundamental mistake?\
    f)Well, l don't think l made such a trade-off. l want elegant and efficient code. Sometimes l get it. These dichotomies (between efficiency versus correctness, efficiency versus programmer time, efficiency versus high-level, et cetera.) are bogus.What l did do was to design C++ as first of all a systems programming language: l wanted to be able to write device drivers, embedded systems, and other code that needed to use hardware directly. Next, l wanted C++ to be a good language for designing tools.That required flexibility and performance, but also the ability toexpress elegant interfaces. My view was that to do higher-level stuff, to build complete applications, you first needed to buy, build, or borrow libraries providing appropriate abstractions. Often, when people have trouble with C++, the real problem is that they don't have appropriate libraries -or that they can't find the libraries that are available.
-5. What do you regret the most? <br>
+5. What do you regret the most?\
+   a)No regrets! Well, of course I dream of what I might have done differently and better, but seriously, who am I to second-guess, say 1984 vintage Bjarne? He may  have  been  less  experienced  than  I,  but  he  was  no  less  smart,  probably smarter, and he had a better understanding of the world of 1984 than I have. C++ has been used to build many systems that enhance our lives, and it has been a significant positive influence on later languages and systems. That’s something to be proud of.
+6. How do you account for the fact that C++ is both widely criticized and resented by many programmers but at the same time very broadly used? Why is it so successful?\
+   e)
 
-6. How do you account for the fact that C++ is both widely criticized and resented by many programmers but at the same time very broadly used? Why is it so successful? <br>
+Study the interview with Bjarne Stroustrup and answer the following questions:
+1. What does Bjarne Stroustrup think of modern software?\
+   Some software is oretty good by any standards. On the other hand, looking at average pieces of code can make him cry. The structure is appalling.
+2. What does he criticize about some programmers? Why does he think thisis the case?\
+   The programmers clearly didn't think deeply enough about correctness, algorithms, data structures or maintainability
+3. What does he think should be done to improve the quality ofprogramming work? Why, in his opinion, isn't it done?\
+   They should educate the developers more in terms of design for flexibility and for the long haul. They are rewarded for buggy software because the people only want fancy new gadgets fast
+4. Does he think C++ is still a relevant programming language? For whom?\
+   He thinks it is a good but limited programming language. It's expert friendly.
+5. Does he feel he compromised on the design of C++? Why or why not?\
+   
+6. What aims did he have in mind when designing C++?\
+   He wanted to be able to write device drivers, embedded systems. Next, he wanted c++ to be a good language for designing tools
+7. What does he think is the underlying problem many people have withC++?\
+   The real problem people are having with c++ is that they don't have access to the libaries or they can't find any
+8. What comprises a "good" programming language, in his opinion?\
+9.  Why does he think C++ is so successful?\
+10. Is Bjarne Stroustrup 100% satisfied with his achievements?\
