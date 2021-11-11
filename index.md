@@ -7,7 +7,7 @@ title: "Home"
 [Spenden](https://ko-fi.com/myLogic207)
 <!-- [Website](myLogic207.github.io) -->
 
-## Eine täglich aktualieserte mitschrift der Berufschule (dateien inklusive)
+## Eine täglich aktualisiert Mitschrift der Berufsschule (Dateien inklusive)
 
 Freut mich, dass du auch mal hier vorbeischaust.
 Diese Website ist **nur** zur internen verwendung der IF11C bestimmt, für das teilen mit anderen schuldest du mir automatisch einen Keks.
