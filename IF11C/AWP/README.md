@@ -18,6 +18,7 @@ permalink: /awp/
     - [2. Schreiben Sie Tätigkeiten und Ziele der einzelnen Phasen in der Übersicht zusammen](#2-schreiben-sie-tätigkeiten-und-ziele-der-einzelnen-phasen-in-der-übersicht-zusammen)
     - [3. Präsentieren Sie Ihre Ergebnisse](#3-präsentieren-sie-ihre-ergebnisse)
   - [2.2.1 ER-Diagramm](#221-er-diagramm)
+  - [SQL Übungen](#sql-übungen)
 
 ## 1. Grundlagen
 
@@ -146,3 +147,16 @@ Einstieg Lernsituation: Warum nutzen wir Datenbanken?
 [mebis](https://lernplattform.mebis.bayern.de/course/view.php?id=1162649&section=17)
 
 ![er-modell](resources/Datenbanken/er_modell_solution.png)
+
+Entität: Objekt (in einem Rechteck)\
+Relation: Beziehung (in einer Raute)\
+Attribute: Eigenscahften (in einer Elipse/Kreis)
+
+### SQL Übungen
+
+```sql
+SELECT Name, Art FROM Haustiere WHERE  ORDER BY Name ASC;
+SELECT * FROM Patienten WHERE Ort='Fürth' ORDER BY Nachname ASC, Vorname ASC;
+SELECT * FROM Patienten WHERE Ort LIKE 'F%' ORDER BY Nachname ASC, Vorname ASC;
+SELECT 5+5*12, 'Alter'*2 AS Doppeltes_Alter FROM Patienten LIMIT 5;
+```
