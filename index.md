@@ -11,11 +11,11 @@ title: "Home"
 
 Freut mich, dass du auch mal hier vorbeischaust.
 Diese Website ist **nur** zur internen verwendung der IF11C bestimmt, für das teilen mit anderen schuldest du mir automatisch einen Keks.
-Dieses progressive webapp (jaja, kannst dir das hier einfach als "app" speicher, schon geil ne) ist auf allen internetfähigen geräten abrufbar
+Dieses progressive webapp (jaja, kannst dir das hier einfach als "app" speichern, schon geil ne) ist auf allen internetfähigen geräten abrufbar
 (wenns bei dir nicht geht, ist es mir egal; Funktioniert als webapp nach dem laden dann auch offline).
 Die einzelnen hefteinträge sind eine eigene Seite so wie dieses hier, dateien sind per links eingebunden oder können über [Dateien](/files) oben aufgerufen werden.
 
-### **Lasst euch nicht von einem Lehrer erwischen, kann zur folge haben, dass ich es Löschen muss und das will ja keiner**
+### **Lasst euch nicht von einem Lehrer erwischen, der das blöd findet.<br>Kann zur folge haben, dass ich es Löschen muss und das will ja keiner**
 
 *Disclaimer*: Ich versuche natürlich, dass alles immer aktuell und vollständig bleibt, ich kann aber nichts garantieren
 
@@ -48,4 +48,5 @@ Die einzelnen hefteinträge sind eine eigene Seite so wie dieses hier, dateien s
 - [Dateien](/files)
 - [Spenden](https://ko-fi.com/myLogic207)
 - [Feedback](https://forms.gle/efXCc41bpAw2JcBz9)
+- [Sandras Repo](https://github.com/SJSaueressig/Berufsschule)
 <!--- [FallbackFeedback](https://docs.google.com/forms/d/e/1FAIpQLSf2jT9Wh8k5JtnhZN9c0CMExNB_n3KsLWxeVb5TGHG73S_JEg/viewform?usp=sf_link) -->
