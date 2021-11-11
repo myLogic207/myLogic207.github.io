@@ -185,20 +185,20 @@ table td { border: 1px solid #adb5bd; }
 /* .highlight { background: #fff; }
 .highlighter-rouge .highlight { background: #eef; } */
 .highlight .c { color: #998; font-style: italic; }
-.highlight .err { color: #a61717; background-color: #e3d2d2; }
+.highlight .err { color: #a61717 }
 .highlight .k { font-weight: bold; }
 .highlight .o { font-weight: bold; }
 .highlight .cm { color: #998; font-style: italic; }
 .highlight .cp { color: #999; font-weight: bold; }
 .highlight .c1 { color: #998; font-style: italic; }
 .highlight .cs { color: #999; font-weight: bold; font-style: italic; }
-.highlight .gd { color: #000; background-color: #fdd; }
-.highlight .gd .x { color: #000; background-color: #faa; }
+.highlight .gd { color: #fdd; }
+.highlight .gd .x { color: #faa; }
 .highlight .ge { font-style: italic; }
 .highlight .gr { color: #a00; }
 .highlight .gh { color: #999; }
-.highlight .gi { color: #000; background-color: #dfd; }
-.highlight .gi .x { color: #000; background-color: #afa; }
+.highlight .gi { color: #dfd; }
+.highlight .gi .x { color: #afa; }
 .highlight .go { color: #888; }
 .highlight .gp { color: #555; }
 .highlight .gs { font-weight: bold; }

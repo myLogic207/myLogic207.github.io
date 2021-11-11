@@ -160,3 +160,24 @@ SELECT * FROM Patienten WHERE Ort='Fürth' ORDER BY Nachname ASC, Vorname ASC;
 SELECT * FROM Patienten WHERE Ort LIKE 'F%' ORDER BY Nachname ASC, Vorname ASC;
 SELECT 5+5*12, 'Alter'*2 AS Doppeltes_Alter FROM Patienten LIMIT 5;
 ```
+
+Dokumentation:
+
+```sql
+source c:\xampp\sql_scripts\sql_dump.sql
+(use rfidv5klein)
+SELECT * FROM tblzutrittsversuche;
+1. SELECT ZutrittsversuchID FROM tblzutrittsversuche;
+2. SELECT ZutrittsversuchID FROM tblzutrittsversuche WHERE Ergebnis="Zutritt abgelehnt";
+3. SELECT ZutrittsversuchID FROM tblzutrittsversuche WHERE Ergebnis="Zutritt gestattet" ORDER BY tblChips_ChipsID;
+4. SELECT Zeitstempel, tblChips_ChipsID FROM tblzutrittsversuche WHERE Ergebnis="Zutritt abgelehnt" ORDER BY Zeitstempel DESC;
+5. SELECT tblChips_ChipsID FROM tblzutrittsversuche WHERE Ergebnis="Zutritt abgelehnt" GROUP BY tblChips_ChipsID;
+6. SELECT tblChips_ChipsID FROM tblzutrittsversuche WHERE Ergebnis="Zutritt gestattet" GROUP BY tblChips_ChipsID ORDER BY tblChips_ChipsID;
+7. SELECT Count(*) AS AnzahlZutritte FROM tblzutrittsversuche WHERE Zeitstempel LIKE '2017-11-22%' AND Ergebnis='Zutritt gestattet';
+8. SELECT * FROM tblzutrittsversuche WHERE Ergebnis='Zutritt abgelehnt' AND tblChips_ChipsID LIKE '1%';
+9. SELECT tblChips_ChipsID,Count(*) AS AnzahlZutritte FROM tblzutrittsversuche WHERE Ergebnis='Zutritt gestattet' GROUP BY tblChips_ChipsID;
+10?. SELECT tblChips_ChipsID,Count(*) as SUMME FROM tblzutrittsversuche WHERE Ergebnis='Zutritt gestattet' AND SUMME>10 GROUP BY tblChips_ChipsID;
+11. SELECT SUM(tblChips_ChipsID) AS SumChips FROM tblzutrittsversuche;
+12. 
+13.
+```
