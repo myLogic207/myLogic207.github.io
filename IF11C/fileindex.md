@@ -4,7 +4,7 @@ title: "Dateien"
 permalink: /files
 ---
 
-[Hauptmenü](/home/)
+[Hauptmenü](/)
 
 ## Verzeichnis
 
