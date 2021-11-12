@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "ITT"
-permalink: /itt/
+permalink: /itt
 ---
 [Zurück](/)\
 [Dateien](/files#itt)\
@@ -18,6 +18,8 @@ permalink: /itt/
 - [Besonderheiten/Unterschiede zwischen Linux und Windows](#besonderheitenunterschiede-zwischen-linux-und-windows)
   - [Linuxgrundlagen](#linuxgrundlagen)
 - [Laden des Python-Programm “Werkstatttore” auf den Raspberry Pi](#laden-des-python-programm-werkstatttore-auf-den-raspberry-pi)
+- [Vertikale Kommunikation](#vertikale-kommunikation)
+- [Klassische Automatisierungspyramide](#klassische-automatisierungspyramide)
 
 ## Wie realisieren wir die Torüberwachung des AHN?
 
@@ -135,3 +137,25 @@ herstellen
 
 3. Abändern des Python Programms direkt auf dem Raspi mit Hilfe von VNC
 -->Python Programm öffnen und die GPIOs an das Bernhardt-Board anpassen
+
+## Vertikale Kommunikation
+
+| Bereich | Beschreibung | Beispiel für Geräte |
+| - | - | - |
+| **Cloud** | - Zugriff meist über Internet und geräte-unabhängig<br>- Bereitstellung erfolgt bei Bedarf, zeitnah und mit wenig Aufwand geteilt *Computerresourcen* als Dienstleistung (Server, Datanspeicher)<br>- Abrechnung nach Nutzung Zugriff auf Angebot und Nutzung erfolgt i.d.R. über eine *Programmierschnittstelle* (API) oder Webseite | AWS NoSQL |
+| **Office-IT, Unternehmens-IT** | - Office IT beinhaltet alle Geräte, Komponenten und alles Zubehör, welche für allgemeine Bürotätigkeitn genutzt werden (PC, Maus etc.)<br>- Unternehmens-IT is IT-Infrastruktur, die in alleiniger Verantwortung des Unternehmens liegt. Hierzu zält die Bereitstellung von Geräten und Diensten | Router, Switch, "Desktop"-PCs, OPC UA, Interne DB |
+| **Shop-Floor, OT** | - Steuerung und Kontrolle der Produktionsprozesse<br>- Ziel: Optimierung der vorhandenen Produktionsressourcen, auf Basis unterschiedlicher Prämissen wie bspw. Termine, Kapazitätsauslastung oder erzielbarer Produktmarge (Kommt aus ERP)  | HMI, PLC, Pi, Service-PC, OPC UA |
+
+## Klassische Automatisierungspyramide
+
+Feldebene: Horizontale Kommunikation. Sensoren kommunizieren im shop-Floor über ASI, IO-Link, ProfiBus
+
+| Geräte | Steuerung SPS/PLC | SPS | HMI | Servo-Motor |
+| - | - | - | - | - |
+| **Ebene** | Steuerung | Steuerung | Steuerung | Feld |
+| **Geräte** | SAP | Roboterarm | Darstellung eines Prozesses | |
+| **Ebene** | Prozessleitung | Feld | Prozessleitung | |
+| **Geräte** | HMI + Sensorwerten | Signalleuchte | Lichtschranke | Greifer |
+| **Ebene** | Steuerung | Feld | Feld/Steuerung | Feld |
+| **Geräte** | Indultiver Sensor | Öffner/Schalter | Leitstand | Profi Bus |
+| **Ebene** | Feld | Feld | Betriebsleitung | Feldebene |
