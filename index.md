@@ -10,10 +10,12 @@ title: "Home"
 ## Eine täglich aktualisierte Mitschrift der Berufsschule (Dateien inklusive)
 
 Freut mich, dass du auch mal hier vorbeischaust.
-Diese Website ist **nur** zur internen verwendung der IF11C bestimmt, für das teilen mit anderen schuldest du mir automatisch einen Keks. Alternativ kannst du auch [Sandras GitHub repository besuchen](https://www.github.com/SJSaueressig/Berufsschule).\
+Diese Website ist **nur** zur internen verwendung der IF11C bestimmt, für das teilen mit anderen schuldest du mir automatisch einen Keks.\
 Dieses progressive webapp hier (jaja, kannst dir das hier einfach als "app" speichern) ist auf allen internetfähigen Geräten abrufbar
 (wenns bei dir nicht geht, ist es mir egal; Funktioniert als webapp nach dem laden dann auch teilweise offline).
 Die einzelnen Hefteinträge sind eine eigene Seite so wie dieses hier, dateien sind per links eingebunden oder können über [Dateien](/files) oben aufgerufen werden. Link dazu ist entweder auf der jeweiligen Seite oder in der Menüleiste zu finden.
+Alternativ kannst du übrigens auch [Sandras Berufschulwebsite](https://sjsaueressig.github.io/) besuchen.
+<!-- [Sandras GitHub repository besuchen](https://www.github.com/SJSaueressig/Berufsschule) -->
 
 ### **Lasst euch nicht von einem Lehrer erwischen, der das blöd findet.<br>Kann zur folge haben, dass ich es Löschen muss und das will ja keiner**
 
