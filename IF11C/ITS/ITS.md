@@ -7,15 +7,26 @@ permalink: /its/
 [Dateien](/files#its)\
 [Klassennotizbuch](https://ip-generation.de/Kip94IKYTnKIWyZXzWWyUw?both)
 
-- [LS 1.3: Active Directory](#ls-13-active-directory)
-- [LS 1.6: Rechte und Berechtigungen](#ls-16-rechte-und-berechtigungen)
-- [LS 1.10: Automatisch verteilt: DHCP](#ls-110-automatisch-verteilt-dhcp)
+- [LS 1](#ls-1)
+  - [ITS](#its)
+    - [Vorteile Client-Server-Systeme](#vorteile-client-server-systeme)
+    - [Fragen an den Kunden](#fragen-an-den-kunden)
+  - [LS 1.1: Autohaus mit Server](#ls-11-autohaus-mit-server)
+  - [LS 1.3: Active Directory](#ls-13-active-directory)
+  - [LS 1.6: Rechte und Berechtigungen](#ls-16-rechte-und-berechtigungen)
+  - [LS 1.10: Automatisch verteilt: DHCP](#ls-110-automatisch-verteilt-dhcp)
+- [LS2](#ls2)
+  - [Datenschutz und -Sicherheit](#datenschutz-und--sicherheit)
   - [Gruppen Labor Herbst](#gruppen-labor-herbst)
   - [Gruppen Labor Graf](#gruppen-labor-graf)
 
 <!-- ## sponsored by [noris network AG](https://www.noris.de/) -->
 
-### Vorteile Client-Server-Systeme
+## LS 1
+
+### ITS
+
+#### Vorteile Client-Server-Systeme
 
 Hauptvorteile:
 
@@ -33,7 +44,7 @@ Diese Vorteile führen zu weiteren positiven Merkmalen:
 - Einfachere Administration u. Wartung
 - Gut skalierbar (Stabile Struktur)
 
-### Fragen an den Kunden
+#### Fragen an den Kunden
 
 - Wie viele PC's?
   - Eigentlich 32
@@ -97,7 +108,7 @@ Ordnerstruktur:
 Rechtemanagement:
 ![Rechte](https://rgw.noris.net/hedgedoc-prod/uploads/upload_b5abebb8a0856da507f04e16824a152c.png)
 
-## LS 1.3: Active Directory
+### LS 1.3: Active Directory
 
 [mebis](https://lernplattform.mebis.bayern.de/mod/page/view.php?id=34978722)
 
@@ -106,7 +117,7 @@ und jeweils eine OU für die Abteilung**
 
 ![Aufgabe 2](https://rgw.noris.net/hedgedoc-prod/uploads/upload_fafe608fb51dfa686371e0c4c6ca4937.jpg)
 
-## LS 1.6: Rechte und Berechtigungen
+### LS 1.6: Rechte und Berechtigungen
 
 [mebis](https://lernplattform.mebis.bayern.de/mod/page/view.php?id=35737949)
 
@@ -117,7 +128,7 @@ und jeweils eine OU für die Abteilung**
 | z.B Jeder Voll <br> Azubi Lesen <br> => Vollzugriff | |
 | -> Sind beide Systeme ativ wirkt die größere Einschränkung | |
 
-## LS 1.10: Automatisch verteilt: DHCP
+### LS 1.10: Automatisch verteilt: DHCP
 
 [mebis](https://lernplattform.mebis.bayern.de/mod/page/view.php?id=35316070)
 
@@ -160,6 +171,15 @@ Das Abrufen einer IP-Adresse erfolgt nach einem festen vorgegebenen Schema. Das 
 | 2 | FF-FF-FF-FF-FF-FF | 255.255.255.255 | <-<br>-- | 94-9F-3E-7C-1E-4C | 192.168.99.1    |
 | 3 | B8-E9-37-A6-CA-A0 | 0.0.0.0         | --<br>-> | FF-FF-FF-FF-FF-FF | 255.255.255.255 |
 | 4 | FF-FF-FF-FF-FF-FF | 255.255.255.255 | <-<br>-- | 94-9F-3E-7C-1E-4C | 192.168.99.1    |
+
+## LS2
+
+### Datenschutz und -Sicherheit
+
+- Welche Chancen und Gefahren ergeben sich aus der Nutzung von Kfz-Daten
+- Welche Interessen verfolgt die Industrie?
+  - Sammeln von so vielen Daten wie möglich um den Kunden Genau zu verstehen
+- Welche Interessen, Vor- und Nachteile, Risiken sehen Sie für den Konsumenten?
 
 ---
 
