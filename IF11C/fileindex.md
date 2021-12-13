@@ -68,6 +68,13 @@ permalink: /files
 [Höhrverstehen fehler](../IF11C/English/resources/prg_lng_listening/__prg_lng_listening_Error.txt){:target="_blank"}\
 [Hörverstehen all fehler](../IF11C/English/resources/prg_lng_listening/___All_Errors.txt){:target="_blank"}
 
+[Defective business letter](../IF11C/English/resources/business%20letters_invitations/1_defective_business_letter.doc){:target="_blank"}\
+[Letter Layout](../IF11C/English/resources/business%20letters_invitations/2_Letter_layout.pdf){:target="_blank"}\
+[Business letters basic](../IF11C/English/resources/business%20letters_invitations/3_business_letters_basics.doc){:target="_blank"}\
+[invitations](../IF11C/English/resources/business%20letters_invitations/4_invitations.doc){:target="_blank"}\
+[invitation task 1](../IF11C/English/resources/business%20letters_invitations/5_invitation_task1.pdf){:target="_blank"}\
+[invitation task 2](../IF11C/English/resources/business%20letters_invitations/5_invitation_task1.pdf){:target="_blank"}
+
 ---
 
 ## ITS

@@ -17,6 +17,7 @@ permalink: /eng/
   - [4. Structural elements](#4-structural-elements)
   - [5. Structoral elements](#5-structoral-elements)
 - [The Problem with Programming](#the-problem-with-programming)
+- [Business letters and Invitations](#business-letters-and-invitations)
 
 ## Programmin Languages - 04.10.2021
 
@@ -166,3 +167,88 @@ Study the interview with Bjarne Stroustrup and answer the following questions:
 9. Why does he think C++ is so successful?\
 
 10. Is Bjarne Stroustrup 100% satisfied with his achievements?\
+
+Complete the following sentences with the correct expressions from the box.
+
+The programming language C++ is an "object *oriented* programming language". Turbo Pascal allows you to *edit* the code while *create* the compiler. Java is *designed* for programming small electronic *devices* and to *predefine* web pages. Simpler in design and use is Javascript which is *embedded* in HTML documents. Visual Basic is a programming *environment* which uses the language BASIC and *predefined* objects chosen from a *toolbox* to write general programs for Window applications. Delphi is a powerful, object  oriented Windows and Linux development tool with very fast *compilation* and *execution*. Unified *modeling* Language (UML) is used to *describe* and document the artifacts of software *systems*. UML *represents* the best engineering *practices* for the modelling of large and complex systems.
+
+Acronyms:
+
+- WLAN - Wireless Local Area Network
+- ALU - Arithmatic Logic Unit
+- BASIC - a simple high-level computer programming language
+- BIOS - Basic Input Outpu System
+- CAD - Computer Aided Design
+- CAM - Computer Aided Manufacturing
+- CAE - Computer Aided Engineering
+- CD - Compact Disk
+- CD-ROM - Compact Disk-Read Only Memory
+- CPU - Central Processing Unit
+- bps - bits per second
+- DTP - Data Transfer Protocol/DeskTop Publishing
+- DVD - Digital Video Disk/Digital Versitile Disk
+- FAQ - Frequently Asked Questions
+- CGI - Computer Generated Image
+- FTP - File Transfer Protocol
+- GB - Giga Byte
+- GUI - Graphical User Interface
+- HTML - Hyper Text Markup Language
+- Hz - Hertz
+- HTTP - Hyper Text Transfer Protocol
+- I/F - Interface
+- I/O - Input/Output
+- IP - Internet Protocol
+- IRC - Internet Relay Chat
+- DSL - Digital Subscriber Line
+- ISP - Internet Service Provider
+- IT - Information Technology
+- LAN - Local Area Network
+- MB - Mega Byte
+- MP - Mega Pixel/Music Player
+- OCR - Optical Character Recognition
+- OS - Operating System
+- PL/1 - "Programming Language I"
+- PPP - Point to Point Protocol
+- RAM - Random Acess Memory
+- TCP/IP - Transmission Control Protocol/Internet Protocol
+- URL - Uniform Resource Locator
+- WAN - Wide Area Network
+- WWW - World Wide Web
+- PIN - Personal Identification Numbers
+- VGA - Video Graphics Array
+- VR - Virtual Reality
+- ppi - pixles per inch
+
+## Business letters and Invitations
+
+There are 12 mistakes in following letter:
+
+```md
+**29 November 2021**/**November 29th, 2021**
+
+**[Sender Adress Missing]**
+
+Ms Carol Cunningham
+25 Maiden Lane
+Poppet M17 2XD
+
+**[Subject line missing]**
+
+**Dear Ms Cunningham,**
+
+**Thank** you for your letter **from** 26 November. We are pleased **to inform** you that ten of the items you ordered have arrived and are ready to be picked up. Please find **enclosed** a list of the items.
+
+I am **afraid that** we are unable to provide the eleventh item, which is no longer in stock. Please **accept** our **apologies** for any inconvenience this may cause you.
+
+If you have any further questions, please **do not** hesitate to contact us.
+
+Yours **Sincerly,**
+
+Mark Burns
+
+Mark Burns
+Sales Director
+**[Signiture missing?]**
+
+**enc**
+```
