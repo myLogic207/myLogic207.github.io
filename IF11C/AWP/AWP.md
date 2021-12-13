@@ -146,7 +146,7 @@ Einstieg Lernsituation: Warum nutzen wir Datenbanken?
 
 [mebis](https://lernplattform.mebis.bayern.de/course/view.php?id=1162649&section=17)
 
-![er-modell](resources/Datenbanken/er_modell_solution.png)
+![er-modell](../../IF11C/AWP/images/er-modell.png)
 
 Entität: Objekt (in einem Rechteck)\
 Relation: Beziehung (in einer Raute)\
@@ -181,3 +181,5 @@ SELECT * FROM tblzutrittsversuche;
 12. 
 13.
 ```
+
+![logisches Datenbankmodell](../../IF11C/AWP/images/logisches_modell.drawio.png)
