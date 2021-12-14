@@ -52,8 +52,8 @@ exclude:
   - Gemfile.lock
   - /vendor/
   - /IF11C/markdownCS.md
-  - /IF11C/PuG/resources/zusammenfassung_block1.md
-  - /IF11C/AWP/resources/Datenbanken_zusammenfassung.md
+  - /IF11C/pug/resources/zusammenfassung_block1.md
+  - /IF11C/awp/resources/Datenbanken_zusammenfassung.md
   - about.markdown.old
 #   - .sass-cache/
 #   - .jekyll-cache/
