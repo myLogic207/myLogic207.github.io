@@ -1,0 +1,5422 @@
+<?xml version="1.0"?>
+<root>
+<Person>
+  <ID>1</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Albrecht</Nachname>
+  <Vorname>Sten</Vorname>
+  <Adresse>Vacher Straße 11</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>25.04.2009</Erfasst_am>
+  <Telefonnummer>0911/436200xx</Telefonnummer>
+  <E-Mail_Adresse>SAlbrecht@domain.de</E-Mail_Adresse>
+  <Kommentar>Benötigt einen Leihwagen während der Reparatur</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>2</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Albrecht</Nachname>
+  <Vorname>Sylvie</Vorname>
+  <Adresse>Schwabacher Straße 23</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>19.11.2010</Erfasst_am>
+  <Telefonnummer>0911/193554xx</Telefonnummer>
+  <E-Mail_Adresse>SAlbrecht@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>3</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Albrecht</Nachname>
+  <Vorname>Sanja</Vorname>
+  <Adresse>Poppenreuther Straße 17</Adresse>
+  <PLZ>90528</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>11.07.2021</Erfasst_am>
+  <Telefonnummer>0911/846627xx</Telefonnummer>
+  <E-Mail_Adresse>SAlbrecht@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>4</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Bauer</Nachname>
+  <Vorname>J.</Vorname>
+  <Adresse>Nürnberger Straße 10</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>25.03.2016</Erfasst_am>
+  <Telefonnummer>0911/486663xx</Telefonnummer>
+  <E-Mail_Adresse>JBauer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>5</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Bauer</Nachname>
+  <Vorname>Hedda</Vorname>
+  <Adresse>Kapellenstraße 20</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>04.10.2010</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>HBauer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>6</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Bauer</Nachname>
+  <Vorname>Thjorven</Vorname>
+  <Adresse>Regelsbacher Straße 12</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>12.05.2008</Erfasst_am>
+  <Telefonnummer>0911/224802xx</Telefonnummer>
+  <E-Mail_Adresse>TBauer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>7</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Baumann</Nachname>
+  <Vorname>Sigurd</Vorname>
+  <Adresse>Am Europakanal 9</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>19.10.2009</Erfasst_am>
+  <Telefonnummer>0911/881686xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>8</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Baumann</Nachname>
+  <Vorname>Hannah</Vorname>
+  <Adresse>Kronacher Straße 15</Adresse>
+  <PLZ></PLZ>
+  <Ort></Ort>
+  <Erfasst_am>03.02.2019</Erfasst_am>
+  <Telefonnummer>0911/562309xx</Telefonnummer>
+  <E-Mail_Adresse>HBaumann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>9</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Baumann</Nachname>
+  <Vorname>Ira</Vorname>
+  <Adresse>Flexdorfer Straße 3</Adresse>
+  <PLZ>90527</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>11.12.2004</Erfasst_am>
+  <Telefonnummer>0911/497219xx</Telefonnummer>
+  <E-Mail_Adresse>IBaumann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>10</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Beck</Nachname>
+  <Vorname>Hugo</Vorname>
+  <Adresse>Kapellenstraße 4</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>12.07.2009</Erfasst_am>
+  <Telefonnummer>0911/946852xx</Telefonnummer>
+  <E-Mail_Adresse>HBeck@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>11</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Beck</Nachname>
+  <Vorname>Susanne</Vorname>
+  <Adresse>Regelsbacher Straße 25</Adresse>
+  <PLZ>90531</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>17.04.2015</Erfasst_am>
+  <Telefonnummer>0911/547748xx</Telefonnummer>
+  <E-Mail_Adresse>SBeck@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>12</ID>
+  <Anrede>Divers</Anrede>
+  <Nachname>Beck</Nachname>
+  <Vorname>Ola</Vorname>
+  <Adresse>Vacher Straße 3</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>10.05.2018</Erfasst_am>
+  <Telefonnummer>0911/355142xx</Telefonnummer>
+  <E-Mail_Adresse>OBeck@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>13</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Becker</Nachname>
+  <Vorname>Elias</Vorname>
+  <Adresse>Poppenreuther Straße 1</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>25.02.2004</Erfasst_am>
+  <Telefonnummer>0911/714388xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>14</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Becker</Nachname>
+  <Vorname>Helena</Vorname>
+  <Adresse>Herboldshofer Straße 10</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>12.07.2019</Erfasst_am>
+  <Telefonnummer>0911/50607xx</Telefonnummer>
+  <E-Mail_Adresse>HBecker@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>15</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Becker</Nachname>
+  <Vorname>Lian</Vorname>
+  <Adresse>Zirndorfer Straße 23</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>05.10.2016</Erfasst_am>
+  <Telefonnummer>0911/55658xx</Telefonnummer>
+  <E-Mail_Adresse>LBecker@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>16</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Berger</Nachname>
+  <Vorname>Peter</Vorname>
+  <Adresse>Karolinenstraße 24</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>11.06.2000</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>17</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Berger</Nachname>
+  <Vorname>Helen</Vorname>
+  <Adresse>Atzenhofer Straße 21</Adresse>
+  <PLZ>90528</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>07.09.2019</Erfasst_am>
+  <Telefonnummer>0911/282896xx</Telefonnummer>
+  <E-Mail_Adresse>HBerger@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>18</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Berger</Nachname>
+  <Vorname>Elia</Vorname>
+  <Adresse>Würzburger Straße 9</Adresse>
+  <PLZ>90521</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>15.03.2002</Erfasst_am>
+  <Telefonnummer>0911/895553xx</Telefonnummer>
+  <E-Mail_Adresse>EBerger@domain.de</E-Mail_Adresse>
+  <Kommentar>Wichtiger Kunde!</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>19</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Bergmann</Nachname>
+  <Vorname>Christina</Vorname>
+  <Adresse>Zirndorfer Straße 19</Adresse>
+  <PLZ>90523</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>12.03.2007</Erfasst_am>
+  <Telefonnummer>0911/677134xx</Telefonnummer>
+  <E-Mail_Adresse>CBergmann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>20</ID>
+  <Anrede></Anrede>
+  <Nachname>Bergmann</Nachname>
+  <Vorname>Simone</Vorname>
+  <Adresse>Schatzhofen 24</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>30.07.2018</Erfasst_am>
+  <Telefonnummer>0911/841493xx</Telefonnummer>
+  <E-Mail_Adresse>SBergmann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>21</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Böhm</Nachname>
+  <Vorname>Dorian</Vorname>
+  <Adresse></Adresse>
+  <PLZ></PLZ>
+  <Ort></Ort>
+  <Erfasst_am>05.02.2000</Erfasst_am>
+  <Telefonnummer>0911/337913xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>22</ID>
+  <Anrede></Anrede>
+  <Nachname>Böhm</Nachname>
+  <Vorname>Lorena</Vorname>
+  <Adresse>Jakobinenstraße 14</Adresse>
+  <PLZ>90429</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>03.02.2010</Erfasst_am>
+  <Telefonnummer>0911/936949xx</Telefonnummer>
+  <E-Mail_Adresse>LBöhm@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>23</ID>
+  <Anrede>Divers</Anrede>
+  <Nachname>Böhm</Nachname>
+  <Vorname>Chris</Vorname>
+  <Adresse>Nürnberger Straße 6</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>12.03.2019</Erfasst_am>
+  <Telefonnummer>0911/598022xx</Telefonnummer>
+  <E-Mail_Adresse>CBöhm@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>24</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Brandt</Nachname>
+  <Vorname>Hugh</Vorname>
+  <Adresse>Herzogenauracher Straße 22</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>03.01.2003</Erfasst_am>
+  <Telefonnummer>0911/370031xx</Telefonnummer>
+  <E-Mail_Adresse>HBrandt@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>25</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Brandt</Nachname>
+  <Vorname>Christine</Vorname>
+  <Adresse>Cadolzburger Straße 15</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>01.08.2006</Erfasst_am>
+  <Telefonnummer>0911/872143xx</Telefonnummer>
+  <E-Mail_Adresse>CBrandt@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Phone</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>26</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Brandt</Nachname>
+  <Vorname>Isa</Vorname>
+  <Adresse>Jakobinenstraße 5</Adresse>
+  <PLZ>90533</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>18.06.2008</Erfasst_am>
+  <Telefonnummer>0911/241269xx</Telefonnummer>
+  <E-Mail_Adresse>IBrandt@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>27</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Braun</Nachname>
+  <Vorname>Peer</Vorname>
+  <Adresse>Hardstraße 11 Fürth</Adresse>
+  <PLZ></PLZ>
+  <Ort></Ort>
+  <Erfasst_am>14.10.2012</Erfasst_am>
+  <Telefonnummer>0911/527847xx</Telefonnummer>
+  <E-Mail_Adresse>PBraun@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>28</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Braun</Nachname>
+  <Vorname>Heike</Vorname>
+  <Adresse>Neuhauser Straße 10</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>21.07.2016</Erfasst_am>
+  <Telefonnummer>0911/999984xx</Telefonnummer>
+  <E-Mail_Adresse>HBraun@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>29</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Braun</Nachname>
+  <Vorname>C.</Vorname>
+  <Adresse>Karolinenstraße 19</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>23.07.2018</Erfasst_am>
+  <Telefonnummer>0911/170134xx</Telefonnummer>
+  <E-Mail_Adresse>CBraun@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>30</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Busch</Nachname>
+  <Vorname>T.</Vorname>
+  <Adresse>Cadolzburger Straße 17</Adresse>
+  <PLZ>90520</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>28.08.2005</Erfasst_am>
+  <Telefonnummer>0911/46328xx</Telefonnummer>
+  <E-Mail_Adresse>TBusch@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>31</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Busch</Nachname>
+  <Vorname>Kimi</Vorname>
+  <Adresse>Jakobinenstraße 20</Adresse>
+  <PLZ>90513</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>20.01.2011</Erfasst_am>
+  <Telefonnummer>0911/470712xx</Telefonnummer>
+  <E-Mail_Adresse>KBusch@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>32</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Dietrich</Nachname>
+  <Vorname>Jonas</Vorname>
+  <Adresse>Schatzhofen 13</Adresse>
+  <PLZ></PLZ>
+  <Ort></Ort>
+  <Erfasst_am>19.08.2007</Erfasst_am>
+  <Telefonnummer>0911/293560xx</Telefonnummer>
+  <E-Mail_Adresse>JDietrich@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>33</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Dietrich</Nachname>
+  <Vorname>Elena</Vorname>
+  <Adresse>Unterfarrnbacher Straße 5</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>12.11.2009</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>EDietrich@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>34</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Engel</Nachname>
+  <Vorname>Yall</Vorname>
+  <Adresse>Erlanger Straße 24</Adresse>
+  <PLZ>90513</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>24.05.2004</Erfasst_am>
+  <Telefonnummer>0911/703953xx</Telefonnummer>
+  <E-Mail_Adresse>YEngel@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>35</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Engel</Nachname>
+  <Vorname>Kjellrun</Vorname>
+  <Adresse>Espanstraße 9 Nürnberg</Adresse>
+  <PLZ></PLZ>
+  <Ort></Ort>
+  <Erfasst_am>24.09.2021</Erfasst_am>
+  <Telefonnummer>0911/907382xx</Telefonnummer>
+  <E-Mail_Adresse>KEngel@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>36</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Ernst</Nachname>
+  <Vorname>Svenja</Vorname>
+  <Adresse>Stadelner Hauptstraße 11</Adresse>
+  <PLZ>90526</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>13.02.2004</Erfasst_am>
+  <Telefonnummer>0911/275859xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar>Wichtiger Kunde!</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>37</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Ernst</Nachname>
+  <Vorname>Marion</Vorname>
+  <Adresse>Erlanger Straße 13</Adresse>
+  <PLZ>90519</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>07.05.2003</Erfasst_am>
+  <Telefonnummer>0911/918516xx</Telefonnummer>
+  <E-Mail_Adresse>MErnst@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>38</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Fischer</Nachname>
+  <Vorname>Ben</Vorname>
+  <Adresse>Am Europakanal 18</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>26.11.2018</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>BFischer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson></Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>39</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Fischer</Nachname>
+  <Vorname>Mia</Vorname>
+  <Adresse>Kronacher Straße 6</Adresse>
+  <PLZ>90531</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>01.04.2012</Erfasst_am>
+  <Telefonnummer>0911/970398xx</Telefonnummer>
+  <E-Mail_Adresse>MFischer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>40</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Fischer</Nachname>
+  <Vorname>Leo</Vorname>
+  <Adresse>Flexdorfer Straße 16</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>13.04.2004</Erfasst_am>
+  <Telefonnummer>0911/162904xx</Telefonnummer>
+  <E-Mail_Adresse>LFischer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>41</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Frank</Nachname>
+  <Vorname>Daniel</Vorname>
+  <Adresse>Mannhofer Straße 18</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>28.01.2012</Erfasst_am>
+  <Telefonnummer>0911/528579xx</Telefonnummer>
+  <E-Mail_Adresse>DFrank@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>42</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Frank</Nachname>
+  <Vorname>Sonja</Vorname>
+  <Adresse>Stadelner Hauptstraße 19</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>17.12.2010</Erfasst_am>
+  <Telefonnummer>0911/763808xx</Telefonnummer>
+  <E-Mail_Adresse>SFrank@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>43</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Frank</Nachname>
+  <Vorname>Jayden</Vorname>
+  <Adresse>Erlanger Straße 10</Adresse>
+  <PLZ>90522</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>05.10.2015</Erfasst_am>
+  <Telefonnummer>0911/921238xx</Telefonnummer>
+  <E-Mail_Adresse>JFrank@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>44</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Franke</Nachname>
+  <Vorname>Veit</Vorname>
+  <Adresse>Heilstättenstraße 21</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>16.02.2019</Erfasst_am>
+  <Telefonnummer>0911/397243xx</Telefonnummer>
+  <E-Mail_Adresse>VFranke@domain.de</E-Mail_Adresse>
+  <Kommentar>Benötigt einen Leihwagen während der Reparatur</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>45</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Franke</Nachname>
+  <Vorname>Alva</Vorname>
+  <Adresse>Hardstraße 18</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>15.07.2006</Erfasst_am>
+  <Telefonnummer>0911/96422xx</Telefonnummer>
+  <E-Mail_Adresse>AFranke@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>46</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Franke</Nachname>
+  <Vorname>Bo</Vorname>
+  <Adresse>Neuhauser Straße 8</Adresse>
+  <PLZ>90530</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>12.02.2005</Erfasst_am>
+  <Telefonnummer>0911/603375xx</Telefonnummer>
+  <E-Mail_Adresse>BFranke@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>47</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Friedrich</Nachname>
+  <Vorname>S.</Vorname>
+  <Adresse>Bahnhofplatz 4</Adresse>
+  <PLZ>90532</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>14.02.2019</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>SFriedrich@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>48</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Friedrich</Nachname>
+  <Vorname>Bettina</Vorname>
+  <Adresse>Soldnerstraße 24</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort></Ort>
+  <Erfasst_am>11.12.2004</Erfasst_am>
+  <Telefonnummer>0911/653153xx</Telefonnummer>
+  <E-Mail_Adresse>BFriedrich@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>49</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Friedrich</Nachname>
+  <Vorname>Malou</Vorname>
+  <Adresse>Mannhofer Straße 6</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>25.07.2014</Erfasst_am>
+  <Telefonnummer>0911/755367xx</Telefonnummer>
+  <E-Mail_Adresse>MFriedrich@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>50</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Fuchs</Nachname>
+  <Vorname>Björn</Vorname>
+  <Adresse>Unterfarrnbacher Straße 14</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>07.01.2002</Erfasst_am>
+  <Telefonnummer>0911/209861xx</Telefonnummer>
+  <E-Mail_Adresse>BFuchs@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>51</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Fuchs</Nachname>
+  <Vorname>Stefanie</Vorname>
+  <Adresse>Am Europakanal 18</Adresse>
+  <PLZ>90533</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>12.11.2007</Erfasst_am>
+  <Telefonnummer>0911/132840xx</Telefonnummer>
+  <E-Mail_Adresse>SFuchs@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson></Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>52</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Fuchs</Nachname>
+  <Vorname>Paris</Vorname>
+  <Adresse>Kronacher Straße 18</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>27.05.2003</Erfasst_am>
+  <Telefonnummer>0911/532473xx</Telefonnummer>
+  <E-Mail_Adresse>PFuchs@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>53</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Graf</Nachname>
+  <Vorname>Dean</Vorname>
+  <Adresse>Mannhofer Straße 11</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>27.05.2002</Erfasst_am>
+  <Telefonnummer>0911/199088xx</Telefonnummer>
+  <E-Mail_Adresse>DGraf@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Phone</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>54</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Graf</Nachname>
+  <Vorname>Smilla</Vorname>
+  <Adresse>Stadelner Hauptstraße 2</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>12.10.2007</Erfasst_am>
+  <Telefonnummer>0911/908576xx</Telefonnummer>
+  <E-Mail_Adresse>SGraf@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>55</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Groß</Nachname>
+  <Vorname>Heiko</Vorname>
+  <Adresse>Kronacher Straße 24</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>16.10.2010</Erfasst_am>
+  <Telefonnummer>0911/233880xx</Telefonnummer>
+  <E-Mail_Adresse>HGroß@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>56</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Groß</Nachname>
+  <Vorname>Malin</Vorname>
+  <Adresse>Flexdorfer Straße 15</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>29.03.2013</Erfasst_am>
+  <Telefonnummer>0911/664309xx</Telefonnummer>
+  <E-Mail_Adresse>MGroß@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>57</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Groß</Nachname>
+  <Vorname>Noa</Vorname>
+  <Adresse>Bahnhofplatz 2</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>18.10.2001</Erfasst_am>
+  <Telefonnummer>0911/136822xx</Telefonnummer>
+  <E-Mail_Adresse>NGroß@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>58</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Günther</Nachname>
+  <Vorname>Max</Vorname>
+  <Adresse>Herboldshofer Straße 18</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>21.05.2007</Erfasst_am>
+  <Telefonnummer>0911/620600xx</Telefonnummer>
+  <E-Mail_Adresse>MGünther@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>59</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Günther</Nachname>
+  <Vorname>Nina</Vorname>
+  <Adresse>Zirndorfer Straße 22</Adresse>
+  <PLZ>90526</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>02.11.2015</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>NGünther@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>60</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Günther</Nachname>
+  <Vorname>Jamie</Vorname>
+  <Adresse>Schatzhofen 11</Adresse>
+  <PLZ>90519</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>25.10.2000</Erfasst_am>
+  <Telefonnummer>0911/800728xx</Telefonnummer>
+  <E-Mail_Adresse>JGünther@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>61</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Haas</Nachname>
+  <Vorname>Henry</Vorname>
+  <Adresse>Hardstraße 10</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>22.03.2003</Erfasst_am>
+  <Telefonnummer>0911/622954xx</Telefonnummer>
+  <E-Mail_Adresse>HHaas@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>62</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Haas</Nachname>
+  <Vorname>Elisabeth</Vorname>
+  <Adresse>Neuhauser Straße 1</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>25.09.2001</Erfasst_am>
+  <Telefonnummer>0911/400137xx</Telefonnummer>
+  <E-Mail_Adresse>EHaas@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>63</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Haas</Nachname>
+  <Vorname>Lou</Vorname>
+  <Adresse>Karolinenstraße 11</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>24.03.2000</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>LHaas@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>64</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Hahn</Nachname>
+  <Vorname>Raik</Vorname>
+  <Adresse>Schwabacher Straße 8</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>28.03.2009</Erfasst_am>
+  <Telefonnummer>0911/412648xx</Telefonnummer>
+  <E-Mail_Adresse>RHahn@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>65</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Hahn</Nachname>
+  <Vorname>Britta</Vorname>
+  <Adresse>Poppenreuther Straße 9</Adresse>
+  <PLZ>90522</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>04.06.2009</Erfasst_am>
+  <Telefonnummer>0911/837425xx</Telefonnummer>
+  <E-Mail_Adresse>BHahn@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>66</ID>
+  <Anrede>Divers</Anrede>
+  <Nachname>Hahn</Nachname>
+  <Vorname>Janis</Vorname>
+  <Adresse>Herboldshofer Straße 2</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>06.10.2019</Erfasst_am>
+  <Telefonnummer>0911/876378xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>67</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Hartmann</Nachname>
+  <Vorname>Nick</Vorname>
+  <Adresse>Karolinenstraße 4</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>18.02.2000</Erfasst_am>
+  <Telefonnummer>0911/646662xx</Telefonnummer>
+  <E-Mail_Adresse>NHartmann@domain.de</E-Mail_Adresse>
+  <Kommentar>Benötigt einen Leihwagen während der Reparatur</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>68</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Hartmann</Nachname>
+  <Vorname>Doris</Vorname>
+  <Adresse>Atzenhofer Straße 2</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>13.07.2008</Erfasst_am>
+  <Telefonnummer>0911/682711xx</Telefonnummer>
+  <E-Mail_Adresse>DHartmann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>69</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Hartmann</Nachname>
+  <Vorname>Toni</Vorname>
+  <Adresse>Würzburger Straße 13</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>16.02.2013</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>THartmann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>70</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Heinrich</Nachname>
+  <Vorname>Ragnar</Vorname>
+  <Adresse>Bahnhofplatz 18</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort></Ort>
+  <Erfasst_am>14.02.2000</Erfasst_am>
+  <Telefonnummer>0911/70394xx</Telefonnummer>
+  <E-Mail_Adresse>RHeinrich@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>71</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Heinrich</Nachname>
+  <Vorname>Celina</Vorname>
+  <Adresse>Soldnerstraße 3</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>29.04.2007</Erfasst_am>
+  <Telefonnummer>0911/112665xx</Telefonnummer>
+  <E-Mail_Adresse>CHeinrich@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>72</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Heinrich</Nachname>
+  <Vorname>Yael</Vorname>
+  <Adresse>Mannhofer Straße 18</Adresse>
+  <PLZ>90519</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>03.04.2004</Erfasst_am>
+  <Telefonnummer>0911/558841xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>73</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Hermann</Nachname>
+  <Vorname>Markus</Vorname>
+  <Adresse>Poppenreuther Straße 23</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>14.11.2020</Erfasst_am>
+  <Telefonnummer>0911/783410xx</Telefonnummer>
+  <E-Mail_Adresse>MHermann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>74</ID>
+  <Anrede></Anrede>
+  <Nachname>Hermann</Nachname>
+  <Vorname>Sophie</Vorname>
+  <Adresse>Herboldshofer Straße 8</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>29.12.2001</Erfasst_am>
+  <Telefonnummer>0911/954434xx</Telefonnummer>
+  <E-Mail_Adresse>SHermann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>75</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Hermann</Nachname>
+  <Vorname>Ulli</Vorname>
+  <Adresse>Zirndorfer Straße 7</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>15.06.2017</Erfasst_am>
+  <Telefonnummer>0911/526203xx</Telefonnummer>
+  <E-Mail_Adresse>UHermann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>76</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Hofmann</Nachname>
+  <Vorname>Sven</Vorname>
+  <Adresse>Heilstättenstraße 11</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>18.10.2016</Erfasst_am>
+  <Telefonnummer>0911/873845xx</Telefonnummer>
+  <E-Mail_Adresse>SHofmann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>77</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Hofmann</Nachname>
+  <Vorname>Sebastian</Vorname>
+  <Adresse>Mannhofer Straße 21</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>07.02.2020</Erfasst_am>
+  <Telefonnummer>0911/538730xx</Telefonnummer>
+  <E-Mail_Adresse>SHofmann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>78</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Hofmann</Nachname>
+  <Vorname>Anna</Vorname>
+  <Adresse>Hardstraße 16</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>07.03.2008</Erfasst_am>
+  <Telefonnummer>0911/465021xx</Telefonnummer>
+  <E-Mail_Adresse>AHofmann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>79</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Hofmann</Nachname>
+  <Vorname>Solveig</Vorname>
+  <Adresse>Stadelner Hauptstraße 19</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>20.11.2007</Erfasst_am>
+  <Telefonnummer>0911/869404xx</Telefonnummer>
+  <E-Mail_Adresse>SHofmann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>80</ID>
+  <Anrede>Divers</Anrede>
+  <Nachname>Hofmann</Nachname>
+  <Vorname>Sascha</Vorname>
+  <Adresse>Neuhauser Straße 5</Adresse>
+  <PLZ>90527</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>20.11.2015</Erfasst_am>
+  <Telefonnummer>0911/351154xx</Telefonnummer>
+  <E-Mail_Adresse>SHofmann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>81</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Hofmann</Nachname>
+  <Vorname>Valentine</Vorname>
+  <Adresse>Erlanger Straße 25</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>06.01.2001</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>VHofmann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Phone</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>82</ID>
+  <Anrede>Divers</Anrede>
+  <Nachname>Horn</Nachname>
+  <Vorname>Volker</Vorname>
+  <Adresse>Heilstättenstraße 19</Adresse>
+  <PLZ>90533</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>01.02.2001</Erfasst_am>
+  <Telefonnummer>0911/379582xx</Telefonnummer>
+  <E-Mail_Adresse>VHorn@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>83</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Horn</Nachname>
+  <Vorname>Maria</Vorname>
+  <Adresse>Hardstraße 24</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>04.02.2004</Erfasst_am>
+  <Telefonnummer>0911/357526xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar>Benötigt einen Leihwagen während der Reparatur</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>84</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Huber</Nachname>
+  <Vorname>Carsten</Vorname>
+  <Adresse>Atzenhofer Straße 11</Adresse>
+  <PLZ>90522</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>05.01.2012</Erfasst_am>
+  <Telefonnummer>0911/409457xx</Telefonnummer>
+  <E-Mail_Adresse>CHuber@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>85</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Huber</Nachname>
+  <Vorname>Hermine</Vorname>
+  <Adresse>Würzburger Straße 16</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>20.11.2001</Erfasst_am>
+  <Telefonnummer>0911/735708xx</Telefonnummer>
+  <E-Mail_Adresse>HHuber@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>86</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Huber</Nachname>
+  <Vorname>Shayan</Vorname>
+  <Adresse>Höfener Straße 25</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>15.12.2018</Erfasst_am>
+  <Telefonnummer>0911/73206xx</Telefonnummer>
+  <E-Mail_Adresse>SHuber@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>87</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Jäger</Nachname>
+  <Vorname>Helmut</Vorname>
+  <Adresse>Espanstraße 21</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>20.07.2001</Erfasst_am>
+  <Telefonnummer>0911/519343xx</Telefonnummer>
+  <E-Mail_Adresse>HJäger@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>88</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Jäger</Nachname>
+  <Vorname>Hertha</Vorname>
+  <Adresse>Heilstättenstraße 15</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>01.12.2009</Erfasst_am>
+  <Telefonnummer>0911/958812xx</Telefonnummer>
+  <E-Mail_Adresse>HJäger@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>89</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Jäger</Nachname>
+  <Vorname>Aiko</Vorname>
+  <Adresse>Hardstraße 14</Adresse>
+  <PLZ>90514</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>03.02.2004</Erfasst_am>
+  <Telefonnummer>0911/19827xx</Telefonnummer>
+  <E-Mail_Adresse>AJäger@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>90</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Jung</Nachname>
+  <Vorname>Ulf</Vorname>
+  <Adresse>Kronacher Straße 1</Adresse>
+  <PLZ>90528</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>27.07.2010</Erfasst_am>
+  <Telefonnummer>0911/455494xx</Telefonnummer>
+  <E-Mail_Adresse>UJung@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>91</ID>
+  <Anrede>Divers</Anrede>
+  <Nachname>Jung</Nachname>
+  <Vorname>Lilith</Vorname>
+  <Adresse>Flexdorfer Straße 3</Adresse>
+  <PLZ>90521</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>13.07.2014</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>LJung@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>92</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Jung</Nachname>
+  <Vorname>Jona</Vorname>
+  <Adresse>Bahnhofplatz 25</Adresse>
+  <PLZ>90514</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>25.06.2014</Erfasst_am>
+  <Telefonnummer>0911/150900xx</Telefonnummer>
+  <E-Mail_Adresse>JJung@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>93</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Kaiser</Nachname>
+  <Vorname>Tjark</Vorname>
+  <Adresse></Adresse>
+  <PLZ>90523</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>23.10.2020</Erfasst_am>
+  <Telefonnummer>0911/909669xx</Telefonnummer>
+  <E-Mail_Adresse>TKaiser@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>94</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Kaiser</Nachname>
+  <Vorname>Stella</Vorname>
+  <Adresse>Erlanger Straße 4</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>10.09.2007</Erfasst_am>
+  <Telefonnummer>0911/526083xx</Telefonnummer>
+  <E-Mail_Adresse>SKaiser@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>95</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Kaiser</Nachname>
+  <Vorname>Felice</Vorname>
+  <Adresse>Espanstraße 12</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>12.02.2019</Erfasst_am>
+  <Telefonnummer>0911/397547xx</Telefonnummer>
+  <E-Mail_Adresse>FKaiser@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>96</ID>
+  <Anrede>Divers</Anrede>
+  <Nachname>Kaya</Nachname>
+  <Vorname>Malte</Vorname>
+  <Adresse></Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>16.07.2000</Erfasst_am>
+  <Telefonnummer>0911/95180xx</Telefonnummer>
+  <E-Mail_Adresse>MKaya@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>97</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Kaya</Nachname>
+  <Vorname>Hildegard</Vorname>
+  <Adresse>Unterfarrnbacher Straße 5</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>02.06.2012</Erfasst_am>
+  <Telefonnummer>0911/213213xx</Telefonnummer>
+  <E-Mail_Adresse>HKaya@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>98</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Kaya</Nachname>
+  <Vorname>Jael</Vorname>
+  <Adresse>Am Europakanal 14</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>22.01.2000</Erfasst_am>
+  <Telefonnummer>0911/407075xx</Telefonnummer>
+  <E-Mail_Adresse>JKaya@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>99</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Keller</Nachname>
+  <Vorname>Claas</Vorname>
+  <Adresse>Herzogenauracher Straße 12</Adresse>
+  <PLZ>90530</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>06.08.2020</Erfasst_am>
+  <Telefonnummer>0911/835780xx</Telefonnummer>
+  <E-Mail_Adresse>CKeller@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>100</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Keller</Nachname>
+  <Vorname>Virginia</Vorname>
+  <Adresse>Cadolzburger Straße 7</Adresse>
+  <PLZ>90523</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>24.10.2007</Erfasst_am>
+  <Telefonnummer>0911/462573xx</Telefonnummer>
+  <E-Mail_Adresse>VKeller@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>101</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Keller</Nachname>
+  <Vorname>Anouk</Vorname>
+  <Adresse>Jakobinenstraße 13</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>17.06.2011</Erfasst_am>
+  <Telefonnummer>0911/320322xx</Telefonnummer>
+  <E-Mail_Adresse>AKeller@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>102</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Klein</Nachname>
+  <Vorname>Mats</Vorname>
+  <Adresse>Stadelner Hauptstraße 25</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>10.06.2006</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>MKlein@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson></Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>103</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Klein</Nachname>
+  <Vorname>Ruth</Vorname>
+  <Adresse>Erlanger Straße 11</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>12.03.2020</Erfasst_am>
+  <Telefonnummer>0911/295798xx</Telefonnummer>
+  <E-Mail_Adresse>RKlein@domain.de</E-Mail_Adresse>
+  <Kommentar>Nachmittagstermine gewünscht</Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>104</ID>
+  <Anrede>Divers</Anrede>
+  <Nachname>Klein</Nachname>
+  <Vorname>Kim</Vorname>
+  <Adresse>Espanstraße 8</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>27.10.2006</Erfasst_am>
+  <Telefonnummer>0911/372155xx</Telefonnummer>
+  <E-Mail_Adresse>KKlein@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>105</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Koch</Nachname>
+  <Vorname></Vorname>
+  <Adresse>Zirndorfer Straße 2</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>09.04.2000</Erfasst_am>
+  <Telefonnummer>0911/316014xx</Telefonnummer>
+  <E-Mail_Adresse>Koch@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>106</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Koch</Nachname>
+  <Vorname>Daniela</Vorname>
+  <Adresse>Schatzhofen 4</Adresse>
+  <PLZ>90429</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>12.02.2017</Erfasst_am>
+  <Telefonnummer>0911/169320xx</Telefonnummer>
+  <E-Mail_Adresse>DKoch@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>107</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Koch</Nachname>
+  <Vorname>Lynn</Vorname>
+  <Adresse>Unterfarrnbacher Straße 23</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>05.01.2014</Erfasst_am>
+  <Telefonnummer>0911/354901xx</Telefonnummer>
+  <E-Mail_Adresse>LKoch@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>108</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Köhler</Nachname>
+  <Vorname>David</Vorname>
+  <Adresse>Heilstättenstraße 2</Adresse>
+  <PLZ>90514</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>20.11.2013</Erfasst_am>
+  <Telefonnummer>0911/459110xx</Telefonnummer>
+  <E-Mail_Adresse>DKöhler@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>109</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Köhler</Nachname>
+  <Vorname>Helga</Vorname>
+  <Adresse>Hardstraße 15</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>25.12.2016</Erfasst_am>
+  <Telefonnummer>0911/609660xx</Telefonnummer>
+  <E-Mail_Adresse>HKöhler@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Phone</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>110</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Köhler</Nachname>
+  <Vorname>Ryan</Vorname>
+  <Adresse>Neuhauser Straße 23</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>13.02.2005</Erfasst_am>
+  <Telefonnummer>0911/993143xx</Telefonnummer>
+  <E-Mail_Adresse>RKöhler@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>111</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>König</Nachname>
+  <Vorname>Jörg</Vorname>
+  <Adresse></Adresse>
+  <PLZ></PLZ>
+  <Ort></Ort>
+  <Erfasst_am>07.01.2009</Erfasst_am>
+  <Telefonnummer>0911/900799xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>112</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>König</Nachname>
+  <Vorname>Sophia</Vorname>
+  <Adresse>Jakobinenstraße 8</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>29.01.2015</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>SKönig@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>113</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>König</Nachname>
+  <Vorname>Raven</Vorname>
+  <Adresse>Nürnberger Straße 16</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>01.07.2018</Erfasst_am>
+  <Telefonnummer>0911/367514xx</Telefonnummer>
+  <E-Mail_Adresse>RKönig@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>114</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Kowalski</Nachname>
+  <Vorname>Edgar</Vorname>
+  <Adresse>Poppenreuther Straße 14</Adresse>
+  <PLZ>90519</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>20.12.2008</Erfasst_am>
+  <Telefonnummer>0911/119647xx</Telefonnummer>
+  <E-Mail_Adresse>EKowalski@domain.de</E-Mail_Adresse>
+  <Kommentar>Wichtiger Kunde!</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>115</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Kowalski</Nachname>
+  <Vorname>Noah</Vorname>
+  <Adresse>Herboldshofer Straße 15</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>27.12.2016</Erfasst_am>
+  <Telefonnummer>0911/442327xx</Telefonnummer>
+  <E-Mail_Adresse>NKowalski@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>116</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Krämer</Nachname>
+  <Vorname>Hendrik</Vorname>
+  <Adresse>Stadelner Hauptstraße 19</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>22.09.2005</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>HKrämer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>117</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Krämer</Nachname>
+  <Vorname>Hedwig</Vorname>
+  <Adresse>Erlanger Straße 12</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>26.06.2010</Erfasst_am>
+  <Telefonnummer>0911/843742xx</Telefonnummer>
+  <E-Mail_Adresse>HKrämer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>118</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Krämer</Nachname>
+  <Vorname>Adi</Vorname>
+  <Adresse>Espanstraße 2</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>08.07.2007</Erfasst_am>
+  <Telefonnummer>0911/230157xx</Telefonnummer>
+  <E-Mail_Adresse>AKrämer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>119</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Kraus</Nachname>
+  <Vorname>Damian</Vorname>
+  <Adresse>Zirndorfer Straße 5 Fürth</Adresse>
+  <PLZ></PLZ>
+  <Ort></Ort>
+  <Erfasst_am>16.04.2009</Erfasst_am>
+  <Telefonnummer>0911/671421xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>120</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Kraus</Nachname>
+  <Vorname>Sigrun</Vorname>
+  <Adresse>Schatzhofen 13 90443 Nürnberg</Adresse>
+  <PLZ></PLZ>
+  <Ort></Ort>
+  <Erfasst_am>13.03.2010</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>SKraus@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>121</ID>
+  <Anrede></Anrede>
+  <Nachname>Kraus</Nachname>
+  <Vorname>Marley</Vorname>
+  <Adresse>Unterfarrnbacher Straße 3</Adresse>
+  <PLZ>90528</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>20.05.2018</Erfasst_am>
+  <Telefonnummer>0911/619928xx</Telefonnummer>
+  <E-Mail_Adresse>MKraus@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>122</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Krause</Nachname>
+  <Vorname>Piet</Vorname>
+  <Adresse>Kapellenstraße 9</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>19.02.2014</Erfasst_am>
+  <Telefonnummer>0911/869197xx</Telefonnummer>
+  <E-Mail_Adresse>PKrause@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>123</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Krause</Nachname>
+  <Vorname>Hella</Vorname>
+  <Adresse>Regelsbacher Straße 9</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>15.02.2016</Erfasst_am>
+  <Telefonnummer>0911/798344xx</Telefonnummer>
+  <E-Mail_Adresse>HKrause@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>124</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Krause</Nachname>
+  <Vorname>Amar</Vorname>
+  <Adresse>Vacher Straße 12</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>11.11.2000</Erfasst_am>
+  <Telefonnummer>0911/662637xx</Telefonnummer>
+  <E-Mail_Adresse>AKrause@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>125</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Krüger </Nachname>
+  <Vorname></Vorname>
+  <Adresse>Herzogenauracher Straße 8</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>04.07.2020</Erfasst_am>
+  <Telefonnummer>0911/704079xx</Telefonnummer>
+  <E-Mail_Adresse>Krüger @domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>126</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Krüger </Nachname>
+  <Vorname>Selma</Vorname>
+  <Adresse>Cadolzburger Straße 1</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>03.02.2018</Erfasst_am>
+  <Telefonnummer>0911/539843xx</Telefonnummer>
+  <E-Mail_Adresse>SKrüger @domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>127</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Krüger </Nachname>
+  <Vorname>Robin</Vorname>
+  <Adresse>Jakobinenstraße 11</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>08.01.2013</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>RKrüger @domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>128</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Kuhn</Nachname>
+  <Vorname>Linus</Vorname>
+  <Adresse>Vacher Straße 20</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>14.04.2006</Erfasst_am>
+  <Telefonnummer>0911/475669xx</Telefonnummer>
+  <E-Mail_Adresse>LKuhn@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>129</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Kuhn</Nachname>
+  <Vorname>Dana</Vorname>
+  <Adresse>Schwabacher Straße 5</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>19.03.2006</Erfasst_am>
+  <Telefonnummer>0911/782380xx</Telefonnummer>
+  <E-Mail_Adresse>DKuhn@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>130</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Kühn</Nachname>
+  <Vorname>Samuel</Vorname>
+  <Adresse>Am Europakanal 5</Adresse>
+  <PLZ>90514</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>15.06.2014</Erfasst_am>
+  <Telefonnummer>0911/233116xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>131</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Kühn</Nachname>
+  <Vorname>Luca</Vorname>
+  <Adresse>Kronacher Straße 15</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>06.01.2000</Erfasst_am>
+  <Telefonnummer>0911/310385xx</Telefonnummer>
+  <E-Mail_Adresse>LKühn@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>132</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Lang</Nachname>
+  <Vorname>Josef</Vorname>
+  <Adresse>Espanstraße 9</Adresse>
+  <PLZ>90527</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>03.06.2008</Erfasst_am>
+  <Telefonnummer>0911/842263xx</Telefonnummer>
+  <E-Mail_Adresse>JLang@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>133</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Lang</Nachname>
+  <Vorname>Gerda</Vorname>
+  <Adresse>Heilstättenstraße 2</Adresse>
+  <PLZ>90520</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>23.08.2009</Erfasst_am>
+  <Telefonnummer>0911/131367xx</Telefonnummer>
+  <E-Mail_Adresse>GLang@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>134</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Lang</Nachname>
+  <Vorname>Phoenix</Vorname>
+  <Adresse>Hardstraße 4</Adresse>
+  <PLZ>90513</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>08.08.2009</Erfasst_am>
+  <Telefonnummer>0911/967717xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar>Benötigt einen Leihwagen während der Reparatur</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>135</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Lange</Nachname>
+  <Vorname>Kjell</Vorname>
+  <Adresse>Jakobinenstraße 23</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>06.01.2006</Erfasst_am>
+  <Telefonnummer>0911/357159xx</Telefonnummer>
+  <E-Mail_Adresse>KLange@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>136</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Lange</Nachname>
+  <Vorname>Björk</Vorname>
+  <Adresse>Nürnberger Straße 18</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>30.2.2016</Erfasst_am>
+  <Telefonnummer>0911/256585xx</Telefonnummer>
+  <E-Mail_Adresse>BLange@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>137</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Lange</Nachname>
+  <Vorname>Vivian</Vorname>
+  <Adresse>Kapellenstraße 16</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>13.09.2021</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>VLange@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Phone</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>138</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Lehmann</Nachname>
+  <Vorname>Keno</Vorname>
+  <Adresse>Mühltalstraße 12</Adresse>
+  <PLZ>90513</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>18.01.2004</Erfasst_am>
+  <Telefonnummer>0911/409989xx</Telefonnummer>
+  <E-Mail_Adresse>KLehmann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>139</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Lehmann</Nachname>
+  <Vorname>Silvia</Vorname>
+  <Adresse>Herzogenauracher Straße 11</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>04.07.2013</Erfasst_am>
+  <Telefonnummer>0911/524714xx</Telefonnummer>
+  <E-Mail_Adresse>SLehmann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>140</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Lehmann</Nachname>
+  <Vorname>Jonah</Vorname>
+  <Adresse>Cadolzburger Straße 17</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>12.09.2000</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>141</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Lorenz</Nachname>
+  <Vorname>Sean</Vorname>
+  <Adresse>Erlanger Straße 14</Adresse>
+  <PLZ>90429</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>16.12.2020</Erfasst_am>
+  <Telefonnummer>0911/307174xx</Telefonnummer>
+  <E-Mail_Adresse>SLorenz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>142</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Lorenz</Nachname>
+  <Vorname>Gudrun</Vorname>
+  <Adresse>Espanstraße 15</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>08.12.2013</Erfasst_am>
+  <Telefonnummer>0911/694913xx</Telefonnummer>
+  <E-Mail_Adresse>GLorenz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>143</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Lorenz</Nachname>
+  <Vorname>Anil</Vorname>
+  <Adresse>Heilstättenstraße 15</Adresse>
+  <PLZ>90526</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>29.04.2016</Erfasst_am>
+  <Telefonnummer>0911/993506xx</Telefonnummer>
+  <E-Mail_Adresse>ALorenz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>144</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Ludwig</Nachname>
+  <Vorname>Svend</Vorname>
+  <Adresse></Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>27.07.2017</Erfasst_am>
+  <Telefonnummer>0911/483941xx</Telefonnummer>
+  <E-Mail_Adresse>SLudwig@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>145</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Ludwig</Nachname>
+  <Vorname>Verena</Vorname>
+  <Adresse>Herzogenauracher Straße 25</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>04.09.2014</Erfasst_am>
+  <Telefonnummer>0911/861193xx</Telefonnummer>
+  <E-Mail_Adresse>VLudwig@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>146</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Ludwig</Nachname>
+  <Vorname>Kaya</Vorname>
+  <Adresse>Cadolzburger Straße 7</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>21.07.2005</Erfasst_am>
+  <Telefonnummer>0911/795574xx</Telefonnummer>
+  <E-Mail_Adresse>KLudwig@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>147</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Maier</Nachname>
+  <Vorname>Richard</Vorname>
+  <Adresse>Flexdorfer Straße 18</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>04.03.2018</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>RMaier@domain.de</E-Mail_Adresse>
+  <Kommentar>Wichtiger Kunde!</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>148</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Maier</Nachname>
+  <Vorname>Sarah</Vorname>
+  <Adresse>Bahnhofplatz 11</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>28.06.2010</Erfasst_am>
+  <Telefonnummer>0911/38730xx</Telefonnummer>
+  <E-Mail_Adresse>SMaier@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>149</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Maier</Nachname>
+  <Vorname>Blair</Vorname>
+  <Adresse>Soldnerstraße 10</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>28.01.2014</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>BMaier@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>150</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Martin</Nachname>
+  <Vorname>Heinz</Vorname>
+  <Adresse>Höfener Straße 16</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>09.06.2016</Erfasst_am>
+  <Telefonnummer>0911/373114xx</Telefonnummer>
+  <E-Mail_Adresse>HMartin@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>151</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Martin</Nachname>
+  <Vorname>Luna</Vorname>
+  <Adresse>Mühltalstraße 19</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>03.07.2017</Erfasst_am>
+  <Telefonnummer>0911/866307xx</Telefonnummer>
+  <E-Mail_Adresse>LMartin@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson></Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>152</ID>
+  <Anrede>Divers</Anrede>
+  <Nachname>Martin</Nachname>
+  <Vorname>Alex</Vorname>
+  <Adresse>Herzogenauracher Straße 24</Adresse>
+  <PLZ>90513</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>09.05.2009</Erfasst_am>
+  <Telefonnummer>0911/128222xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>153</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Mayer</Nachname>
+  <Vorname>Elmar</Vorname>
+  <Adresse>Neuhauser Straße 9</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>02.12.2003</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>EMayer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>154</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Mayer</Nachname>
+  <Vorname>Selina</Vorname>
+  <Adresse>Karolinenstraße 12</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>17.10.2014</Erfasst_am>
+  <Telefonnummer>0911/673092xx</Telefonnummer>
+  <E-Mail_Adresse>SMayer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>155</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Mayer</Nachname>
+  <Vorname>Dilan</Vorname>
+  <Adresse>Atzenhofer Straße 13</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>18.10.2000</Erfasst_am>
+  <Telefonnummer>0911/914681xx</Telefonnummer>
+  <E-Mail_Adresse>DMayer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>156</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Meier</Nachname>
+  <Vorname>Dirk</Vorname>
+  <Adresse>Erlanger Straße 5</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>20.04.2000</Erfasst_am>
+  <Telefonnummer>0911/654359xx</Telefonnummer>
+  <E-Mail_Adresse>DMeier@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>157</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Meier</Nachname>
+  <Vorname>Okka</Vorname>
+  <Adresse>Espanstraße 19</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>16.03.2016</Erfasst_am>
+  <Telefonnummer>0911/537310xx</Telefonnummer>
+  <E-Mail_Adresse>OMeier@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>158</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Meier</Nachname>
+  <Vorname>Sina</Vorname>
+  <Adresse>Heilstättenstraße 23</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>23.10.2009</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>159</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Meyer</Nachname>
+  <Vorname>Sören</Vorname>
+  <Adresse>Vacher Straße 1</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>06.04.2017</Erfasst_am>
+  <Telefonnummer>0911/383491xx</Telefonnummer>
+  <E-Mail_Adresse>SMeyer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>160</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Meyer</Nachname>
+  <Vorname>Eva</Vorname>
+  <Adresse>Schwabacher Straße 23</Adresse>
+  <PLZ>90532</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>04.03.2011</Erfasst_am>
+  <Telefonnummer>0911/420890xx</Telefonnummer>
+  <E-Mail_Adresse>EMeyer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>161</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Meyer</Nachname>
+  <Vorname>Sam</Vorname>
+  <Adresse>Poppenreuther Straße 8</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>15.03.2014</Erfasst_am>
+  <Telefonnummer>0911/79753xx</Telefonnummer>
+  <E-Mail_Adresse>SMeyer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>162</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Möller</Nachname>
+  <Vorname>Simon</Vorname>
+  <Adresse>Nürnberger Straße 4</Adresse>
+  <PLZ>90521</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>11.05.2003</Erfasst_am>
+  <Telefonnummer>0911/893263xx</Telefonnummer>
+  <E-Mail_Adresse>SMöller@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>163</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Möller</Nachname>
+  <Vorname>Herdis</Vorname>
+  <Adresse>Kapellenstraße 18</Adresse>
+  <PLZ>90514</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>19.04.2013</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>HMöller@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>164</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Möller</Nachname>
+  <Vorname>Lio</Vorname>
+  <Adresse>Regelsbacher Straße 6</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>30.03.2008</Erfasst_am>
+  <Telefonnummer>0911/344651xx</Telefonnummer>
+  <E-Mail_Adresse>LMöller@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson></Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>165</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Neumann</Nachname>
+  <Vorname>Hauke</Vorname>
+  <Adresse>Espanstraße 24 90768 Fürth</Adresse>
+  <PLZ></PLZ>
+  <Ort></Ort>
+  <Erfasst_am>01.03.2002</Erfasst_am>
+  <Telefonnummer>0911/332049xx</Telefonnummer>
+  <E-Mail_Adresse>HNeumann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Phone</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>166</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Neumann</Nachname>
+  <Vorname>Svea</Vorname>
+  <Adresse>Heilstättenstraße 10</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>06.10.2014</Erfasst_am>
+  <Telefonnummer>0911/524390xx</Telefonnummer>
+  <E-Mail_Adresse>SNeumann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>167</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Neumann</Nachname>
+  <Vorname>Mika</Vorname>
+  <Adresse>Hardstraße 25</Adresse>
+  <PLZ>90429</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>04.03.2010</Erfasst_am>
+  <Telefonnummer>0911/158699xx</Telefonnummer>
+  <E-Mail_Adresse>MNeumann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>168</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Nguyen</Nachname>
+  <Vorname>Thomas</Vorname>
+  <Adresse>Cadolzburger Straße 24</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>14.10.2014</Erfasst_am>
+  <Telefonnummer>0911/144038xx</Telefonnummer>
+  <E-Mail_Adresse>TNguyen@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>169</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Nguyen</Nachname>
+  <Vorname>Lana</Vorname>
+  <Adresse>Jakobinenstraße 16</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>18.05.2021</Erfasst_am>
+  <Telefonnummer>0911/199699xx</Telefonnummer>
+  <E-Mail_Adresse>LNguyen@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>170</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Nguyen</Nachname>
+  <Vorname>Gwyn</Vorname>
+  <Adresse>Nürnberger Straße 12</Adresse>
+  <PLZ>90530</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>28.09.2010</Erfasst_am>
+  <Telefonnummer>0911/918524xx</Telefonnummer>
+  <E-Mail_Adresse>GNguyen@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>171</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Noack</Nachname>
+  <Vorname>Silas</Vorname>
+  <Adresse>Flexdorfer Straße 10</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>20.01.2012</Erfasst_am>
+  <Telefonnummer>0911/609598xx</Telefonnummer>
+  <E-Mail_Adresse>SNoack@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>172</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Noack</Nachname>
+  <Vorname>Ava</Vorname>
+  <Adresse>Bahnhofplatz 18</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>20.11.2019</Erfasst_am>
+  <Telefonnummer>0911/244749xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>173</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Noack</Nachname>
+  <Vorname>Eren</Vorname>
+  <Adresse>Soldnerstraße 16</Adresse>
+  <PLZ>90531</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>04.10.2009</Erfasst_am>
+  <Telefonnummer>0911/108052xx</Telefonnummer>
+  <E-Mail_Adresse>ENoack@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>174</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Nowak</Nachname>
+  <Vorname>Lasse</Vorname>
+  <Adresse>Regelsbacher Straße 22</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>21.11.2012</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>LNowak@domain.de</E-Mail_Adresse>
+  <Kommentar>Benötigt Leihwagen</Kommentar>
+  <DSGVO_Zustimmung> Termine nur Vormittags möglich</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Nein</Bevorzugter_Kontakt>
+  <Kontaktperson>E-Mail</Kontaktperson>
+  <Priorität>Franke Simon</Priorität>
+  <FIELD17>1</FIELD17>
+</Person>
+<Person>
+  <ID>175</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Nowak</Nachname>
+  <Vorname>Ilka</Vorname>
+  <Adresse>Vacher Straße 14</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>23.07.2012</Erfasst_am>
+  <Telefonnummer>0911/726150xx</Telefonnummer>
+  <E-Mail_Adresse>INowak@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>176</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Nowak</Nachname>
+  <Vorname>Neo</Vorname>
+  <Adresse>Schwabacher Straße 17</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>15.09.2002</Erfasst_am>
+  <Telefonnummer>0911/985539xx</Telefonnummer>
+  <E-Mail_Adresse>NNowak@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>177</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Otto</Nachname>
+  <Vorname>Arne</Vorname>
+  <Adresse>Atzenhofer Straße 10</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>27.08.2005</Erfasst_am>
+  <Telefonnummer>0911/361552xx</Telefonnummer>
+  <E-Mail_Adresse>AOtto@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>178</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Otto</Nachname>
+  <Vorname>Juna</Vorname>
+  <Adresse>Würzburger Straße 1</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>30.07.2012</Erfasst_am>
+  <Telefonnummer>0911/886475xx</Telefonnummer>
+  <E-Mail_Adresse>JOtto@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>179</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Otto</Nachname>
+  <Vorname>Marian</Vorname>
+  <Adresse>Höfener Straße 20</Adresse>
+  <PLZ>90530</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>30.05.2000</Erfasst_am>
+  <Telefonnummer>0911/2690xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>180</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Peters</Nachname>
+  <Vorname>Sönke</Vorname>
+  <Adresse>Zirndorfer Straße 20</Adresse>
+  <PLZ>90520</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>24.04.2000</Erfasst_am>
+  <Telefonnummer>0911/257983xx</Telefonnummer>
+  <E-Mail_Adresse>SPeters@domain.de</E-Mail_Adresse>
+  <Kommentar>Nachmittagstermine gewünscht</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>181</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Peters</Nachname>
+  <Vorname>Ylva</Vorname>
+  <Adresse>Schatzhofen 17</Adresse>
+  <PLZ>90513</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>07.04.2013</Erfasst_am>
+  <Telefonnummer>0911/802843xx</Telefonnummer>
+  <E-Mail_Adresse>YPeters@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>182</ID>
+  <Anrede>Divers</Anrede>
+  <Nachname>Peters</Nachname>
+  <Vorname>Aidan</Vorname>
+  <Adresse>Unterfarrnbacher Straße 4</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>10.10.2012</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>APeters@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>183</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Pfeffer</Nachname>
+  <Vorname>Linda</Vorname>
+  <Adresse>Nürnberger Straße 21</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>04.09.2019</Erfasst_am>
+  <Telefonnummer>0911/676557xx</Telefonnummer>
+  <E-Mail_Adresse>LPfeffer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>184</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Pfeffer</Nachname>
+  <Vorname>Rory</Vorname>
+  <Adresse>Kapellenstraße 4</Adresse>
+  <PLZ>90533</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>22.01.2002</Erfasst_am>
+  <Telefonnummer>0911/223233xx</Telefonnummer>
+  <E-Mail_Adresse>RPfeffer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>185</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Pietsch</Nachname>
+  <Vorname>Len</Vorname>
+  <Adresse>Kapellenstraße 19</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>02.12.2016</Erfasst_am>
+  <Telefonnummer>0911/567522xx</Telefonnummer>
+  <E-Mail_Adresse>LPietsch@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>186</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Pietsch</Nachname>
+  <Vorname>Ingvild</Vorname>
+  <Adresse>Regelsbacher Straße 2</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>15.10.2004</Erfasst_am>
+  <Telefonnummer>0911/875181xx</Telefonnummer>
+  <E-Mail_Adresse>IPietsch@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>187</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Pohl</Nachname>
+  <Vorname>Steven</Vorname>
+  <Adresse>Mühltalstraße 19</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>13.08.2001</Erfasst_am>
+  <Telefonnummer>0911/878141xx</Telefonnummer>
+  <E-Mail_Adresse>SPohl@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>188</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Pohl</Nachname>
+  <Vorname>Fiete</Vorname>
+  <Adresse>Herzogenauracher Straße 10</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>04.01.2003</Erfasst_am>
+  <Telefonnummer>0911/253693xx</Telefonnummer>
+  <E-Mail_Adresse>FPohl@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>189</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Richter</Nachname>
+  <Vorname>Levin</Vorname>
+  <Adresse>Atzenhofer Straße 25</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>01.02.2000</Erfasst_am>
+  <Telefonnummer>0911/920916xx</Telefonnummer>
+  <E-Mail_Adresse>LRichter@domain.de</E-Mail_Adresse>
+  <Kommentar>Termine nur Vormittags möglich</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>190</ID>
+  <Anrede>Divers</Anrede>
+  <Nachname>Richter</Nachname>
+  <Vorname>Anne</Vorname>
+  <Adresse>Würzburger Straße 15</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>12.08.2001</Erfasst_am>
+  <Telefonnummer>0911/85527xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>191</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Richter</Nachname>
+  <Vorname>Bente</Vorname>
+  <Adresse>Höfener Straße 23</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>26.04.2020</Erfasst_am>
+  <Telefonnummer>0911/712726xx</Telefonnummer>
+  <E-Mail_Adresse>BRichter@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>192</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Roth</Nachname>
+  <Vorname>Hagen</Vorname>
+  <Adresse>Schatzhofen 4</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>09.04.2009</Erfasst_am>
+  <Telefonnummer>0911/326291xx</Telefonnummer>
+  <E-Mail_Adresse>HRoth@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>193</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Roth</Nachname>
+  <Vorname>Judith</Vorname>
+  <Adresse>Unterfarrnbacher Straße 9</Adresse>
+  <PLZ>90530</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>26.08.2000</Erfasst_am>
+  <Telefonnummer>0911/62868xx</Telefonnummer>
+  <E-Mail_Adresse>JRoth@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Phone</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>194</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Roth</Nachname>
+  <Vorname>Gabriele</Vorname>
+  <Adresse>Am Europakanal 22</Adresse>
+  <PLZ>90523</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>26.07.2013</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>GRoth@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>195</ID>
+  <Anrede></Anrede>
+  <Nachname>Sauer</Nachname>
+  <Vorname>Julia</Vorname>
+  <Adresse>Soldnerstraße 24</Adresse>
+  <PLZ>90522</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>15.06.2000</Erfasst_am>
+  <Telefonnummer>0911/467786xx</Telefonnummer>
+  <E-Mail_Adresse>JSauer@domain.de</E-Mail_Adresse>
+  <Kommentar>Nachmittagstermine gewünscht</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>196</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Sauer</Nachname>
+  <Vorname>Andrea</Vorname>
+  <Adresse>Mannhofer Straße 14</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>11.09.2003</Erfasst_am>
+  <Telefonnummer>0911/475805xx</Telefonnummer>
+  <E-Mail_Adresse>ASauer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>197</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schäfer</Nachname>
+  <Vorname>Lukas</Vorname>
+  <Adresse>Soldnerstraße 13</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>02.04.2002</Erfasst_am>
+  <Telefonnummer>0911/472403xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>198</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schäfer</Nachname>
+  <Vorname>Lennja</Vorname>
+  <Adresse>Mannhofer Straße 21</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>27.12.2011</Erfasst_am>
+  <Telefonnummer>0911/103804xx</Telefonnummer>
+  <E-Mail_Adresse>LSchäfer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>199</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schäfer</Nachname>
+  <Vorname>Merle</Vorname>
+  <Adresse>Stadelner Hauptstraße 13</Adresse>
+  <PLZ>90532</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>06.10.2021</Erfasst_am>
+  <Telefonnummer>0911/331387xx</Telefonnummer>
+  <E-Mail_Adresse>MSchäfer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>200</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schmid</Nachname>
+  <Vorname>Jasper</Vorname>
+  <Adresse>Am Europakanal 18</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>06.04.2018</Erfasst_am>
+  <Telefonnummer>0911/158685xx</Telefonnummer>
+  <E-Mail_Adresse>JSchmid@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>201</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schmid</Nachname>
+  <Vorname>Saskia</Vorname>
+  <Adresse>Kronacher Straße 19</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>25.12.2011</Erfasst_am>
+  <Telefonnummer>0911/403222xx</Telefonnummer>
+  <E-Mail_Adresse>SSchmid@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>202</ID>
+  <Anrede>Divers</Anrede>
+  <Nachname>Schmid</Nachname>
+  <Vorname>Vada</Vorname>
+  <Adresse>Flexdorfer Straße 10</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>30.10.2003</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>VSchmid@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>203</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schmidt</Nachname>
+  <Vorname>Fynn</Vorname>
+  <Adresse>Kapellenstraße 10</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>12.11.2004</Erfasst_am>
+  <Telefonnummer>0911/765250xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>204</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schmidt</Nachname>
+  <Vorname>Ida</Vorname>
+  <Adresse>Regelsbacher Straße 25</Adresse>
+  <PLZ>90528</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>10.09.2003</Erfasst_am>
+  <Telefonnummer>0911/904028xx</Telefonnummer>
+  <E-Mail_Adresse>ISchmidt@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>205</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schmidt</Nachname>
+  <Vorname>Shane</Vorname>
+  <Adresse>Vacher Straße 24</Adresse>
+  <PLZ>90521</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>01.11.2021</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>SSchmidt@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>206</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schmitt</Nachname>
+  <Vorname>Uwe</Vorname>
+  <Adresse>Herboldshofer Straße 14</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>24.12.2007</Erfasst_am>
+  <Telefonnummer>0911/242201xx</Telefonnummer>
+  <E-Mail_Adresse>USchmitt@domain.de</E-Mail_Adresse>
+  <Kommentar>Termine nur Vormittags möglich</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>207</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schmitt</Nachname>
+  <Vorname>Silke</Vorname>
+  <Adresse>Zirndorfer Straße 9</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>13.05.2005</Erfasst_am>
+  <Telefonnummer>0911/768675xx</Telefonnummer>
+  <E-Mail_Adresse>SSchmitt@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>208</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schmitt</Nachname>
+  <Vorname>Eske</Vorname>
+  <Adresse>Schatzhofen 14</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>30.06.2006</Erfasst_am>
+  <Telefonnummer>0911/830979xx</Telefonnummer>
+  <E-Mail_Adresse>ESchmitt@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>209</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schmitz</Nachname>
+  <Vorname>Thor</Vorname>
+  <Adresse>Schwabacher Straße 4</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>05.04.2000</Erfasst_am>
+  <Telefonnummer>0911/712155xx</Telefonnummer>
+  <E-Mail_Adresse>TSchmitz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>210</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schmitz</Nachname>
+  <Vorname>Sabine</Vorname>
+  <Adresse>Poppenreuther Straße 22</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>27.03.2020</Erfasst_am>
+  <Telefonnummer>0911/734058xx</Telefonnummer>
+  <E-Mail_Adresse>SSchmitz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>211</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schmitz</Nachname>
+  <Vorname>Tomke</Vorname>
+  <Adresse>Herboldshofer Straße 10</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>25.03.2002</Erfasst_am>
+  <Telefonnummer>0911/363961xx</Telefonnummer>
+  <E-Mail_Adresse>TSchmitz@domain.de</E-Mail_Adresse>
+  <Kommentar>Benötigt Leihwagen</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>212</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schneider</Nachname>
+  <Vorname>Nils</Vorname>
+  <Adresse>Erlanger Straße 2</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>20.04.2018</Erfasst_am>
+  <Telefonnummer>0911/807545xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>213</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schneider</Nachname>
+  <Vorname>Lara</Vorname>
+  <Adresse>Espanstraße 4</Adresse>
+  <PLZ>90530</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>24.03.2002</Erfasst_am>
+  <Telefonnummer>0911/254311xx</Telefonnummer>
+  <E-Mail_Adresse>LSchneider@domain.de</E-Mail_Adresse>
+  <Kommentar>Nachmittagstermine gewünscht</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>214</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schneider</Nachname>
+  <Vorname>Severin</Vorname>
+  <Adresse>Heilstättenstraße 9</Adresse>
+  <PLZ>90523</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>30.01.2003</Erfasst_am>
+  <Telefonnummer>0911/947345xx</Telefonnummer>
+  <E-Mail_Adresse>SSchneider@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>215</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Scholz</Nachname>
+  <Vorname>Frank</Vorname>
+  <Adresse>Regelsbacher Straße 5</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>14.02.2018</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>FScholz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>216</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Scholz</Nachname>
+  <Vorname>Hayet</Vorname>
+  <Adresse>Vacher Straße 20</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>15.06.2009</Erfasst_am>
+  <Telefonnummer>0911/312177xx</Telefonnummer>
+  <E-Mail_Adresse>HScholz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>217</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Scholz</Nachname>
+  <Vorname>Courtney</Vorname>
+  <Adresse>Schwabacher Straße 2</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>04.11.2009</Erfasst_am>
+  <Telefonnummer>0911/522459xx</Telefonnummer>
+  <E-Mail_Adresse>CScholz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>218</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schreiber</Nachname>
+  <Vorname>Hermann</Vorname>
+  <Adresse>Jakobinenstraße 12</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>28.03.2005</Erfasst_am>
+  <Telefonnummer>0911/654002xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>219</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schreiber</Nachname>
+  <Vorname>Sandra</Vorname>
+  <Adresse>Nürnberger Straße 3</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>12.12.2011</Erfasst_am>
+  <Telefonnummer>0911/184168xx</Telefonnummer>
+  <E-Mail_Adresse>SSchreiber@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>220</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schreiber</Nachname>
+  <Vorname>Hermine</Vorname>
+  <Adresse>Schatzhofen 9</Adresse>
+  <PLZ>90521</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>09.12.2005</Erfasst_am>
+  <Telefonnummer>0911/858658xx</Telefonnummer>
+  <E-Mail_Adresse>HSchreiber@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>221</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schröder</Nachname>
+  <Vorname>Aaron</Vorname>
+  <Adresse>Unterfarrnbacher Straße 2</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>15.08.2020</Erfasst_am>
+  <Telefonnummer>0911/616077xx</Telefonnummer>
+  <E-Mail_Adresse>ASchröder@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Phone</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>222</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schröder</Nachname>
+  <Vorname>Michaela</Vorname>
+  <Adresse>Am Europakanal 5</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>20.01.2011</Erfasst_am>
+  <Telefonnummer>0911/984460xx</Telefonnummer>
+  <E-Mail_Adresse>MSchröder@domain.de</E-Mail_Adresse>
+  <Kommentar>Benötigt Leihwagen</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>223</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schröder</Nachname>
+  <Vorname>Noel</Vorname>
+  <Adresse>Kronacher Straße 25</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>07.02.2014</Erfasst_am>
+  <Telefonnummer>0911/995480xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>224</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schubert</Nachname>
+  <Vorname>Hannes</Vorname>
+  <Adresse>Jakobinenstraße 15</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>12.07.2016</Erfasst_am>
+  <Telefonnummer>0911/516720xx</Telefonnummer>
+  <E-Mail_Adresse>HSchubert@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>225</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schubert</Nachname>
+  <Vorname>Annika</Vorname>
+  <Adresse>Nürnberger Straße 21</Adresse>
+  <PLZ>90527</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>15.09.2003</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>ASchubert@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>226</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schubert</Nachname>
+  <Vorname>Nika</Vorname>
+  <Adresse>Kapellenstraße 16</Adresse>
+  <PLZ>90520</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>07.03.2003</Erfasst_am>
+  <Telefonnummer>0911/809253xx</Telefonnummer>
+  <E-Mail_Adresse>NSchubert@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>227</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schuhmacher</Nachname>
+  <Vorname>Holger</Vorname>
+  <Adresse>Soldnerstraße 21</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>12.01.2008</Erfasst_am>
+  <Telefonnummer>0911/162393xx</Telefonnummer>
+  <E-Mail_Adresse>HSchuhmacher@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>228</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schuhmacher</Nachname>
+  <Vorname>Heather</Vorname>
+  <Adresse>Mannhofer Straße 25</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>20.12.2020</Erfasst_am>
+  <Telefonnummer>0911/988308xx</Telefonnummer>
+  <E-Mail_Adresse>HSchuhmacher@domain.de</E-Mail_Adresse>
+  <Kommentar>Nachmittagstermine gewünscht</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>229</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schuhmacher</Nachname>
+  <Vorname>Ari</Vorname>
+  <Adresse>Stadelner Hauptstraße 25</Adresse>
+  <PLZ>90527</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>06.03.2012</Erfasst_am>
+  <Telefonnummer>0911/310315xx</Telefonnummer>
+  <E-Mail_Adresse>ASchuhmacher@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>230</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schulte</Nachname>
+  <Vorname>Leander</Vorname>
+  <Adresse>Karolinenstraße 10</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>27.03.2016</Erfasst_am>
+  <Telefonnummer>0911/440933xx</Telefonnummer>
+  <E-Mail_Adresse>LSchulte@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>231</ID>
+  <Anrede></Anrede>
+  <Nachname>Schulte</Nachname>
+  <Vorname>Kira</Vorname>
+  <Adresse>Atzenhofer Straße 24</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>28.11.2018</Erfasst_am>
+  <Telefonnummer>0911/665634xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>232</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schulz</Nachname>
+  <Vorname>Torsten</Vorname>
+  <Adresse>Neuhauser Straße 3</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>16.09.2012</Erfasst_am>
+  <Telefonnummer>0911/416967xx</Telefonnummer>
+  <E-Mail_Adresse>TSchulz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>233</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schulz</Nachname>
+  <Vorname>Katharina</Vorname>
+  <Adresse>Karolinenstraße 7</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>04.02.2010</Erfasst_am>
+  <Telefonnummer>0911/143291xx</Telefonnummer>
+  <E-Mail_Adresse>KSchulz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>234</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schulz</Nachname>
+  <Vorname>Yuma</Vorname>
+  <Adresse>Atzenhofer Straße 22</Adresse>
+  <PLZ>90531</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>29.2.2006</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>YSchulz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>235</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schulze</Nachname>
+  <Vorname>Martin</Vorname>
+  <Adresse></Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>17.01.2017</Erfasst_am>
+  <Telefonnummer>0911/741144xx</Telefonnummer>
+  <E-Mail_Adresse>MSchulze@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>236</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schulze</Nachname>
+  <Vorname>Heidi</Vorname>
+  <Adresse>Schwabacher Straße 10</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>23.06.2010</Erfasst_am>
+  <Telefonnummer>0911/980076xx</Telefonnummer>
+  <E-Mail_Adresse>HSchulze@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson></Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>237</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schulze</Nachname>
+  <Vorname>Tyler</Vorname>
+  <Adresse>Poppenreuther Straße 13</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>12.05.2008</Erfasst_am>
+  <Telefonnummer>0911/84639xx</Telefonnummer>
+  <E-Mail_Adresse>TSchulze@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>238</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schuster</Nachname>
+  <Vorname>Lennart</Vorname>
+  <Adresse>Neuhauser Straße 10</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>06.11.2003</Erfasst_am>
+  <Telefonnummer>0911/266587xx</Telefonnummer>
+  <E-Mail_Adresse>LSchuster@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>239</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schuster</Nachname>
+  <Vorname>Lotta</Vorname>
+  <Adresse>Karolinenstraße 19</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>23.03.2012</Erfasst_am>
+  <Telefonnummer>0911/843363xx</Telefonnummer>
+  <E-Mail_Adresse>LSchuster@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>240</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schuster</Nachname>
+  <Vorname>Lilian</Vorname>
+  <Adresse>Atzenhofer Straße 15</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>22.07.2007</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>241</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schwarz</Nachname>
+  <Vorname>Karl</Vorname>
+  <Adresse>Kronacher Straße 1</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>28.05.2003</Erfasst_am>
+  <Telefonnummer>0911/312720xx</Telefonnummer>
+  <E-Mail_Adresse>KSchwarz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>242</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Schwarz</Nachname>
+  <Vorname>Jördis</Vorname>
+  <Adresse>Flexdorfer Straße 15</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>01.03.2007</Erfasst_am>
+  <Telefonnummer>0911/425073xx</Telefonnummer>
+  <E-Mail_Adresse>JSchwarz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>243</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Schwarz</Nachname>
+  <Vorname>Keke</Vorname>
+  <Adresse>Bahnhofplatz 25 90768 Fürth</Adresse>
+  <PLZ>90429</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>12.09.2018</Erfasst_am>
+  <Telefonnummer>0911/468470xx</Telefonnummer>
+  <E-Mail_Adresse>KSchwarz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>244</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Seidel</Nachname>
+  <Vorname>Heinrich</Vorname>
+  <Adresse>Herboldshofer Straße 3</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>30.11.2012</Erfasst_am>
+  <Telefonnummer>0911/676865xx</Telefonnummer>
+  <E-Mail_Adresse>HSeidel@domain.de</E-Mail_Adresse>
+  <Kommentar>Termine nur Vormittags möglich</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>245</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Seidel</Nachname>
+  <Vorname>Femke</Vorname>
+  <Adresse>Zirndorfer Straße 13</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>21.11.2002</Erfasst_am>
+  <Telefonnummer>0911/47815xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>246</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Seidel</Nachname>
+  <Vorname>Luka</Vorname>
+  <Adresse>Schatzhofen 4</Adresse>
+  <PLZ>90520</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>29.09.2012</Erfasst_am>
+  <Telefonnummer>0911/348761xx</Telefonnummer>
+  <E-Mail_Adresse>LSeidel@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>247</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Simon</Nachname>
+  <Vorname>Henning</Vorname>
+  <Adresse>Poppenreuther Straße 11</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>27.09.2001</Erfasst_am>
+  <Telefonnummer>0911/904012xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>248</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Simon</Nachname>
+  <Vorname>Lena</Vorname>
+  <Adresse>Herboldshofer Straße 16</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>08.04.2012</Erfasst_am>
+  <Telefonnummer>0911/579054xx</Telefonnummer>
+  <E-Mail_Adresse>LSimon@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>249</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Simon</Nachname>
+  <Vorname>Mio</Vorname>
+  <Adresse>Zirndorfer Straße 2</Adresse>
+  <PLZ>90532</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>03.10.2016</Erfasst_am>
+  <Telefonnummer>0911/332326xx</Telefonnummer>
+  <E-Mail_Adresse>MSimon@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Phone</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>250</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Sommer</Nachname>
+  <Vorname>Hamish</Vorname>
+  <Adresse>Schwabacher Straße 2</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>10.08.2005</Erfasst_am>
+  <Telefonnummer>0911/781250xx</Telefonnummer>
+  <E-Mail_Adresse>HSommer@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>251</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Sommer</Nachname>
+  <Vorname>Leni</Vorname>
+  <Adresse>Poppenreuther Straße 10</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>10.10.2004</Erfasst_am>
+  <Telefonnummer>0911/592879xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>252</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Sommer</Nachname>
+  <Vorname>Noe</Vorname>
+  <Adresse>Herboldshofer Straße 13</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>04.10.2018</Erfasst_am>
+  <Telefonnummer>0911/803664xx</Telefonnummer>
+  <E-Mail_Adresse>NSommer@domain.de</E-Mail_Adresse>
+  <Kommentar>Nachmittagstermine gewünscht</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>253</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Stein</Nachname>
+  <Vorname>Henrik</Vorname>
+  <Adresse></Adresse>
+  <PLZ></PLZ>
+  <Ort></Ort>
+  <Erfasst_am>21.08.2007</Erfasst_am>
+  <Telefonnummer>0911/849472xx</Telefonnummer>
+  <E-Mail_Adresse>HStein@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>254</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Stein</Nachname>
+  <Vorname>Karin</Vorname>
+  <Adresse>Am Europakanal 22</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>26.06.2011</Erfasst_am>
+  <Telefonnummer>0911/233829xx</Telefonnummer>
+  <E-Mail_Adresse>KStein@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>255</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Stein</Nachname>
+  <Vorname>Emlyn</Vorname>
+  <Adresse>Kronacher Straße 16</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>30.08.2019</Erfasst_am>
+  <Telefonnummer>0911/589248xx</Telefonnummer>
+  <E-Mail_Adresse>EStein@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>256</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Thomas</Nachname>
+  <Vorname>Dennis</Vorname>
+  <Adresse>Flexdorfer Straße 18</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>24.09.2016</Erfasst_am>
+  <Telefonnummer>0911/306601xx</Telefonnummer>
+  <E-Mail_Adresse>DThomas@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>257</ID>
+  <Anrede>Divers</Anrede>
+  <Nachname>Thomas</Nachname>
+  <Vorname>Finn</Vorname>
+  <Adresse>Bahnhofplatz 2</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>01.12.2018</Erfasst_am>
+  <Telefonnummer>0911/379152xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>258</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Vogel</Nachname>
+  <Vorname>Lennard</Vorname>
+  <Adresse>Hardstraße 13</Adresse>
+  <PLZ>90531</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>01.12.2021</Erfasst_am>
+  <Telefonnummer>0911/712588xx</Telefonnummer>
+  <E-Mail_Adresse>LVogel@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>259</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Vogel</Nachname>
+  <Vorname>Heidrun</Vorname>
+  <Adresse>Neuhauser Straße 7</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>17.12.2006</Erfasst_am>
+  <Telefonnummer>0911/679675xx</Telefonnummer>
+  <E-Mail_Adresse>HVogel@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>260</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Vogel</Nachname>
+  <Vorname>Janne</Vorname>
+  <Adresse>Karolinenstraße 8</Adresse>
+  <PLZ>90533</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>21.07.2015</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>JVogel@domain.de</E-Mail_Adresse>
+  <Kommentar>Nachmittagstermine gewünscht</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>261</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Vogt</Nachname>
+  <Vorname>Arian</Vorname>
+  <Adresse>Regelsbacher Straße 21</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>03.08.2007</Erfasst_am>
+  <Telefonnummer>0911/971150xx</Telefonnummer>
+  <E-Mail_Adresse>AVogt@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson></Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>262</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Vogt</Nachname>
+  <Vorname>Emilia</Vorname>
+  <Adresse>Vacher Straße 25</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>04.05.2018</Erfasst_am>
+  <Telefonnummer>0911/187697xx</Telefonnummer>
+  <E-Mail_Adresse>EVogt@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>263</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Vogt</Nachname>
+  <Vorname>Jin</Vorname>
+  <Adresse>Schwabacher Straße 19</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>09.07.2007</Erfasst_am>
+  <Telefonnummer>0911/127096xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>264</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Voigt</Nachname>
+  <Vorname>Leonie</Vorname>
+  <Adresse>Atzenhofer Straße 19</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>10.03.2007</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>265</ID>
+  <Anrede>Divers</Anrede>
+  <Nachname>Voigt</Nachname>
+  <Vorname></Vorname>
+  <Adresse>Würzburger Straße 16</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>25.09.2008</Erfasst_am>
+  <Telefonnummer>0911/931212xx</Telefonnummer>
+  <E-Mail_Adresse>Voigt@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>266</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Wagner</Nachname>
+  <Vorname>Jan</Vorname>
+  <Adresse>Flexdorfer Straße 9</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>19.07.2012</Erfasst_am>
+  <Telefonnummer>0911/253686xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>267</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Wagner</Nachname>
+  <Vorname>Zoe</Vorname>
+  <Adresse>Bahnhofplatz 25</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>05.06.2019</Erfasst_am>
+  <Telefonnummer>0911/693292xx</Telefonnummer>
+  <E-Mail_Adresse>ZWagner@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>268</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Wagner</Nachname>
+  <Vorname>Dylan</Vorname>
+  <Adresse>Soldnerstraße 22</Adresse>
+  <PLZ></PLZ>
+  <Ort></Ort>
+  <Erfasst_am>27.04.2009</Erfasst_am>
+  <Telefonnummer>0911/148021xx</Telefonnummer>
+  <E-Mail_Adresse>DWagner@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>269</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Walter</Nachname>
+  <Vorname>Calvin</Vorname>
+  <Adresse>Soldnerstraße 11</Adresse>
+  <PLZ>90519</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>05.03.2005</Erfasst_am>
+  <Telefonnummer>0911/537218xx</Telefonnummer>
+  <E-Mail_Adresse>CWalter@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>270</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Walter</Nachname>
+  <Vorname>Hanna</Vorname>
+  <Adresse>Mannhofer Straße 24</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>05.12.2019</Erfasst_am>
+  <Telefonnummer>0911/214670xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>271</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Walter</Nachname>
+  <Vorname>Ran</Vorname>
+  <Adresse>Stadelner Hauptstraße 14</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>29.05.2008</Erfasst_am>
+  <Telefonnummer>0911/297839xx</Telefonnummer>
+  <E-Mail_Adresse>RWalter@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>272</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Weber</Nachname>
+  <Vorname>Alexander</Vorname>
+  <Adresse></Adresse>
+  <PLZ></PLZ>
+  <Ort></Ort>
+  <Erfasst_am>03.03.2016</Erfasst_am>
+  <Telefonnummer>0911/351613xx</Telefonnummer>
+  <E-Mail_Adresse>AWeber@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>273</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Weber</Nachname>
+  <Vorname>Carolin</Vorname>
+  <Adresse>Herzogenauracher Straße 22</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>11.11.2008</Erfasst_am>
+  <Telefonnummer>0911/252263xx</Telefonnummer>
+  <E-Mail_Adresse>CWeber@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson></Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>274</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Weber</Nachname>
+  <Vorname>Elisa</Vorname>
+  <Adresse>Cadolzburger Straße 10</Adresse>
+  <PLZ>90526</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>10.12.2008</Erfasst_am>
+  <Telefonnummer>0911/23732xx</Telefonnummer>
+  <E-Mail_Adresse>EWeber@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>275</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Weiss</Nachname>
+  <Vorname>Rasmus</Vorname>
+  <Adresse>Höfener Straße 12</Adresse>
+  <PLZ>90526</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>15.05.2018</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar>Termine nur Vormittags möglich</Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>276</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Weiss</Nachname>
+  <Vorname>Helene</Vorname>
+  <Adresse></Adresse>
+  <PLZ>90519</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>29.05.2005</Erfasst_am>
+  <Telefonnummer>0911/805155xx</Telefonnummer>
+  <E-Mail_Adresse>HWeiss@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>277</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Weiss</Nachname>
+  <Vorname>Patrice</Vorname>
+  <Adresse>Herzogenauracher Straße 19</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>21.03.2020</Erfasst_am>
+  <Telefonnummer>0911/779278xx</Telefonnummer>
+  <E-Mail_Adresse>PWeiss@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>278</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Werner</Nachname>
+  <Vorname></Vorname>
+  <Adresse>Würzburger Straße 5</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>16.01.2012</Erfasst_am>
+  <Telefonnummer>0911/42469xx</Telefonnummer>
+  <E-Mail_Adresse>Werner@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>279</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Werner</Nachname>
+  <Vorname>Gesine</Vorname>
+  <Adresse>Höfener Straße 25</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>21.01.2010</Erfasst_am>
+  <Telefonnummer>0911/623788xx</Telefonnummer>
+  <E-Mail_Adresse>GWerner@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>280</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Werner</Nachname>
+  <Vorname>Jill</Vorname>
+  <Adresse>Mühltalstraße 15</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>01.11.2018</Erfasst_am>
+  <Telefonnummer>0911/65815xx</Telefonnummer>
+  <E-Mail_Adresse>JWerner@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>281</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Winkler</Nachname>
+  <Vorname>Henri</Vorname>
+  <Adresse>Würzburger Straße 9</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>07.07.2003</Erfasst_am>
+  <Telefonnummer>0911/523909xx</Telefonnummer>
+  <E-Mail_Adresse>HWinkler@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>282</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Winkler</Nachname>
+  <Vorname>Amy</Vorname>
+  <Adresse>Höfener Straße 24</Adresse>
+  <PLZ>90532</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>20.11.2019</Erfasst_am>
+  <Telefonnummer>0911/187791xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>283</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Winkler</Nachname>
+  <Vorname>Eike</Vorname>
+  <Adresse>Mühltalstraße 17</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>22.04.2016</Erfasst_am>
+  <Telefonnummer>0911/239091xx</Telefonnummer>
+  <E-Mail_Adresse>EWinkler@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>284</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Winter</Nachname>
+  <Vorname>Ingvar</Vorname>
+  <Adresse>Nürnberger Straße 23</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>28.05.2021</Erfasst_am>
+  <Telefonnummer>0911/349576xx</Telefonnummer>
+  <E-Mail_Adresse>IWinter@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>285</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Winter</Nachname>
+  <Vorname>Hailey</Vorname>
+  <Adresse>Kapellenstraße 6</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>02.12.2008</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>HWinter@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>286</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Winter</Nachname>
+  <Vorname>Blake</Vorname>
+  <Adresse>Regelsbacher Straße 21</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>04.10.2011</Erfasst_am>
+  <Telefonnummer>0911/930343xx</Telefonnummer>
+  <E-Mail_Adresse>BWinter@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>287</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Wolf</Nachname>
+  <Vorname>Benjamin</Vorname>
+  <Adresse>Höfener Straße 19</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>19.11.2007</Erfasst_am>
+  <Telefonnummer>0911/348908xx</Telefonnummer>
+  <E-Mail_Adresse>BWolf@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>288</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Wolf</Nachname>
+  <Vorname>Inge</Vorname>
+  <Adresse>Mühltalstraße 2</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>02.02.2016</Erfasst_am>
+  <Telefonnummer>0911/159327xx</Telefonnummer>
+  <E-Mail_Adresse>IWolf@domain.de</E-Mail_Adresse>
+  <Kommentar>Nachmittagstermine gewünscht</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>289</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Wolf</Nachname>
+  <Vorname>Nino</Vorname>
+  <Adresse>Herzogenauracher Straße 2</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>18.08.2017</Erfasst_am>
+  <Telefonnummer>0911/924336xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>290</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Wolff</Nachname>
+  <Vorname>E.</Vorname>
+  <Adresse></Adresse>
+  <PLZ>90521</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>23.09.2020</Erfasst_am>
+  <Telefonnummer>0911/484875xx</Telefonnummer>
+  <E-Mail_Adresse>EWolff@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>291</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Wolff</Nachname>
+  <Vorname>Kai</Vorname>
+  <Adresse>Karolinenstraße 4</Adresse>
+  <PLZ>90514</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>08.06.2002</Erfasst_am>
+  <Telefonnummer>0911/806799xx</Telefonnummer>
+  <E-Mail_Adresse>KWolff@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Yildiz Marla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>292</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Yilmaz</Nachname>
+  <Vorname>Finja</Vorname>
+  <Adresse>Unterfarrnbacher Straße 12</Adresse>
+  <PLZ>90527</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>07.02.2004</Erfasst_am>
+  <Telefonnummer>0911/408024xx</Telefonnummer>
+  <E-Mail_Adresse>FYilmaz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>293</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Yilmaz</Nachname>
+  <Vorname>Skye</Vorname>
+  <Adresse>Am Europakanal 11</Adresse>
+  <PLZ>90520</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>16.08.2016</Erfasst_am>
+  <Telefonnummer>0911/976544xx</Telefonnummer>
+  <E-Mail_Adresse>SYilmaz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>294</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Y?lmaz</Nachname>
+  <Vorname>Paul</Vorname>
+  <Adresse>Würzburger Straße 20</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>13.09.2003</Erfasst_am>
+  <Telefonnummer>0911/72092xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Ja</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>295</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Y?lmaz</Nachname>
+  <Vorname>Nele</Vorname>
+  <Adresse>Höfener Straße 13</Adresse>
+  <PLZ>91052</PLZ>
+  <Ort>Erlangen</Ort>
+  <Erfasst_am>06.07.2008</Erfasst_am>
+  <Telefonnummer>0911/441919xx</Telefonnummer>
+  <E-Mail_Adresse>NY?lmaz@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Nein</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Peterson Tim</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>296</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Y?lmaz</Nachname>
+  <Vorname>H.</Vorname>
+  <Adresse>Mühltalstraße 19</Adresse>
+  <PLZ>90522</PLZ>
+  <Ort>Zirndorf</Ort>
+  <Erfasst_am>19.07.2010</Erfasst_am>
+  <Telefonnummer>0911/348286xx</Telefonnummer>
+  <E-Mail_Adresse>HY?lmaz@domain.de</E-Mail_Adresse>
+  <Kommentar>Nachmittagstermine gewünscht</Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt></Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Johanna</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>297</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Ziegler</Nachname>
+  <Vorname>Bjarne</Vorname>
+  <Adresse>Würzburger Straße 23</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>27.01.2014</Erfasst_am>
+  <Telefonnummer></Telefonnummer>
+  <E-Mail_Adresse>BZiegler@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Email</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>298</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Ziegler</Nachname>
+  <Vorname>Jana</Vorname>
+  <Adresse>Höfener Straße 3</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>02.05.2018</Erfasst_am>
+  <Telefonnummer>0911/393567xx</Telefonnummer>
+  <E-Mail_Adresse></E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Phone</Bevorzugter_Kontakt>
+  <Kontaktperson></Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+<Person>
+  <ID>299</ID>
+  <Anrede>Herr</Anrede>
+  <Nachname>Zimmermann</Nachname>
+  <Vorname>Oliver</Vorname>
+  <Adresse>Bahnhofplatz 9</Adresse>
+  <PLZ>90443</PLZ>
+  <Ort>Nürnberg</Ort>
+  <Erfasst_am>06.05.2010</Erfasst_am>
+  <Telefonnummer>0911/194904xx</Telefonnummer>
+  <E-Mail_Adresse>OZimmermann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Telefon</Bevorzugter_Kontakt>
+  <Kontaktperson>Müller Stephanie</Kontaktperson>
+  <Priorität>3</Priorität>
+</Person>
+<Person>
+  <ID>300</ID>
+  <Anrede>Frau</Anrede>
+  <Nachname>Zimmermann</Nachname>
+  <Vorname>Greta</Vorname>
+  <Adresse>Soldnerstraße 9</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>22.08.2010</Erfasst_am>
+  <Telefonnummer>0911/884388xx</Telefonnummer>
+  <E-Mail_Adresse>GZimmermann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>Post</Bevorzugter_Kontakt>
+  <Kontaktperson>Heldt Carla</Kontaktperson>
+  <Priorität>1</Priorität>
+</Person>
+<Person>
+  <ID>301</ID>
+  <Anrede>Divers</Anrede>
+  <Nachname>Zimmermann</Nachname>
+  <Vorname>Vivien</Vorname>
+  <Adresse>Mannhofer Straße 24</Adresse>
+  <PLZ>90768</PLZ>
+  <Ort>Fürth</Ort>
+  <Erfasst_am>14.09.2008</Erfasst_am>
+  <Telefonnummer>0911/542281xx</Telefonnummer>
+  <E-Mail_Adresse>VZimmermann@domain.de</E-Mail_Adresse>
+  <Kommentar></Kommentar>
+  <DSGVO_Zustimmung>Ja</DSGVO_Zustimmung>
+  <Newsletter_aboniert>Nein</Newsletter_aboniert>
+  <Bevorzugter_Kontakt>E-Mail</Bevorzugter_Kontakt>
+  <Kontaktperson>Franke Simon</Kontaktperson>
+  <Priorität>2</Priorität>
+</Person>
+</root>

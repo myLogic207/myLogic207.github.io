@@ -1,10 +1,9 @@
 ---
 layout: default
 title: "PlusD"
-permalink: /plusd/
+permalink: /PlusD/
 ---
-[Zurück](/)\
-[Dateien](/files#plusd)
+[Zurück](/) - [Dateien](/files#plusd)
 
 - [1 Was ist ein Projekt](#1-was-ist-ein-projekt)
   - [1.1 Grundlagen](#11-grundlagen)
@@ -55,7 +54,7 @@ Aufgrund der sehr offenen Definition eines Projektes hat man begonnen Projekte d
 6. Projekte sind auf den Einsatz von *Ressourcen* angewiesen, die in der Regel nur in *begrenztem Maße* zur Verfügung  stehen  wie  z.B.  Projektmitarbeiter,  finanzielle  Ressourcen  (Projektbudget)  und  technische Ressourcen (Maschinen und Material).
 7. Da   in   irgendeiner   Form   Neuland   betreten   wird,   kann   man   sich   nicht   in   allen   Situationen   auf Erfahrungswerte stützen, sodass je nach Komplexität eines Projektes verschiedene Aktivitäten nur schwer planbar sind oder sich während der Projektlaufzeit verändern. Somit birgt ein Projekt auch immer *Risiken und Unsicherheite*
 
-![visuell lernen](./image/visuell.png)
+![visuell lernen](/image/visuell.png)
 
 Zusammenfassend:
 Eine (Entwicklungs-) Tätifgkeit (auch Beschaffungs-, Bau oder Organisationstätigkeit), die
@@ -72,7 +71,7 @@ nennt man "Projekt"
 
 #### 1.1.3 Projektarten
 
-[(komplett nur PDF)](./resources/1.%20Grundlagen/1.1.%20Grundlagen_S.pdf)
+[(komplett nur PDF)](/resources/1._Grundlagen/1.1._Grundlagen_S.pdf)
 
 #### 1.1.4 IT-Projekte
 

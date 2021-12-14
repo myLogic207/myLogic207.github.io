@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "ITS"
-permalink: /its/
+permalink: /ITS/
 ---
 [Zurück](/)\
 [Dateien](/files#its)\

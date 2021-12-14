@@ -1,0 +1,302 @@
+ID,Anrede,Nachname,Vorname,Adresse,PLZ,Ort,Erfasst am,Telefonnummer,E-Mail Adresse,Kommentar,DSGVO Zustimmung,Newsletter aboniert,Bevorzugter Kontakt,Kontaktperson,Priorität
+1,Herr,Albrecht,Sten,Vacher Straße 11,90768,Fürth,25.04.2009,0911/436200xx,SAlbrecht@domain.de,Benötigt einen Leihwagen während der Reparatur,Ja,Nein,E-Mail,Müller Johanna,3
+2,Frau,Albrecht,Sylvie,Schwabacher Straße 23,90768,Fürth,19.11.2010,0911/193554xx,SAlbrecht@domain.de,,Ja,Nein,E-Mail,Yildiz Marla,2
+3,Herr,Albrecht,Sanja,Poppenreuther Straße 17,90528,Zirndorf,11.07.2021,0911/846627xx,SAlbrecht@domain.de,,Ja,Nein,Telefon,Franke Simon,1
+4,Herr,Bauer,J.,Nürnberger Straße 10,90768,Fürth,25.03.2016,0911/486663xx,JBauer@domain.de,,Ja,Ja,Telefon,Yildiz Marla,3
+5,Frau,Bauer,Hedda,Kapellenstraße 20,90768,Fürth,04.10.2010,,HBauer@domain.de,,Nein,Nein,Post,Franke Simon,1
+6,Frau,Bauer,Thjorven,Regelsbacher Straße 12,91052,Erlangen,12.05.2008,0911/224802xx,TBauer@domain.de,,Ja,Ja,E-Mail,Yildiz Marla,1
+7,Herr,Baumann,Sigurd,Am Europakanal 9,90768,Fürth,19.10.2009,0911/881686xx,,,Ja,Ja,mail,Peterson Tim,3
+8,Frau,Baumann,Hannah,Kronacher Straße 15,,,03.02.2019,0911/562309xx,HBaumann@domain.de,,Ja,Nein,Post,Müller Stephanie,2
+9,Frau,Baumann,Ira,Flexdorfer Straße 3,90527,Zirndorf,11.12.2004,0911/497219xx,IBaumann@domain.de,,Nein,Nein,Telefon,Peterson Tim,2
+10,Herr,Beck,Hugo,Kapellenstraße 4,90768,Fürth,12.07.2009,0911/946852xx,HBeck@domain.de,,Ja,Nein,,Peterson Tim,3
+11,Frau,Beck,Susanne,Regelsbacher Straße 25,90531,Zirndorf,17.04.2015,0911/547748xx,SBeck@domain.de,,Ja,Nein,E-Mail,Müller Johanna,3
+12,Divers,Beck,Ola,Vacher Straße 3,90443,Nürnberg,10.05.2018,0911/355142xx,OBeck@domain.de,,Ja,Nein,Post,Müller Stephanie,1
+13,Herr,Becker,Elias,Poppenreuther Straße 1,90768,Fürth,25.02.2004,0911/714388xx,,,Ja,Nein,Post,Heldt Carla,1
+14,Frau,Becker,Helena,Herboldshofer Straße 10,90768,Fürth,12.07.2019,0911/50607xx,HBecker@domain.de,,Ja,Nein,Post,Müller Stephanie,3
+15,Frau,Becker,Lian,Zirndorfer Straße 23,91052,Erlangen,05.10.2016,0911/55658xx,LBecker@domain.de,,Ja,Ja,Telefon,Heldt Carla,1
+16,Herr,Berger,Peter,Karolinenstraße 24,90768,Fürth,11.06.2000,,,,Ja,Nein,E-Mail,Franke Simon,1
+17,Frau,Berger,Helen,Atzenhofer Straße 21,90528,Zirndorf,07.09.2019,0911/282896xx,HBerger@domain.de,,Ja,Ja,Post,Heldt Carla,2
+18,Herr,Berger,Elia,Würzburger Straße 9,90521,Zirndorf,15.03.2002,0911/895553xx,EBerger@domain.de,Wichtiger Kunde!,Ja,Ja,,Heldt Carla,2
+19,Frau,Bergmann,Christina,Zirndorfer Straße 19,90523,Zirndorf,12.03.2007,0911/677134xx,CBergmann@domain.de,,Nein,Nein,Post,Heldt Carla,3
+20,,Bergmann,Simone,Schatzhofen 24,90768,Fürth,30.07.2018,0911/841493xx,SBergmann@domain.de,,Ja,Nein,Post,Müller Johanna,2
+21,Herr,Böhm,Dorian,,,,05.02.2000,0911/337913xx,,,Ja,Nein,Telefon,Yildiz Marla,1
+22,,Böhm,Lorena,Jakobinenstraße 14,90429,Nürnberg,03.02.2010,0911/936949xx,LBöhm@domain.de,,Ja,Nein,E-Mail,Franke Simon,2
+23,Divers,Böhm,Chris,Nürnberger Straße 6,91052,Erlangen,12.03.2019,0911/598022xx,CBöhm@domain.de,,Nein,Nein,,Yildiz Marla,3
+24,Herr,Brandt,Hugh,Herzogenauracher Straße 22,90443,Nürnberg,03.01.2003,0911/370031xx,HBrandt@domain.de,,Ja,Nein,Email,Franke Simon,3
+25,Frau,Brandt,Christine,Cadolzburger Straße 15,90768,Fürth,01.08.2006,0911/872143xx,CBrandt@domain.de,,Ja,Nein,Phone,Yildiz Marla,3
+26,Herr,Brandt,Isa,Jakobinenstraße 5,90533,Zirndorf,18.06.2008,0911/241269xx,IBrandt@domain.de,,Ja,Nein,Telefon,Peterson Tim,1
+27,Herr,Braun,Peer,Hardstraße 11 Fürth,,,14.10.2012,0911/527847xx,PBraun@domain.de,,Ja,Ja,Post,Müller Stephanie,3
+28,Frau,Braun,Heike,Neuhauser Straße 10,90768,Fürth,21.07.2016,0911/999984xx,HBraun@domain.de,,Ja,Nein,E-Mail,Peterson Tim,1
+29,Frau,Braun,C.,Karolinenstraße 19,90768,Fürth,23.07.2018,0911/170134xx,CBraun@domain.de,,Ja,Ja,E-Mail,Peterson Tim,2
+30,Herr,Busch,T.,Cadolzburger Straße 17,90520,Zirndorf,28.08.2005,0911/46328xx,TBusch@domain.de,,Ja,Ja,Email,Müller Johanna,3
+31,Herr,Busch,Kimi,Jakobinenstraße 20,90513,Zirndorf,20.01.2011,0911/470712xx,KBusch@domain.de,,Ja,Nein,Telefon,Müller Stephanie,1
+32,Herr,Dietrich,Jonas,Schatzhofen 13,,,19.08.2007,0911/293560xx,JDietrich@domain.de,,Ja,Nein,Telefon,Heldt Carla,3
+33,Frau,Dietrich,Elena,Unterfarrnbacher Straße 5,90443,Nürnberg,12.11.2009,,EDietrich@domain.de,,Nein,Nein,Post,Müller Stephanie,3
+34,Herr,Engel,Yall,Erlanger Straße 24,90513,Zirndorf,24.05.2004,0911/703953xx,YEngel@domain.de,,Ja,Nein,E-Mail,Heldt Carla,2
+35,Frau,Engel,Kjellrun,Espanstraße 9 Nürnberg,,,24.09.2021,0911/907382xx,KEngel@domain.de,,Ja,Nein,mail,Franke Simon,1
+36,Frau,Ernst,Svenja,Stadelner Hauptstraße 11,90526,Zirndorf,13.02.2004,0911/275859xx,,Wichtiger Kunde!,Ja,Nein,Post,Heldt Carla,2
+37,Herr,Ernst,Marion,Erlanger Straße 13,90519,Zirndorf,07.05.2003,0911/918516xx,MErnst@domain.de,,Nein,Nein,Telefon,Heldt Carla,2
+38,Herr,Fischer,Ben,Am Europakanal 18,90768,Fürth,26.11.2018,,BFischer@domain.de,,Ja,Ja,,,2
+39,Frau,Fischer,Mia,Kronacher Straße 6,90531,Zirndorf,01.04.2012,0911/970398xx,MFischer@domain.de,,Ja,Nein,E-Mail,Müller Johanna,2
+40,Herr,Fischer,Leo,Flexdorfer Straße 16,90443,Nürnberg,13.04.2004,0911/162904xx,LFischer@domain.de,,Ja,Ja,Post,Yildiz Marla,1
+41,Herr,Frank,Daniel,Mannhofer Straße 18,90768,Fürth,28.01.2012,0911/528579xx,DFrank@domain.de,,Ja,Ja,Post,Franke Simon,1
+42,Frau,Frank,Sonja,Stadelner Hauptstraße 19,91052,Erlangen,17.12.2010,0911/763808xx,SFrank@domain.de,,Ja,Nein,Post,Yildiz Marla,2
+43,Frau,Frank,Jayden,Erlanger Straße 10,90522,Zirndorf,05.10.2015,0911/921238xx,JFrank@domain.de,,Ja,Nein,Telefon,Franke Simon,1
+44,Herr,Franke,Veit,Heilstättenstraße 21,90768,Fürth,16.02.2019,0911/397243xx,VFranke@domain.de,Benötigt einen Leihwagen während der Reparatur,Ja,Nein,E-Mail,Yildiz Marla,1
+45,Frau,Franke,Alva,Hardstraße 18,90443,Nürnberg,15.07.2006,0911/96422xx,AFranke@domain.de,,Ja,Nein,Post,Peterson Tim,1
+46,Herr,Franke,Bo,Neuhauser Straße 8,90530,Zirndorf,12.02.2005,0911/603375xx,BFranke@domain.de,,Ja,Nein,,Müller Stephanie,3
+47,Herr,Friedrich,S.,Bahnhofplatz 4,90532,Zirndorf,14.02.2019,,SFriedrich@domain.de,,Nein,Nein,Post,Peterson Tim,2
+48,Frau,Friedrich,Bettina,Soldnerstraße 24,90443,,11.12.2004,0911/653153xx,BFriedrich@domain.de,,Ja,Nein,Post,Peterson Tim,2
+49,Frau,Friedrich,Malou,Mannhofer Straße 6,91052,Erlangen,25.07.2014,0911/755367xx,MFriedrich@domain.de,,Ja,Nein,Telefon,Müller Johanna,3
+50,Herr,Fuchs,Björn,Unterfarrnbacher Straße 14,90443,Nürnberg,07.01.2002,0911/209861xx,BFuchs@domain.de,,Ja,Ja,E-Mail,Müller Stephanie,2
+51,Frau,Fuchs,Stefanie,Am Europakanal 18,90533,Zirndorf,12.11.2007,0911/132840xx,SFuchs@domain.de,,Nein,Nein,,,2
+52,Herr,Fuchs,Paris,Kronacher Straße 18,90443,Nürnberg,27.05.2003,0911/532473xx,PFuchs@domain.de,,Ja,Ja,Email,Müller Stephanie,1
+53,Herr,Graf,Dean,Mannhofer Straße 11,90443,Nürnberg,27.05.2002,0911/199088xx,DGraf@domain.de,,Ja,Ja,Phone,Heldt Carla,3
+54,Frau,Graf,Smilla,Stadelner Hauptstraße 2,90443,Nürnberg,12.10.2007,0911/908576xx,SGraf@domain.de,,Ja,Nein,Telefon,Franke Simon,3
+55,Herr,Groß,Heiko,Kronacher Straße 24,90768,Fürth,16.10.2010,0911/233880xx,HGroß@domain.de,,Ja,Nein,Post,Heldt Carla,2
+56,Frau,Groß,Malin,Flexdorfer Straße 15,90768,Fürth,29.03.2013,0911/664309xx,MGroß@domain.de,,Ja,Nein,E-Mail,Heldt Carla,1
+57,Frau,Groß,Noa,Bahnhofplatz 2,91052,Erlangen,18.10.2001,0911/136822xx,NGroß@domain.de,,Ja,Nein,E-Mail,Heldt Carla,1
+58,Herr,Günther,Max,Herboldshofer Straße 18,91052,Erlangen,21.05.2007,0911/620600xx,MGünther@domain.de,,Ja,Nein,Email,Müller Johanna,3
+59,Frau,Günther,Nina,Zirndorfer Straße 22,90526,Zirndorf,02.11.2015,,NGünther@domain.de,,Ja,Nein,Telefon,Yildiz Marla,3
+60,Herr,Günther,Jamie,Schatzhofen 11,90519,Zirndorf,25.10.2000,0911/800728xx,JGünther@domain.de,,Ja,Nein,Telefon,Franke Simon,2
+61,Herr,Haas,Henry,Hardstraße 10,90443,Nürnberg,22.03.2003,0911/622954xx,HHaas@domain.de,,Nein,Ja,Post,Yildiz Marla,2
+62,Frau,Haas,Elisabeth,Neuhauser Straße 1,90768,Fürth,25.09.2001,0911/400137xx,EHaas@domain.de,,Ja,Nein,E-Mail,Franke Simon,2
+63,Herr,Haas,Lou,Karolinenstraße 11,91052,Erlangen,24.03.2000,,LHaas@domain.de,,Ja,Ja,mail,Yildiz Marla,2
+64,Herr,Hahn,Raik,Schwabacher Straße 8,91052,Erlangen,28.03.2009,0911/412648xx,RHahn@domain.de,,Ja,Ja,Post,Peterson Tim,2
+65,Frau,Hahn,Britta,Poppenreuther Straße 9,90522,Zirndorf,04.06.2009,0911/837425xx,BHahn@domain.de,,Nein,Nein,Telefon,Müller Stephanie,3
+66,Divers,Hahn,Janis,Herboldshofer Straße 2,91052,Erlangen,06.10.2019,0911/876378xx,,,Ja,Nein,,Peterson Tim,2
+67,Herr,Hartmann,Nick,Karolinenstraße 4,90443,Nürnberg,18.02.2000,0911/646662xx,NHartmann@domain.de,Benötigt einen Leihwagen während der Reparatur,Ja,Nein,E-Mail,Peterson Tim,3
+68,Frau,Hartmann,Doris,Atzenhofer Straße 2,90443,Nürnberg,13.07.2008,0911/682711xx,DHartmann@domain.de,,Ja,Nein,Post,Müller Johanna,1
+69,Frau,Hartmann,Toni,Würzburger Straße 13,90768,Fürth,16.02.2013,,THartmann@domain.de,,Ja,Nein,Post,Müller Stephanie,2
+70,Herr,Heinrich,Ragnar,Bahnhofplatz 18,90443,,14.02.2000,0911/70394xx,RHeinrich@domain.de,,Ja,Nein,Post,Heldt Carla,1
+71,Frau,Heinrich,Celina,Soldnerstraße 3,90443,Nürnberg,29.04.2007,0911/112665xx,CHeinrich@domain.de,,Ja,Nein,Telefon,Müller Stephanie,2
+72,Herr,Heinrich,Yael,Mannhofer Straße 18,90519,Zirndorf,03.04.2004,0911/558841xx,,,Ja,Nein,E-Mail,Heldt Carla,1
+73,Herr,Hermann,Markus,Poppenreuther Straße 23,90768,Fürth,14.11.2020,0911/783410xx,MHermann@domain.de,,Ja,Ja,Post,Franke Simon,1
+74,,Hermann,Sophie,Herboldshofer Straße 8,90443,Nürnberg,29.12.2001,0911/954434xx,SHermann@domain.de,,Ja,Nein,,Heldt Carla,2
+75,Herr,Hermann,Ulli,Zirndorfer Straße 7,90443,Nürnberg,15.06.2017,0911/526203xx,UHermann@domain.de,,Nein,Ja,Post,Heldt Carla,1
+76,Herr,Hofmann,Sven,Heilstättenstraße 11,90768,Fürth,18.10.2016,0911/873845xx,SHofmann@domain.de,,Ja,Ja,Post,Heldt Carla,2
+77,Herr,Hofmann,Sebastian,Mannhofer Straße 21,90443,Nürnberg,07.02.2020,0911/538730xx,SHofmann@domain.de,,Ja,Nein,Telefon,Müller Johanna,2
+78,Frau,Hofmann,Anna,Hardstraße 16,91052,Erlangen,07.03.2008,0911/465021xx,AHofmann@domain.de,,Ja,Nein,E-Mail,Yildiz Marla,1
+79,Frau,Hofmann,Solveig,Stadelner Hauptstraße 19,90443,Nürnberg,20.11.2007,0911/869404xx,SHofmann@domain.de,,Nein,Nein,,Franke Simon,2
+80,Divers,Hofmann,Sascha,Neuhauser Straße 5,90527,Zirndorf,20.11.2015,0911/351154xx,SHofmann@domain.de,,Ja,Nein,Email,Yildiz Marla,2
+81,Herr,Hofmann,Valentine,Erlanger Straße 25,90768,Fürth,06.01.2001,,VHofmann@domain.de,,Ja,Nein,Phone,Franke Simon,3
+82,Divers,Horn,Volker,Heilstättenstraße 19,90533,Zirndorf,01.02.2001,0911/379582xx,VHorn@domain.de,,Ja,Nein,Telefon,Yildiz Marla,3
+83,Frau,Horn,Maria,Hardstraße 24,90443,Nürnberg,04.02.2004,0911/357526xx,,Benötigt einen Leihwagen während der Reparatur,Ja,Nein,Post,Peterson Tim,2
+84,Herr,Huber,Carsten,Atzenhofer Straße 11,90522,Zirndorf,05.01.2012,0911/409457xx,CHuber@domain.de,,Ja,Ja,E-Mail,Müller Stephanie,2
+85,Frau,Huber,Hermine,Würzburger Straße 16,91052,Erlangen,20.11.2001,0911/735708xx,HHuber@domain.de,,Ja,Nein,E-Mail,Peterson Tim,2
+86,Frau,Huber,Shayan,Höfener Straße 25,90768,Fürth,15.12.2018,0911/73206xx,SHuber@domain.de,,Ja,Ja,Email,Peterson Tim,2
+87,Herr,Jäger,Helmut,Espanstraße 21,90443,Nürnberg,20.07.2001,0911/519343xx,HJäger@domain.de,,Ja,Ja,Telefon,Müller Johanna,1
+88,Frau,Jäger,Hertha,Heilstättenstraße 15,90768,Fürth,01.12.2009,0911/958812xx,HJäger@domain.de,,Ja,Nein,Telefon,Müller Stephanie,2
+89,Herr,Jäger,Aiko,Hardstraße 14,90514,Zirndorf,03.02.2004,0911/19827xx,AJäger@domain.de,,Nein,Nein,Post,Heldt Carla,3
+90,Herr,Jung,Ulf,Kronacher Straße 1,90528,Zirndorf,27.07.2010,0911/455494xx,UJung@domain.de,,Ja,Nein,E-Mail,Müller Stephanie,3
+91,Divers,Jung,Lilith,Flexdorfer Straße 3,90521,Zirndorf,13.07.2014,,LJung@domain.de,,Ja,Nein,mail,Heldt Carla,1
+92,Frau,Jung,Jona,Bahnhofplatz 25,90514,Zirndorf,25.06.2014,0911/150900xx,JJung@domain.de,,Ja,Nein,Post,Franke Simon,1
+93,Herr,Kaiser,Tjark,,90523,Zirndorf,23.10.2020,0911/909669xx,TKaiser@domain.de,,Nein,Nein,Telefon,Heldt Carla,1
+94,Frau,Kaiser,Stella,Erlanger Straße 4,90768,Fürth,10.09.2007,0911/526083xx,SKaiser@domain.de,,Ja,Nein,,Heldt Carla,3
+95,Frau,Kaiser,Felice,Espanstraße 12,90443,Nürnberg,12.02.2019,0911/397547xx,FKaiser@domain.de,,Ja,Nein,E-Mail,Heldt Carla,2
+96,Divers,Kaya,Malte,,90443,Nürnberg,16.07.2000,0911/95180xx,MKaya@domain.de,,Ja,Ja,Post,Müller Johanna,1
+97,Frau,Kaya,Hildegard,Unterfarrnbacher Straße 5,90443,Nürnberg,02.06.2012,0911/213213xx,HKaya@domain.de,,Ja,Nein,Post,Yildiz Marla,1
+98,Herr,Kaya,Jael,Am Europakanal 14,90768,Fürth,22.01.2000,0911/407075xx,JKaya@domain.de,,Ja,Ja,Post,Franke Simon,1
+99,Herr,Keller,Claas,Herzogenauracher Straße 12,90530,Zirndorf,06.08.2020,0911/835780xx,CKeller@domain.de,,Ja,Ja,Telefon,Yildiz Marla,3
+100,Frau,Keller,Virginia,Cadolzburger Straße 7,90523,Zirndorf,24.10.2007,0911/462573xx,VKeller@domain.de,,Ja,Nein,E-Mail,Franke Simon,1
+101,Herr,Keller,Anouk,Jakobinenstraße 13,90768,Fürth,17.06.2011,0911/320322xx,AKeller@domain.de,,Ja,Nein,Post,Yildiz Marla,3
+102,Herr,Klein,Mats,Stadelner Hauptstraße 25,90768,Fürth,10.06.2006,,MKlein@domain.de,,Ja,Nein,,,3
+103,Frau,Klein,Ruth,Erlanger Straße 11,90768,Fürth,12.03.2020,0911/295798xx,RKlein@domain.de,Nachmittagstermine gewünscht,Nein,Nein,Post,Müller Stephanie,1
+104,Divers,Klein,Kim,Espanstraße 8,90768,Fürth,27.10.2006,0911/372155xx,KKlein@domain.de,,Ja,Nein,Post,Peterson Tim,3
+105,Herr,Koch,,Zirndorfer Straße 2,90768,Fürth,09.04.2000,0911/316014xx,Koch@domain.de,,Ja,Nein,Telefon,Peterson Tim,1
+106,Frau,Koch,Daniela,Schatzhofen 4,90429,Nürnberg,12.02.2017,0911/169320xx,DKoch@domain.de,,Ja,Nein,E-Mail,Müller Johanna,3
+107,Herr,Koch,Lynn,Unterfarrnbacher Straße 23,91052,Erlangen,05.01.2014,0911/354901xx,LKoch@domain.de,,Nein,Ja,,Müller Stephanie,2
+108,Herr,Köhler,David,Heilstättenstraße 2,90514,Zirndorf,20.11.2013,0911/459110xx,DKöhler@domain.de,,Ja,Nein,Email,Heldt Carla,1
+109,Frau,Köhler,Helga,Hardstraße 15,90443,Nürnberg,25.12.2016,0911/609660xx,HKöhler@domain.de,,Ja,Ja,Phone,Müller Stephanie,2
+110,Frau,Köhler,Ryan,Neuhauser Straße 23,90443,Nürnberg,13.02.2005,0911/993143xx,RKöhler@domain.de,,Ja,Ja,Telefon,Heldt Carla,2
+111,Herr,König,Jörg,,,,07.01.2009,0911/900799xx,,,Ja,Nein,Post,Franke Simon,1
+112,Frau,König,Sophia,Jakobinenstraße 8,90443,Nürnberg,29.01.2015,,SKönig@domain.de,,Ja,Nein,E-Mail,Heldt Carla,2
+113,Herr,König,Raven,Nürnberger Straße 16,90443,Nürnberg,01.07.2018,0911/367514xx,RKönig@domain.de,,Ja,Nein,E-Mail,Heldt Carla,3
+114,Herr,Kowalski,Edgar,Poppenreuther Straße 14,90519,Zirndorf,20.12.2008,0911/119647xx,EKowalski@domain.de,Wichtiger Kunde!,Ja,Nein,Email,Heldt Carla,2
+115,Frau,Kowalski,Noah,Herboldshofer Straße 15,90443,Nürnberg,27.12.2016,0911/442327xx,NKowalski@domain.de,,Ja,Nein,Telefon,Müller Johanna,1
+116,Herr,Krämer,Hendrik,Stadelner Hauptstraße 19,90768,Fürth,22.09.2005,,HKrämer@domain.de,,Ja,Nein,Telefon,Yildiz Marla,2
+117,Frau,Krämer,Hedwig,Erlanger Straße 12,90768,Fürth,26.06.2010,0911/843742xx,HKrämer@domain.de,,Nein,Nein,Post,Franke Simon,3
+118,Herr,Krämer,Adi,Espanstraße 2,90443,Nürnberg,08.07.2007,0911/230157xx,AKrämer@domain.de,,Ja,Nein,E-Mail,Yildiz Marla,1
+119,Herr,Kraus,Damian,Zirndorfer Straße 5 Fürth,,,16.04.2009,0911/671421xx,,,Ja,Ja,mail,Franke Simon,3
+120,Frau,Kraus,Sigrun,Schatzhofen 13 90443 Nürnberg,,,13.03.2010,,SKraus@domain.de,,Ja,Nein,Post,Yildiz Marla,3
+121,,Kraus,Marley,Unterfarrnbacher Straße 3,90528,Zirndorf,20.05.2018,0911/619928xx,MKraus@domain.de,,Nein,Ja,Telefon,Peterson Tim,2
+122,Herr,Krause,Piet,Kapellenstraße 9,90768,Fürth,19.02.2014,0911/869197xx,PKrause@domain.de,,Ja,Ja,,Müller Stephanie,2
+123,Frau,Krause,Hella,Regelsbacher Straße 9,90768,Fürth,15.02.2016,0911/798344xx,HKrause@domain.de,,Ja,Nein,E-Mail,Peterson Tim,2
+124,Herr,Krause,Amar,Vacher Straße 12,90768,Fürth,11.11.2000,0911/662637xx,AKrause@domain.de,,Ja,Nein,Post,Peterson Tim,1
+125,Herr,Krüger ,,Herzogenauracher Straße 8,90443,Nürnberg,04.07.2020,0911/704079xx,Krüger @domain.de,,Ja,Nein,Post,Müller Johanna,3
+126,Frau,Krüger ,Selma,Cadolzburger Straße 1,90768,Fürth,03.02.2018,0911/539843xx,SKrüger @domain.de,,Ja,Nein,Post,Müller Stephanie,2
+127,Frau,Krüger ,Robin,Jakobinenstraße 11,90768,Fürth,08.01.2013,,RKrüger @domain.de,,Ja,Nein,Telefon,Heldt Carla,2
+128,Herr,Kuhn,Linus,Vacher Straße 20,91052,Erlangen,14.04.2006,0911/475669xx,LKuhn@domain.de,,Ja,Nein,E-Mail,Müller Stephanie,1
+129,Frau,Kuhn,Dana,Schwabacher Straße 5,90768,Fürth,19.03.2006,0911/782380xx,DKuhn@domain.de,,Ja,Nein,Post,Heldt Carla,3
+130,Herr,Kühn,Samuel,Am Europakanal 5,90514,Zirndorf,15.06.2014,0911/233116xx,,,Ja,Ja,,Franke Simon,1
+131,Herr,Kühn,Luca,Kronacher Straße 15,90443,Nürnberg,06.01.2000,0911/310385xx,LKühn@domain.de,,Nein,Nein,Post,Heldt Carla,1
+132,Herr,Lang,Josef,Espanstraße 9,90527,Zirndorf,03.06.2008,0911/842263xx,JLang@domain.de,,Ja,Ja,Post,Heldt Carla,3
+133,Frau,Lang,Gerda,Heilstättenstraße 2,90520,Zirndorf,23.08.2009,0911/131367xx,GLang@domain.de,,Ja,Ja,Telefon,Heldt Carla,1
+134,Frau,Lang,Phoenix,Hardstraße 4,90513,Zirndorf,08.08.2009,0911/967717xx,,Benötigt einen Leihwagen während der Reparatur,Ja,Nein,E-Mail,Müller Johanna,1
+135,Herr,Lange,Kjell,Jakobinenstraße 23,90443,Nürnberg,06.01.2006,0911/357159xx,KLange@domain.de,,Nein,Nein,,Yildiz Marla,3
+136,Frau,Lange,Björk,Nürnberger Straße 18,90768,Fürth,30.2.2016,0911/256585xx,BLange@domain.de,,Ja,Nein,Email,Franke Simon,2
+137,Frau,Lange,Vivian,Kapellenstraße 16,90768,Fürth,13.09.2021,,VLange@domain.de,,Ja,Nein,Phone,Yildiz Marla,1
+138,Herr,Lehmann,Keno,Mühltalstraße 12,90513,Zirndorf,18.01.2004,0911/409989xx,KLehmann@domain.de,,Ja,Nein,Telefon,Franke Simon,3
+139,Frau,Lehmann,Silvia,Herzogenauracher Straße 11,90443,Nürnberg,04.07.2013,0911/524714xx,SLehmann@domain.de,,Ja,Nein,Post,Yildiz Marla,2
+140,Frau,Lehmann,Jonah,Cadolzburger Straße 17,90443,Nürnberg,12.09.2000,,,,Ja,Nein,E-Mail,Peterson Tim,2
+141,Herr,Lorenz,Sean,Erlanger Straße 14,90429,Nürnberg,16.12.2020,0911/307174xx,SLorenz@domain.de,,Ja,Nein,E-Mail,Müller Stephanie,1
+142,Frau,Lorenz,Gudrun,Espanstraße 15,91052,Erlangen,08.12.2013,0911/694913xx,GLorenz@domain.de,,Ja,Ja,Email,Peterson Tim,1
+143,Frau,Lorenz,Anil,Heilstättenstraße 15,90526,Zirndorf,29.04.2016,0911/993506xx,ALorenz@domain.de,,Ja,Nein,Telefon,Peterson Tim,3
+144,Herr,Ludwig,Svend,,90768,Fürth,27.07.2017,0911/483941xx,SLudwig@domain.de,,Ja,Ja,Telefon,Müller Johanna,3
+145,Frau,Ludwig,Verena,Herzogenauracher Straße 25,90768,Fürth,04.09.2014,0911/861193xx,VLudwig@domain.de,,Nein,Ja,Post,Müller Stephanie,2
+146,Herr,Ludwig,Kaya,Cadolzburger Straße 7,91052,Erlangen,21.07.2005,0911/795574xx,KLudwig@domain.de,,Ja,Nein,E-Mail,Heldt Carla,1
+147,Herr,Maier,Richard,Flexdorfer Straße 18,91052,Erlangen,04.03.2018,,RMaier@domain.de,Wichtiger Kunde!,Ja,Nein,mail,Müller Stephanie,2
+148,Frau,Maier,Sarah,Bahnhofplatz 11,90768,Fürth,28.06.2010,0911/38730xx,SMaier@domain.de,,Ja,Nein,Post,Heldt Carla,2
+149,Herr,Maier,Blair,Soldnerstraße 10,90768,Fürth,28.01.2014,,BMaier@domain.de,,Nein,Nein,Telefon,Franke Simon,1
+150,Herr,Martin,Heinz,Höfener Straße 16,90443,Nürnberg,09.06.2016,0911/373114xx,HMartin@domain.de,,Ja,Nein,,Heldt Carla,2
+151,Frau,Martin,Luna,Mühltalstraße 19,90768,Fürth,03.07.2017,0911/866307xx,LMartin@domain.de,,Ja,Nein,E-Mail,,2
+152,Divers,Martin,Alex,Herzogenauracher Straße 24,90513,Zirndorf,09.05.2009,0911/128222xx,,,Ja,Nein,Post,Heldt Carla,1
+153,Herr,Mayer,Elmar,Neuhauser Straße 9,91052,Erlangen,02.12.2003,,EMayer@domain.de,,Ja,Ja,Post,Müller Johanna,2
+154,Frau,Mayer,Selina,Karolinenstraße 12,90443,Nürnberg,17.10.2014,0911/673092xx,SMayer@domain.de,,Ja,Nein,Post,Yildiz Marla,1
+155,Frau,Mayer,Dilan,Atzenhofer Straße 13,90443,Nürnberg,18.10.2000,0911/914681xx,DMayer@domain.de,,Ja,Ja,Telefon,Franke Simon,1
+156,Herr,Meier,Dirk,Erlanger Straße 5,90443,Nürnberg,20.04.2000,0911/654359xx,DMeier@domain.de,,Ja,Ja,E-Mail,Yildiz Marla,2
+157,Frau,Meier,Okka,Espanstraße 19,90443,Nürnberg,16.03.2016,0911/537310xx,OMeier@domain.de,,Ja,Nein,Post,Franke Simon,3
+158,Frau,Meier,Sina,Heilstättenstraße 23,90768,Fürth,23.10.2009,,,,Ja,Nein,,Yildiz Marla,1
+159,Herr,Meyer,Sören,Vacher Straße 1,90768,Fürth,06.04.2017,0911/383491xx,SMeyer@domain.de,,Nein,Nein,Post,Peterson Tim,3
+160,Frau,Meyer,Eva,Schwabacher Straße 23,90532,Zirndorf,04.03.2011,0911/420890xx,EMeyer@domain.de,,Ja,Nein,Post,Müller Stephanie,1
+161,Frau,Meyer,Sam,Poppenreuther Straße 8,90443,Nürnberg,15.03.2014,0911/79753xx,SMeyer@domain.de,,Ja,Nein,Telefon,Peterson Tim,1
+162,Herr,Möller,Simon,Nürnberger Straße 4,90521,Zirndorf,11.05.2003,0911/893263xx,SMöller@domain.de,,Ja,Nein,E-Mail,Peterson Tim,3
+163,Frau,Möller,Herdis,Kapellenstraße 18,90514,Zirndorf,19.04.2013,,HMöller@domain.de,,Nein,Nein,,Müller Johanna,1
+164,Herr,Möller,Lio,Regelsbacher Straße 6,90443,Nürnberg,30.03.2008,0911/344651xx,LMöller@domain.de,,Ja,Nein,Email,,2
+165,Herr,Neumann,Hauke,Espanstraße 24 90768 Fürth,,,01.03.2002,0911/332049xx,HNeumann@domain.de,,Ja,Ja,Phone,Heldt Carla,3
+166,Frau,Neumann,Svea,Heilstättenstraße 10,90768,Fürth,06.10.2014,0911/524390xx,SNeumann@domain.de,,Ja,Nein,Telefon,Müller Stephanie,2
+167,Herr,Neumann,Mika,Hardstraße 25,90429,Nürnberg,04.03.2010,0911/158699xx,MNeumann@domain.de,,Ja,Ja,Post,Heldt Carla,3
+168,Herr,Nguyen,Thomas,Cadolzburger Straße 24,90768,Fürth,14.10.2014,0911/144038xx,TNguyen@domain.de,,Ja,Ja,E-Mail,Franke Simon,3
+169,Frau,Nguyen,Lana,Jakobinenstraße 16,90443,Nürnberg,18.05.2021,0911/199699xx,LNguyen@domain.de,,Ja,Nein,E-Mail,Heldt Carla,3
+170,Frau,Nguyen,Gwyn,Nürnberger Straße 12,90530,Zirndorf,28.09.2010,0911/918524xx,GNguyen@domain.de,,Ja,Nein,Email,Heldt Carla,2
+171,Herr,Noack,Silas,Flexdorfer Straße 10,90768,Fürth,20.01.2012,0911/609598xx,SNoack@domain.de,,Ja,Nein,Telefon,Heldt Carla,2
+172,Frau,Noack,Ava,Bahnhofplatz 18,90768,Fürth,20.11.2019,0911/244749xx,,,Ja,Nein,Telefon,Müller Johanna,2
+173,Frau,Noack,Eren,Soldnerstraße 16,90531,Zirndorf,04.10.2009,0911/108052xx,ENoack@domain.de,,Nein,Nein,Post,Yildiz Marla,1
+174,Herr,Nowak,Lasse,Regelsbacher Straße 22,90768,Fürth,21.11.2012,,LNowak@domain.de,Benötigt Leihwagen, Termine nur Vormittags möglich,Ja,Nein,E-Mail,Franke Simon,1
+175,Frau,Nowak,Ilka,Vacher Straße 14,90768,Fürth,23.07.2012,0911/726150xx,INowak@domain.de,,Ja,Nein,mail,Yildiz Marla,3
+176,Frau,Nowak,Neo,Schwabacher Straße 17,90768,Fürth,15.09.2002,0911/985539xx,NNowak@domain.de,,Ja,Ja,Post,Franke Simon,1
+177,Herr,Otto,Arne,Atzenhofer Straße 10,90768,Fürth,27.08.2005,0911/361552xx,AOtto@domain.de,,Nein,Nein,Telefon,Yildiz Marla,2
+178,Frau,Otto,Juna,Würzburger Straße 1,90768,Fürth,30.07.2012,0911/886475xx,JOtto@domain.de,,Ja,Ja,,Peterson Tim,2
+179,Herr,Otto,Marian,Höfener Straße 20,90530,Zirndorf,30.05.2000,0911/2690xx,,,Ja,Ja,E-Mail,Müller Stephanie,3
+180,Herr,Peters,Sönke,Zirndorfer Straße 20,90520,Zirndorf,24.04.2000,0911/257983xx,SPeters@domain.de,Nachmittagstermine gewünscht,Ja,Nein,Post,Peterson Tim,3
+181,Frau,Peters,Ylva,Schatzhofen 17,90513,Zirndorf,07.04.2013,0911/802843xx,YPeters@domain.de,,Ja,Nein,Post,Peterson Tim,1
+182,Divers,Peters,Aidan,Unterfarrnbacher Straße 4,90443,Nürnberg,10.10.2012,,APeters@domain.de,,Ja,Nein,Post,Müller Johanna,3
+183,Frau,Pfeffer,Linda,Nürnberger Straße 21,90443,Nürnberg,04.09.2019,0911/676557xx,LPfeffer@domain.de,,Ja,Nein,Telefon,Müller Stephanie,3
+184,Frau,Pfeffer,Rory,Kapellenstraße 4,90533,Zirndorf,22.01.2002,0911/223233xx,RPfeffer@domain.de,,Ja,Nein,E-Mail,Heldt Carla,1
+185,Herr,Pietsch,Len,Kapellenstraße 19,90443,Nürnberg,02.12.2016,0911/567522xx,LPietsch@domain.de,,Ja,Nein,Post,Müller Stephanie,3
+186,Frau,Pietsch,Ingvild,Regelsbacher Straße 2,90443,Nürnberg,15.10.2004,0911/875181xx,IPietsch@domain.de,,Ja,Nein,,Heldt Carla,2
+187,Herr,Pohl,Steven,Mühltalstraße 19,90768,Fürth,13.08.2001,0911/878141xx,SPohl@domain.de,,Nein,Nein,Post,Franke Simon,3
+188,Herr,Pohl,Fiete,Herzogenauracher Straße 10,90443,Nürnberg,04.01.2003,0911/253693xx,FPohl@domain.de,,Ja,Ja,Post,Heldt Carla,3
+189,Herr,Richter,Levin,Atzenhofer Straße 25,90768,Fürth,01.02.2000,0911/920916xx,LRichter@domain.de,Termine nur Vormittags möglich,Ja,Nein,Telefon,Heldt Carla,2
+190,Divers,Richter,Anne,Würzburger Straße 15,90768,Fürth,12.08.2001,0911/85527xx,,,Ja,Ja,E-Mail,Heldt Carla,1
+191,Frau,Richter,Bente,Höfener Straße 23,90768,Fürth,26.04.2020,0911/712726xx,BRichter@domain.de,,Nein,Ja,,Müller Johanna,1
+192,Herr,Roth,Hagen,Schatzhofen 4,90443,Nürnberg,09.04.2009,0911/326291xx,HRoth@domain.de,,Ja,Nein,Email,Yildiz Marla,2
+193,Frau,Roth,Judith,Unterfarrnbacher Straße 9,90530,Zirndorf,26.08.2000,0911/62868xx,JRoth@domain.de,,Ja,Nein,Phone,Franke Simon,3
+194,Frau,Roth,Gabriele,Am Europakanal 22,90523,Zirndorf,26.07.2013,,GRoth@domain.de,,Ja,Nein,Telefon,Yildiz Marla,1
+195,,Sauer,Julia,Soldnerstraße 24,90522,Zirndorf,15.06.2000,0911/467786xx,JSauer@domain.de,Nachmittagstermine gewünscht,Ja,Nein,Post,Franke Simon,3
+196,Herr,Sauer,Andrea,Mannhofer Straße 14,91052,Erlangen,11.09.2003,0911/475805xx,ASauer@domain.de,,Ja,Nein,E-Mail,Yildiz Marla,1
+197,Herr,Schäfer,Lukas,Soldnerstraße 13,90768,Fürth,02.04.2002,0911/472403xx,,,Ja,Nein,E-Mail,Peterson Tim,3
+198,Frau,Schäfer,Lennja,Mannhofer Straße 21,90768,Fürth,27.12.2011,0911/103804xx,LSchäfer@domain.de,,Ja,Nein,Email,Müller Stephanie,1
+199,Herr,Schäfer,Merle,Stadelner Hauptstraße 13,90532,Zirndorf,06.10.2021,0911/331387xx,MSchäfer@domain.de,,Ja,Ja,Telefon,Peterson Tim,2
+200,Herr,Schmid,Jasper,Am Europakanal 18,90443,Nürnberg,06.04.2018,0911/158685xx,JSchmid@domain.de,,Ja,Nein,Telefon,Peterson Tim,2
+201,Frau,Schmid,Saskia,Kronacher Straße 19,90443,Nürnberg,25.12.2011,0911/403222xx,SSchmid@domain.de,,Nein,Ja,Post,Müller Johanna,1
+202,Divers,Schmid,Vada,Flexdorfer Straße 10,90768,Fürth,30.10.2003,,VSchmid@domain.de,,Ja,Ja,E-Mail,Müller Stephanie,3
+203,Herr,Schmidt,Fynn,Kapellenstraße 10,90768,Fürth,12.11.2004,0911/765250xx,,,Ja,Nein,mail,Heldt Carla,1
+204,Frau,Schmidt,Ida,Regelsbacher Straße 25,90528,Zirndorf,10.09.2003,0911/904028xx,ISchmidt@domain.de,,Ja,Nein,Post,Müller Stephanie,2
+205,Frau,Schmidt,Shane,Vacher Straße 24,90521,Zirndorf,01.11.2021,,SSchmidt@domain.de,,Nein,Nein,Telefon,Heldt Carla,3
+206,Herr,Schmitt,Uwe,Herboldshofer Straße 14,90443,Nürnberg,24.12.2007,0911/242201xx,USchmitt@domain.de,Termine nur Vormittags möglich,Ja,Nein,,Franke Simon,3
+207,Frau,Schmitt,Silke,Zirndorfer Straße 9,90768,Fürth,13.05.2005,0911/768675xx,SSchmitt@domain.de,,Ja,Nein,E-Mail,Heldt Carla,3
+208,Herr,Schmitt,Eske,Schatzhofen 14,90768,Fürth,30.06.2006,0911/830979xx,ESchmitt@domain.de,,Ja,Nein,Post,Heldt Carla,2
+209,Herr,Schmitz,Thor,Schwabacher Straße 4,90443,Nürnberg,05.04.2000,0911/712155xx,TSchmitz@domain.de,,Ja,Nein,Post,Heldt Carla,1
+210,Frau,Schmitz,Sabine,Poppenreuther Straße 22,90768,Fürth,27.03.2020,0911/734058xx,SSchmitz@domain.de,,Ja,Nein,Post,Müller Johanna,1
+211,Herr,Schmitz,Tomke,Herboldshofer Straße 10,90768,Fürth,25.03.2002,0911/363961xx,TSchmitz@domain.de,Benötigt Leihwagen,Ja,Ja,Telefon,Yildiz Marla,1
+212,Herr,Schneider,Nils,Erlanger Straße 2,90443,Nürnberg,20.04.2018,0911/807545xx,,,Ja,Nein,E-Mail,Franke Simon,3
+213,Frau,Schneider,Lara,Espanstraße 4,90530,Zirndorf,24.03.2002,0911/254311xx,LSchneider@domain.de,Nachmittagstermine gewünscht,Ja,Ja,Post,Yildiz Marla,1
+214,Herr,Schneider,Severin,Heilstättenstraße 9,90523,Zirndorf,30.01.2003,0911/947345xx,SSchneider@domain.de,,Ja,Ja,,Franke Simon,1
+215,Herr,Scholz,Frank,Regelsbacher Straße 5,90443,Nürnberg,14.02.2018,,FScholz@domain.de,,Nein,Nein,Post,Yildiz Marla,2
+216,Frau,Scholz,Hayet,Vacher Straße 20,91052,Erlangen,15.06.2009,0911/312177xx,HScholz@domain.de,,Ja,Nein,Post,Peterson Tim,3
+217,Herr,Scholz,Courtney,Schwabacher Straße 2,90443,Nürnberg,04.11.2009,0911/522459xx,CScholz@domain.de,,Ja,Nein,Telefon,Müller Stephanie,2
+218,Herr,Schreiber,Hermann,Jakobinenstraße 12,90443,Nürnberg,28.03.2005,0911/654002xx,,,Ja,Nein,E-Mail,Peterson Tim,2
+219,Frau,Schreiber,Sandra,Nürnberger Straße 3,90443,Nürnberg,12.12.2011,0911/184168xx,SSchreiber@domain.de,,Nein,Nein,,Peterson Tim,3
+220,Frau,Schreiber,Hermine,Schatzhofen 9,90521,Zirndorf,09.12.2005,0911/858658xx,HSchreiber@domain.de,,Ja,Nein,Email,Müller Johanna,2
+221,Herr,Schröder,Aaron,Unterfarrnbacher Straße 2,90768,Fürth,15.08.2020,0911/616077xx,ASchröder@domain.de,,Ja,Nein,Phone,Müller Stephanie,3
+222,Frau,Schröder,Michaela,Am Europakanal 5,90768,Fürth,20.01.2011,0911/984460xx,MSchröder@domain.de,Benötigt Leihwagen,Ja,Ja,Telefon,Heldt Carla,3
+223,Herr,Schröder,Noel,Kronacher Straße 25,90443,Nürnberg,07.02.2014,0911/995480xx,,,Ja,Nein,Post,Müller Stephanie,1
+224,Herr,Schubert,Hannes,Jakobinenstraße 15,91052,Erlangen,12.07.2016,0911/516720xx,HSchubert@domain.de,,Ja,Ja,E-Mail,Heldt Carla,1
+225,Frau,Schubert,Annika,Nürnberger Straße 21,90527,Zirndorf,15.09.2003,,ASchubert@domain.de,,Ja,Ja,E-Mail,Franke Simon,2
+226,Herr,Schubert,Nika,Kapellenstraße 16,90520,Zirndorf,07.03.2003,0911/809253xx,NSchubert@domain.de,,Ja,Nein,Email,Heldt Carla,1
+227,Herr,Schuhmacher,Holger,Soldnerstraße 21,90768,Fürth,12.01.2008,0911/162393xx,HSchuhmacher@domain.de,,Ja,Nein,Telefon,Heldt Carla,3
+228,Frau,Schuhmacher,Heather,Mannhofer Straße 25,90768,Fürth,20.12.2020,0911/988308xx,HSchuhmacher@domain.de,Nachmittagstermine gewünscht,Ja,Nein,Telefon,Heldt Carla,2
+229,Frau,Schuhmacher,Ari,Stadelner Hauptstraße 25,90527,Zirndorf,06.03.2012,0911/310315xx,ASchuhmacher@domain.de,,Nein,Nein,Post,Müller Johanna,2
+230,Herr,Schulte,Leander,Karolinenstraße 10,90768,Fürth,27.03.2016,0911/440933xx,LSchulte@domain.de,,Ja,Nein,E-Mail,Yildiz Marla,2
+231,,Schulte,Kira,Atzenhofer Straße 24,90768,Fürth,28.11.2018,0911/665634xx,,,Ja,Nein,mail,Franke Simon,3
+232,Herr,Schulz,Torsten,Neuhauser Straße 3,90768,Fürth,16.09.2012,0911/416967xx,TSchulz@domain.de,,Ja,Nein,Post,Yildiz Marla,2
+233,Frau,Schulz,Katharina,Karolinenstraße 7,90768,Fürth,04.02.2010,0911/143291xx,KSchulz@domain.de,,Nein,Nein,Telefon,Franke Simon,1
+234,Herr,Schulz,Yuma,Atzenhofer Straße 22,90531,Zirndorf,29.2.2006,,YSchulz@domain.de,,Ja,Ja,,Yildiz Marla,1
+235,Herr,Schulze,Martin,,90443,Nürnberg,17.01.2017,0911/741144xx,MSchulze@domain.de,,Ja,Nein,E-Mail,Peterson Tim,2
+236,Frau,Schulze,Heidi,Schwabacher Straße 10,90443,Nürnberg,23.06.2010,0911/980076xx,HSchulze@domain.de,,Ja,Ja,Post,,2
+237,Herr,Schulze,Tyler,Poppenreuther Straße 13,90443,Nürnberg,12.05.2008,0911/84639xx,TSchulze@domain.de,,Ja,Ja,Post,Peterson Tim,1
+238,Herr,Schuster,Lennart,Neuhauser Straße 10,90768,Fürth,06.11.2003,0911/266587xx,LSchuster@domain.de,,Ja,Nein,Post,Peterson Tim,2
+239,Frau,Schuster,Lotta,Karolinenstraße 19,90768,Fürth,23.03.2012,0911/843363xx,LSchuster@domain.de,,Ja,Nein,Telefon,Müller Johanna,2
+240,Herr,Schuster,Lilian,Atzenhofer Straße 15,91052,Erlangen,22.07.2007,,,,Ja,Nein,E-Mail,Müller Stephanie,1
+241,Herr,Schwarz,Karl,Kronacher Straße 1,90443,Nürnberg,28.05.2003,0911/312720xx,KSchwarz@domain.de,,Ja,Nein,Post,Heldt Carla,3
+242,Frau,Schwarz,Jördis,Flexdorfer Straße 15,90768,Fürth,01.03.2007,0911/425073xx,JSchwarz@domain.de,,Ja,Nein,,Müller Stephanie,2
+243,Herr,Schwarz,Keke,Bahnhofplatz 25 90768 Fürth,90429,Nürnberg,12.09.2018,0911/468470xx,KSchwarz@domain.de,,Nein,Nein,Post,Heldt Carla,2
+244,Herr,Seidel,Heinrich,Herboldshofer Straße 3,90443,Nürnberg,30.11.2012,0911/676865xx,HSeidel@domain.de,Termine nur Vormittags möglich,Ja,Nein,Post,Franke Simon,2
+245,Frau,Seidel,Femke,Zirndorfer Straße 13,90443,Nürnberg,21.11.2002,0911/47815xx,,,Ja,Ja,Telefon,Heldt Carla,2
+246,Frau,Seidel,Luka,Schatzhofen 4,90520,Zirndorf,29.09.2012,0911/348761xx,LSeidel@domain.de,,Ja,Nein,E-Mail,Heldt Carla,2
+247,Herr,Simon,Henning,Poppenreuther Straße 11,90768,Fürth,27.09.2001,0911/904012xx,,,Nein,Ja,,Heldt Carla,2
+248,Frau,Simon,Lena,Herboldshofer Straße 16,90768,Fürth,08.04.2012,0911/579054xx,LSimon@domain.de,,Ja,Ja,Email,Müller Johanna,2
+249,Frau,Simon,Mio,Zirndorfer Straße 2,90532,Zirndorf,03.10.2016,0911/332326xx,MSimon@domain.de,,Ja,Nein,Phone,Yildiz Marla,2
+250,Herr,Sommer,Hamish,Schwabacher Straße 2,90443,Nürnberg,10.08.2005,0911/781250xx,HSommer@domain.de,,Ja,Nein,Telefon,Franke Simon,2
+251,Frau,Sommer,Leni,Poppenreuther Straße 10,90768,Fürth,10.10.2004,0911/592879xx,,,Ja,Nein,Post,Yildiz Marla,2
+252,Frau,Sommer,Noe,Herboldshofer Straße 13,90768,Fürth,04.10.2018,0911/803664xx,NSommer@domain.de,Nachmittagstermine gewünscht,Ja,Nein,E-Mail,Franke Simon,2
+253,Herr,Stein,Henrik,,,,21.08.2007,0911/849472xx,HStein@domain.de,,Ja,Nein,E-Mail,Yildiz Marla,3
+254,Frau,Stein,Karin,Am Europakanal 22,90768,Fürth,26.06.2011,0911/233829xx,KStein@domain.de,,Ja,Nein,Email,Peterson Tim,3
+255,Frau,Stein,Emlyn,Kronacher Straße 16,90443,Nürnberg,30.08.2019,0911/589248xx,EStein@domain.de,,Ja,Nein,Telefon,Müller Stephanie,2
+256,Herr,Thomas,Dennis,Flexdorfer Straße 18,91052,Erlangen,24.09.2016,0911/306601xx,DThomas@domain.de,,Ja,Nein,Telefon,Peterson Tim,2
+257,Divers,Thomas,Finn,Bahnhofplatz 2,90443,Nürnberg,01.12.2018,0911/379152xx,,,Nein,Ja,Post,Peterson Tim,3
+258,Herr,Vogel,Lennard,Hardstraße 13,90531,Zirndorf,01.12.2021,0911/712588xx,LVogel@domain.de,,Ja,Nein,E-Mail,Müller Johanna,3
+259,Frau,Vogel,Heidrun,Neuhauser Straße 7,90443,Nürnberg,17.12.2006,0911/679675xx,HVogel@domain.de,,Ja,Ja,mail,Müller Stephanie,3
+260,Frau,Vogel,Janne,Karolinenstraße 8,90533,Zirndorf,21.07.2015,,JVogel@domain.de,Nachmittagstermine gewünscht,Ja,Ja,Post,Heldt Carla,1
+261,Herr,Vogt,Arian,Regelsbacher Straße 21,90443,Nürnberg,03.08.2007,0911/971150xx,AVogt@domain.de,,Nein,Nein,Telefon,,3
+262,Frau,Vogt,Emilia,Vacher Straße 25,90768,Fürth,04.05.2018,0911/187697xx,EVogt@domain.de,,Ja,Nein,,Heldt Carla,1
+263,Frau,Vogt,Jin,Schwabacher Straße 19,90443,Nürnberg,09.07.2007,0911/127096xx,,,Ja,Nein,E-Mail,Franke Simon,2
+264,Frau,Voigt,Leonie,Atzenhofer Straße 19,90443,Nürnberg,10.03.2007,,,,Ja,Nein,Post,Heldt Carla,3
+265,Divers,Voigt,,Würzburger Straße 16,91052,Erlangen,25.09.2008,0911/931212xx,Voigt@domain.de,,Ja,Nein,Post,Heldt Carla,1
+266,Herr,Wagner,Jan,Flexdorfer Straße 9,90768,Fürth,19.07.2012,0911/253686xx,,,Ja,Nein,Post,Heldt Carla,3
+267,Frau,Wagner,Zoe,Bahnhofplatz 25,90768,Fürth,05.06.2019,0911/693292xx,ZWagner@domain.de,,Ja,Nein,Telefon,Müller Johanna,1
+268,Herr,Wagner,Dylan,Soldnerstraße 22,,,27.04.2009,0911/148021xx,DWagner@domain.de,,Ja,Ja,E-Mail,Yildiz Marla,1
+269,Herr,Walter,Calvin,Soldnerstraße 11,90519,Zirndorf,05.03.2005,0911/537218xx,CWalter@domain.de,,Ja,Nein,Post,Franke Simon,1
+270,Frau,Walter,Hanna,Mannhofer Straße 24,90443,Nürnberg,05.12.2019,0911/214670xx,,,Ja,Ja,,Yildiz Marla,2
+271,Frau,Walter,Ran,Stadelner Hauptstraße 14,90443,Nürnberg,29.05.2008,0911/297839xx,RWalter@domain.de,,Nein,Ja,Post,Franke Simon,3
+272,Herr,Weber,Alexander,,,,03.03.2016,0911/351613xx,AWeber@domain.de,,Ja,Nein,Post,Yildiz Marla,2
+273,Frau,Weber,Carolin,Herzogenauracher Straße 22,91052,Erlangen,11.11.2008,0911/252263xx,CWeber@domain.de,,Ja,Nein,Telefon,,1
+274,Frau,Weber,Elisa,Cadolzburger Straße 10,90526,Zirndorf,10.12.2008,0911/23732xx,EWeber@domain.de,,Ja,Nein,E-Mail,Müller Stephanie,2
+275,Herr,Weiss,Rasmus,Höfener Straße 12,90526,Zirndorf,15.05.2018,,,Termine nur Vormittags möglich,Nein,Nein,Email,Peterson Tim,1
+276,Frau,Weiss,Helene,,90519,Zirndorf,29.05.2005,0911/805155xx,HWeiss@domain.de,,Ja,Nein,Telefon,Peterson Tim,2
+277,Herr,Weiss,Patrice,Herzogenauracher Straße 19,90443,Nürnberg,21.03.2020,0911/779278xx,PWeiss@domain.de,,Ja,Nein,Telefon,Müller Johanna,3
+278,Herr,Werner,,Würzburger Straße 5,90443,Nürnberg,16.01.2012,0911/42469xx,Werner@domain.de,,Ja,Nein,Post,Müller Stephanie,2
+279,Frau,Werner,Gesine,Höfener Straße 25,90443,Nürnberg,21.01.2010,0911/623788xx,GWerner@domain.de,,Ja,Nein,E-Mail,Heldt Carla,1
+280,Frau,Werner,Jill,Mühltalstraße 15,90768,Fürth,01.11.2018,0911/65815xx,JWerner@domain.de,,Ja,Ja,mail,Müller Stephanie,2
+281,Herr,Winkler,Henri,Würzburger Straße 9,90768,Fürth,07.07.2003,0911/523909xx,HWinkler@domain.de,,Ja,Nein,Post,Heldt Carla,1
+282,Frau,Winkler,Amy,Höfener Straße 24,90532,Zirndorf,20.11.2019,0911/187791xx,,,Ja,Ja,Telefon,Franke Simon,1
+283,Herr,Winkler,Eike,Mühltalstraße 17,90443,Nürnberg,22.04.2016,0911/239091xx,EWinkler@domain.de,,Ja,Ja,,Heldt Carla,3
+284,Herr,Winter,Ingvar,Nürnberger Straße 23,90768,Fürth,28.05.2021,0911/349576xx,IWinter@domain.de,,Ja,Nein,E-Mail,Heldt Carla,2
+285,Frau,Winter,Hailey,Kapellenstraße 6,90768,Fürth,02.12.2008,,HWinter@domain.de,,Nein,Nein,Post,Heldt Carla,1
+286,Herr,Winter,Blake,Regelsbacher Straße 21,91052,Erlangen,04.10.2011,0911/930343xx,BWinter@domain.de,,Ja,Nein,Post,Müller Johanna,3
+287,Herr,Wolf,Benjamin,Höfener Straße 19,90768,Fürth,19.11.2007,0911/348908xx,BWolf@domain.de,,Ja,Nein,Post,Yildiz Marla,2
+288,Frau,Wolf,Inge,Mühltalstraße 2,90768,Fürth,02.02.2016,0911/159327xx,IWolf@domain.de,Nachmittagstermine gewünscht,Ja,Nein,Telefon,Franke Simon,2
+289,Frau,Wolf,Nino,Herzogenauracher Straße 2,90768,Fürth,18.08.2017,0911/924336xx,,,Nein,Nein,E-Mail,Yildiz Marla,2
+290,Frau,Wolff,E.,,90521,Zirndorf,23.09.2020,0911/484875xx,EWolff@domain.de,,Ja,Nein,Post,Franke Simon,1
+291,Herr,Wolff,Kai,Karolinenstraße 4,90514,Zirndorf,08.06.2002,0911/806799xx,KWolff@domain.de,,Ja,Ja,,Yildiz Marla,1
+292,Frau,Yilmaz,Finja,Unterfarrnbacher Straße 12,90527,Zirndorf,07.02.2004,0911/408024xx,FYilmaz@domain.de,,Ja,Nein,Post,Peterson Tim,3
+293,Frau,Yilmaz,Skye,Am Europakanal 11,90520,Zirndorf,16.08.2016,0911/976544xx,SYilmaz@domain.de,,Ja,Ja,Post,Müller Stephanie,1
+294,Herr,Y?lmaz,Paul,Würzburger Straße 20,90768,Fürth,13.09.2003,0911/72092xx,,,Ja,Ja,Telefon,Peterson Tim,2
+295,Frau,Y?lmaz,Nele,Höfener Straße 13,91052,Erlangen,06.07.2008,0911/441919xx,NY?lmaz@domain.de,,Nein,Nein,E-Mail,Peterson Tim,2
+296,Herr,Y?lmaz,H.,Mühltalstraße 19,90522,Zirndorf,19.07.2010,0911/348286xx,HY?lmaz@domain.de,Nachmittagstermine gewünscht,Ja,Nein,,Müller Johanna,2
+297,Herr,Ziegler,Bjarne,Würzburger Straße 23,90443,Nürnberg,27.01.2014,,BZiegler@domain.de,,Ja,Nein,Email,Müller Stephanie,3
+298,Frau,Ziegler,Jana,Höfener Straße 3,90443,Nürnberg,02.05.2018,0911/393567xx,,,Ja,Nein,Phone,,2
+299,Herr,Zimmermann,Oliver,Bahnhofplatz 9,90443,Nürnberg,06.05.2010,0911/194904xx,OZimmermann@domain.de,,Ja,Nein,Telefon,Müller Stephanie,3
+300,Frau,Zimmermann,Greta,Soldnerstraße 9,90768,Fürth,22.08.2010,0911/884388xx,GZimmermann@domain.de,,Ja,Nein,Post,Heldt Carla,1
+301,Divers,Zimmermann,Vivien,Mannhofer Straße 24,90768,Fürth,14.09.2008,0911/542281xx,VZimmermann@domain.de,,Ja,Nein,E-Mail,Franke Simon,2
