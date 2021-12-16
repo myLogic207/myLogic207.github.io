@@ -16,7 +16,8 @@ permalink: /its/
   - [LS 1.6: Rechte und Berechtigungen](#ls-16-rechte-und-berechtigungen)
   - [LS 1.10: Automatisch verteilt: DHCP](#ls-110-automatisch-verteilt-dhcp)
 - [LS2](#ls2)
-  - [Datenschutz und -Sicherheit](#datenschutz-und--sicherheit)
+  - [LS2.1 Datenschutz und -Sicherheit](#ls21-datenschutz-und--sicherheit)
+  - [LS2.2 Netzwerke](#ls22-netzwerke)
   - [Gruppen Labor Herbst](#gruppen-labor-herbst)
   - [Gruppen Labor Graf](#gruppen-labor-graf)
 
@@ -174,12 +175,25 @@ Das Abrufen einer IP-Adresse erfolgt nach einem festen vorgegebenen Schema. Das 
 
 ## LS2
 
-### Datenschutz und -Sicherheit
+### LS2.1 Datenschutz und -Sicherheit
 
 - Welche Chancen und Gefahren ergeben sich aus der Nutzung von Kfz-Daten
 - Welche Interessen verfolgt die Industrie?
   - Sammeln von so vielen Daten wie möglich um den Kunden Genau zu verstehen
 - Welche Interessen, Vor- und Nachteile, Risiken sehen Sie für den Konsumenten?
+
+### LS2.2 Netzwerke
+
+1. Ordnen Sie den Systemen im lokalen Netzwerk geeignete IPv4-Adressen zu (IP-Adresse und Netzmaske1).
+   - 10.10.1.1: Server, 10.10.1.11: Drucker, 10.10.1.101 & 10.10.1.102: Clients
+   - 10.10.2.101 & 10.0.2.102: Clients, 10.10.2.201: Tester
+2. Begründen Sie, wie viele Hostadressen in jedem IP-Netz zur Verfügung stehen.
+   - 2^n - 1, wobei n anzahl hostbits (32 - maske): 244 clients
+3. Geben Sie jeweils die Netz- und Broadcastadresse an und erklären Sie die Begriffe.
+   - 192.168.0.0 Netzadresse: Adresse bei der alle hostbits 0 sind
+   - 192.168.255.255 Broadcastadresse: AAdresse bei der alle hostbits 1 sind
+4. Begründen Sie wie viele Broadcastdomänen im lokalen Netzwerk existieren.
+   - Zwei, da wir mehrere subnetze haben
 
 ---
 

@@ -175,11 +175,11 @@ SELECT * FROM tblzutrittsversuche;
 6. SELECT tblChips_ChipsID FROM tblzutrittsversuche WHERE Ergebnis="Zutritt gestattet" GROUP BY tblChips_ChipsID ORDER BY tblChips_ChipsID;
 7. SELECT Count(*) AS AnzahlZutritte FROM tblzutrittsversuche WHERE Zeitstempel LIKE '2017-11-22%' AND Ergebnis='Zutritt gestattet';
 8. SELECT * FROM tblzutrittsversuche WHERE Ergebnis='Zutritt abgelehnt' AND tblChips_ChipsID LIKE '1%';
-9. SELECT tblChips_ChipsID,Count(*) AS AnzahlZutritte FROM tblzutrittsversuche WHERE Ergebnis='Zutritt gestattet' GROUP BY tblChips_ChipsID;
-10?. SELECT tblChips_ChipsID,Count(*) as SUMME FROM tblzutrittsversuche WHERE Ergebnis='Zutritt gestattet' AND SUMME>10 GROUP BY tblChips_ChipsID;
+9. SELECT tblChips_ChipsID,Count(*) AS Zutritte FROM tblzutrittsversuche WHERE Ergebnis='Zutritt gestattet' GROUP BY tblChips_ChipsID;
+10. SELECT tblChips_ChipsID,Count(*) AS Zutritte FROM tblzutrittsversuche WHERE Ergebnis='Zutritt gestattet' GROUP BY tblChips_ChipsID having Zutritte > 10;
 11. SELECT SUM(tblChips_ChipsID) AS SumChips FROM tblzutrittsversuche;
-12. 
-13.
+12. SELECT Distinct tblChips_ChipsId FROM tblZutrittsversuche WHERE Ergebnis='Zutritt Abgelehnt' tblChips_ChipsId NOT IN (Select tblChips_ChipsId FROM tblZutrittsversuche WHERE Ergebnis='Zutritt gestattet');
+13. SELECT tblChips_ChipsId, Ergebnis FROM tblZutrittsversuche AS AueSelect WHERE Zeitstempel = (SELECT MIN(Zeitstempel) FROM tblZutrittsversuche AS InnSelect WHERE InnSelect.tblChips_ChipsId = AueSelect.tblChips_ChipsId) ORDER BY tblChips_ChipsId;
 ```
 
 ![logisches Datenbankmodell](../../IF11C/AWP/images/logisches_modell.drawio.png)
