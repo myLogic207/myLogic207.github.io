@@ -183,3 +183,24 @@ SELECT * FROM tblzutrittsversuche;
 ```
 
 ![logisches Datenbankmodell](../../IF11C/AWP/images/logisches_modell.drawio.png)
+
+Schüler Fragen: Warum Geht Herbert Oft Laufen = Select From Where Group-By Having Order-By Limit
+
+Übungen:
+
+```sql
+1. select count(*) AS Laender from country where continent='Europe';
+2. select continent from country group by continent;
+3. select count(DISTINCT continent) AS Continents from country;
+4. select name, max(surfacearea) from country group by continent;
+5. Select Name, surfaceArea from country where continent='europe' order by surfaceArea desc;
+6. Select Name, continent, surfaceArea from country order by surfaceArea;
+7. select * from country where indepyear <= 0;
+8. Select Name, Continent, SurfaceArea from country AS outerC where surfaceArea = (select max(surfaceArea) from country AS innerC where innerC.continent= outerC.continent) group by continent;
+9. select * from country where GovernmentForm='Overseas Department of France';
+10. select * from country order by lifeexpectancy desc limit 3;
+11. select continent, avg(lifeexpectancy) from country group by continent;
+12. select continent, count(Name) as Laender from country where lifeExpectancy > 75 group by continent;
+
+21. 
+```

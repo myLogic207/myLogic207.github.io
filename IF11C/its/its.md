@@ -185,8 +185,8 @@ Das Abrufen einer IP-Adresse erfolgt nach einem festen vorgegebenen Schema. Das 
 ### LS2.2 Netzwerke
 
 1. Ordnen Sie den Systemen im lokalen Netzwerk geeignete IPv4-Adressen zu (IP-Adresse und Netzmaske1).
-   - 10.10.1.1: Server, 10.10.1.11: Drucker, 10.10.1.101 & 10.10.1.102: Clients
-   - 10.10.2.101 & 10.0.2.102: Clients, 10.10.2.201: Tester
+   - 192.168.1.1: Server, 192.168.1.11: Drucker, 192.168.1.101 & 192.168.1.102: Clients
+   - 192.168.2.101 & 10.0.2.102: Clients, 192.168.2.201: Tester
 2. Begründen Sie, wie viele Hostadressen in jedem IP-Netz zur Verfügung stehen.
    - 2^n - 1, wobei n anzahl hostbits (32 - maske): 244 clients
 3. Geben Sie jeweils die Netz- und Broadcastadresse an und erklären Sie die Begriffe.
@@ -194,6 +194,29 @@ Das Abrufen einer IP-Adresse erfolgt nach einem festen vorgegebenen Schema. Das 
    - 192.168.255.255 Broadcastadresse: AAdresse bei der alle hostbits 1 sind
 4. Begründen Sie wie viele Broadcastdomänen im lokalen Netzwerk existieren.
    - Zwei, da wir mehrere subnetze haben
+
+Aufgaben:
+
+1. Schritweise des Netzes 212.114.150.64/30:
+   - 1011 0100.0111 0010.1001 0110.0000 00|00 = 212.114.150.0
+   - 1011 0100.0111 0010.1001 0110.0000 01|00 = 212.114.150.4
+   - 1011 0100.0111 0010.1001 0110.0000 10|00 = 212.114.150.8
+   - 1011 0100.0111 0010.1001 0110.0000 11|00 = 212.114.150.12
+   - Schrittweite von 4
+2. Folgendes netz (192.168.100.0/24) so unterteilen, dass der Kunde sechs subnetze hat (maximal mögliche Hosts):
+   | Netzadresse | Subnetzmaske | Hostbereich | Broadcastadresse |
+   | ----------- | ------------ | ----------- | ---------------- |
+   | 192.168.100.0 | 192.168.100.0/27 | 1 - 30 | 192.168.100.31 |
+   | 192.168.100.32 | 192.168.100.32/27 | 33 - 62 | 192.168.100.63 |
+   | 192.168.100.64 | 192.168.100.64/27 | 65 - 94 | 192.168.100.95 |
+   | 192.168.100.96 | 192.168.100.96/27 | 97 - 126 | 192.168.100.127 |
+   | 192.168.100.128 | 192.168.100.128/27 | 129 - 158 | 192.168.100.159 |
+   | 192.168.100.160 | 192.168.100.160/27 | 161 - 190 | 192.168.100.191 |
+
+3. Ein PC besitzt folgende IP Konfiguration (192.168.22.111/26), das Gateway soll die letze adresse im Netz sein. Nenne Netz-, Gateway- und Broadcastadresse:
+   - 1111 1111.1111 1111.1111 1111.11|00 0000 = 255.255.255.192
+   - 1100 0000.1001 0000.0001 0110.01|10 0110 = 192.168.22.111
+   - 1100 0000.1001 0000.0001 0110.01|11 1110 = 192.168.22.126
 
 ---
 

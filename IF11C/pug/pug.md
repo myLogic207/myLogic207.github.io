@@ -14,6 +14,7 @@ permalink: /pug/
 - [Das Menschenbild des Grundgesetzes und die Grundrechte](#das-menschenbild-des-grundgesetzes-und-die-grundrechte)
 - [Grundgesetzprinzipien](#grundgesetzprinzipien)
 - [Gewaltenteilung](#gewaltenteilung)
+- [Gemeinde](#gemeinde)
 
 ## Der Rechtsstaat
 
@@ -162,3 +163,18 @@ In den ersten Artikeln (1 bis 19) des Grundgesetzes sind die Grundrechte der Bü
 | *Bundesebene* |Bundestag, Bundesrat | Bundesregierung, Bundesverwaltungen | Bundesgerichtshof, Oberste Gerichte |
 | *Länderebene* | Landtage, Abgeordnetenhäuser, Bürgerschaften | Landesregierungen, Senate, Landesverwaltungen | Oberstes Landes-gericht,Oberlandesgericht, Landgerichte, Amtsgerichte |
 | *Komunalebene*<br>(Kreise, Städte, Gemeinden) | Kreistage, Stadt-/Gemeinderäte, Stadtverordneten-versammlungen | Kreisverwaltungen, Stadt-bzw. Gemeinde-verwaltungen | |
+
+## Gemeinde
+
+1. Wer trift in einer Gemeinde die politischen Entscheidungen?
+   - Bürgermeister/in trifft die wichtigsten Entscheidungen, Stadtrat/Gemeinderat ebenso
+2. Was ist die Aufgabe des Gemeinderates?
+   - Überwacht den Bürgermeister und die Gemeindeverwaltung
+3. Welche Ämter findet man in der Gemeinde?
+   - Sandesamt, Ordnungsamt, Kämmerei, Meldeamt
+
+Für die Gemeinde Nürnberg:
+
+1. 2020
+2. 70
+3. CDU, SPD, Grüne, AfD, Linke, Die Freien Wähler, ÖDP, FDP, die Politbande, Die Partei/Piraten, die Linke Liste und Die Guten
