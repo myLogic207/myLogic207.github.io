@@ -242,7 +242,7 @@ I am **afraid that** we are unable to provide the eleventh item, which is no lon
 
 If you have any further questions, please **do not** hesitate to contact us.
 
-Yours **Sincerly,**
+Yours **Sincerely,**
 
 Mark Burns
 
@@ -251,4 +251,36 @@ Sales Director
 **[Signiture missing?]**
 
 **enc**
+```
+
+Exercise: Letter of invitation
+
+```text
+29 December 2021
+
+LGE Deutschland GmbH
+Jakob-Kaiser-Str. 12
+47877 Willich
+
+Martin-Segitz-Schule B3
+Ottostraße 22
+90762 Fürth
+
+Open exposition for interested cooperation partners 25/26 of July 2022
+
+Dear Madam or Sir,
+
+Thank you for your trust and interest in cooperating with us. We are pleased to inform you that we offer a forum for interested cooperation partners on 25/26 July 2022.
+
+We are delighted to announce that we are covering your expenses for accommodation and meals. 
+The agenda includes, but is not limited to, an introduction of the company and its products, presentation of the company structure, a complete tour of the company. The forum will end with a presentation of the co-operation modalities and of course a round of questions. You can find the full agenda attached below.
+
+We are looking forward to your reply.
+
+Yours sincerely,
+Lijon Fogel
+COO
+pp LGE Deutschland GmbH
+
+enc
 ```
