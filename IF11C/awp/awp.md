@@ -19,6 +19,7 @@ permalink: /awp/
     - [3. Präsentieren Sie Ihre Ergebnisse](#3-präsentieren-sie-ihre-ergebnisse)
   - [2.2.1 ER-Diagramm](#221-er-diagramm)
   - [SQL Übungen](#sql-übungen)
+- [DDL - Anlegen von Tabellen](#ddl---anlegen-von-tabellen)
 
 ## 1. Grundlagen
 
@@ -203,4 +204,26 @@ Schüler Fragen: Warum Geht Herbert Oft Laufen = Select From Where Group-By Havi
 12. select continent, count(Name) as Laender from country where lifeExpectancy > 75 group by continent;
 
 21. 
+```
+
+## DDL - Anlegen von Tabellen
+
+Hinzufügen von neuer Tabelle Reader und berechtigungstabelle.
+
+![Neues Logisches Modell](./images/logisches_modell_new.png)
+
+```sql
+CREATE TABLE tblKunde(
+  K_Nr int(11) NOT NULL,
+  K_Vorname varchar(30),
+  K_Nachname varchar(30),
+  Primary Key (K_Nr)
+);
+
+ALTER TABLE tblKunde
+ADD COLUMN A_Katalogseite int;
+
+ALTER TABLE tblKunde
+ADD CONSTRAINT FK_K_Katalogseite FOREIGN KEY (A_Katalogseite)
+REFERENCES tblKatalogseite(K_Nr);
 ```
