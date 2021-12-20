@@ -227,3 +227,11 @@ ALTER TABLE tblKunde
 ADD CONSTRAINT FK_K_Katalogseite FOREIGN KEY (A_Katalogseite)
 REFERENCES tblKatalogseite(K_Nr);
 ```
+
+Übung:
+
+```sql
+CREATE TABLE tblReader(readerID int(11) NOT NULL, nachname varchar(30), PRIMARY KEY (readerID));
+CREATE TABLE tblBerechtigungen(tblChips_chipsID int(11) NOT NULL, tblReader_readerID int(11), PRIMARY KEY (tblChips_chipsid));
+ALTER TABLE tblBerechtigungen ADD CONSTRAINT FK_Reader FOREIGN KEY (tblReader_readerID) REFERENCES tblReader (readerID);
+```
