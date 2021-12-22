@@ -159,3 +159,7 @@ Feldebene: Horizontale Kommunikation. Sensoren kommunizieren im shop-Floor über
 | **Ebene** | Steuerung | Feld | Feld/Steuerung | Feld |
 | **Geräte** | Indultiver Sensor | Öffner/Schalter | Leitstand | Profi Bus |
 | **Ebene** | Feld | Feld | Betriebsleitung | Feldebene |
+
+---
+
+![Bernhardt Board](./image/015_Raspi_Testboard_Bernhardt.jpg)
