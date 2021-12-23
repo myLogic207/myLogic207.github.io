@@ -237,17 +237,19 @@ ALTER TABLE tblBerechtigungen ADD CONSTRAINT FK_Reader FOREIGN KEY (tblReader_re
 ```
 
 ```sql
-insert into tblbenutzer (BenutzerID, Nachname) values (8, 'tobi');
-insert into tblchips (chipsid, chipseriennr, tblBenutzer_BenutzerID) values (16,'01104A123456',8);
-insert into tblreader (ReaderId, Bezeichnung) values (5, 'Serverraum');
-insert into tblberechtigung (tblChips_ChipsID, tblReader_readerid) values (16, 5);
-insert into tblberechtigung (tblChips_ChipsID, tblReader_readerid) values (2,1), (2,2), (2,3), (2,4), (2,5);
+5. insert into tblbenutzer (Nachname) values ('tobi');
+6. insert into tblchips (chipseriennr, tblBenutzer_BenutzerID) values ('01104A123456',8);
+7. insert into tblreader (ReaderId, Bezeichnung) values (5, 'Serverraum');
+8. insert into tblberechtigung (tblChips_ChipsID, tblReader_readerid) values (16, 5);
 
-Delete from tblberechtigung where tblChips_ChipsID = (select chipsid from tblchips where tblBenutzer_benutzerid = (select benutzerid from tblbenutzer where nachname = 'Tabor'));
+9. insert into tblberechtigung (tblChips_ChipsID, tblReader_readerid) values (2,1), (2,2), (2,3), (2,4), (2,5);
+insert into tblberechtigung (tblChips_ChipsID, tblReader_readerid) select 2, readerid from tblreader;
+
+10. Delete from tblberechtigung where tblChips_ChipsID = (select chipsid from tblchips where tblBenutzer_benutzerid = (select benutzerid from tblbenutzer where nachname = 'Tabor'));
 Delete from tblzutrittsversuche where tblChips_ChipsID = (select chipsid from tblchips where tblBenutzer_benutzerid = (select benutzerid from tblbenutzer where nachname = 'Tabor'));
 Delete from tblchips where tblBenutzer_benutzerid = (select benutzerid from tblbenutzer where nachname = 'Tabor');
 delete from tblbenutzer where nachname = 'Tabor';
 
-update tblbenutzer set nachname='Schmidt-Huber' where nachname='schmidt';
-delete from tblberechtigung where tblReader_Readerid = (select readerid from tblreader where bezeichnung like '%Lager') and not tblChips_chipsid = (select chipsid from tblchips where tblbenutzer_benutzerid = (select benutzerid from tblbenutzer where nachname like 'Nettmann'));
+11. update tblbenutzer set nachname='Schmidt-Huber' where nachname='schmidt';
+12. delete from tblberechtigung where tblReader_Readerid = (select readerid from tblreader where bezeichnung like '%Lager') and not tblChips_chipsid = (select chipsid from tblchips where tblbenutzer_benutzerid = (select benutzerid from tblbenutzer where nachname like 'Nettmann'));
 ```

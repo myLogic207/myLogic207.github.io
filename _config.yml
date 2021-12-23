@@ -55,6 +55,7 @@ exclude:
   - /IF11C/pug/resources/zusammenfassung_block1.md
   - /IF11C/awp/resources/Datenbanken_zusammenfassung.md
   - about.markdown.old
+  - /IF11/plusD/resources/Kanban
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
