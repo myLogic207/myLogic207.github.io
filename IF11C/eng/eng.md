@@ -284,3 +284,17 @@ pp LGE Deutschland GmbH
 
 enc
 ```
+
+Exercise 3: Another Letter
+
+```text
+on the occasion of the trade fair on 17 july 2010 at 3pm we would like to outline some of the events.
+We will start with a lecture by the famous IT-Expert John Miller from the MIT-University, followed by individual customer service on site.
+After that you are free to visit the whole fair and enjoy discounted prices.
+Other benefits include an extended waranty and Customer support. Feel free to take any of the free advertisment articles.
+
+If you are interested in visiting our product presentation please respond with your name and company as well as the number of attendees until 3 Juli 2020. You will receive your Tickets by mail. It includes several expenses like Food and other refreshments.
+
+We hope to receiver your answer soon.
+Best regards
+```

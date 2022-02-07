@@ -253,3 +253,18 @@ delete from tblbenutzer where nachname = 'Tabor';
 11. update tblbenutzer set nachname='Schmidt-Huber' where nachname='schmidt';
 12. delete from tblberechtigung where tblReader_Readerid = (select readerid from tblreader where bezeichnung like '%Lager') and not tblChips_chipsid = (select chipsid from tblchips where tblbenutzer_benutzerid = (select benutzerid from tblbenutzer where nachname like 'Nettmann'));
 ```
+
+```SQL
+1. CREATE TABLE tblKunden(K_Nr int(11) NOT NULL, K_Vorname varchar(30), K_CreditCardNR varchar(16), PRIMARY KEY (K_Nr));
+2. CREATE TABLE tblLaptops(L_Nr int(11) NOT NULL, L_ProzTyp varchar(30), L_Akku varchar(30), L_MietgebuehrProTag decimal(8,2), PRIMARY KEY (L_Nr));
+3. CREATE TABLE tblVerleihdaten(V_Nr int(11) NOT NULL, V_MietBeginn date, V_MietEnde date, K_NR int(11), L_NR int(11), V_MietgebuehrProTag decimal(8,2), CONSTRAINT FS_Kunden FOREIGN KEY (K_Nr) REFERENCES tblKunden(K_Nr), CONSTRAINT FS_Laptops FOREIGN KEY (L_Nr) REFERENCES tblLaptops(L_Nr));
+
+4. INSERT INTO tblKunden(K_NR, K_Vorname, K_CreditCardNR) VALUES (0,"Lijon", "1234xxxxxxxx5678"), (1, "Sandra", "9876xxxxxxxx5432");
+5. INSERT INTO tblLaptops(L_NR, L_ProzTyp, L_Akku, L_MietgebuerhProTag) VALUES (0,"Intel", "86Wh", "9.99");
+
+6. UPDATE tblKunden SET K_CreditCardNR='1234' WHERE K_Nr=201;
+
+4. SELECT * FROM artikel WHERE A_VK < 150 AND A_Art='Monitor'
+7. SELECT AVG(A_VK) AS Durchscnittspreis FROM artikel
+8. SELECT * FROM artikel WHERE A_VK>AVG(A_VK) ORDER BY A_VK DESC
+```
