@@ -5,7 +5,8 @@ permalink: /its/
 ---
 [Zurück](/)\
 [Dateien](/files#its)\
-[Klassennotizbuch](https://ip-generation.de/Kip94IKYTnKIWyZXzWWyUw?both)
+[Klassennotizbuch](https://ip-generation.de/Kip94IKYTnKIWyZXzWWyUw?both)\
+[subnetz rechner](https://www.site24x7.com/tools/ipv4-subnetcalculator.html)
 
 - [LS 1](#ls-1)
   - [ITS](#its)
@@ -18,6 +19,8 @@ permalink: /its/
 - [LS2](#ls2)
   - [LS2.1 Datenschutz und -Sicherheit](#ls21-datenschutz-und--sicherheit)
   - [LS2.2 Netzwerke](#ls22-netzwerke)
+  - [LS 2.3](#ls-23)
+    - [LS 2.3.3 Weiterführende Themen: VLSM und CIDR](#ls-233-weiterführende-themen-vlsm-und-cidr)
   - [Gruppen Labor Herbst](#gruppen-labor-herbst)
   - [Gruppen Labor Graf](#gruppen-labor-graf)
 
@@ -233,6 +236,24 @@ Aufgaben:
     | ... | ... | ... | ... |
     | 135.20.249.128 | 135.20.249.128/25 | 129 - 254 | 135.20.249.255 |
     | 135.20.250.0 | 135.20.250/25 | 1 - 126 | 135.20.250.127 |
+
+### LS 2.3
+
+#### LS 2.3.3 Weiterführende Themen: VLSM und CIDR
+
+1. Einem ISP (Internet-Service-Provider) steht zur Versorgung von vier Kunden folgendes IP-Netz zur Verfügung: 210.20.16.0 /24
+  Der Bedarf an IP-Adressen bei den einzelnen Kunden sieht wie folgt aus:
+  Kunde A: 100 IP-Adressen -> 210.20.16.126 /25
+  Kunde B: 50 IP-Adressen -> 210.20.16.190 /26
+  Kunde C: 29 IP-Adressen -> 210.20.16.222 /27
+  Kunde D: 23 IP-Adressen -> 210.20.16.254 /27
+
+2. Die Netze der Kunden  A/B/C/D  sind über den Internetserviceprovider ISP1 angebunden. Die Kunden verwalten Netze mit unterschiedlichen Größen. Alle Teilnetze der Kunden fasst der Router ISP1 dann in einen Routingeintrag zusammen, um diesen an den Router ISP2 zu kommunizieren.
+  191.168.0.0/23 -> 10111111.10101000.0000|000|0.00000000
+  191.168.2.0/23 -> 10111111.10101000.0000|001|0.00000000
+  191.168.4.0/22 -> 10111111.10101000.0000|01|00.00000000
+  191.168.8.0/21 -> 10111111.10101000.0000|1|000.00000000
+  -> *10111111.10101000.0000*0000.00000000 /20 -> 191.168.0.0 /20
 
 ---
 
