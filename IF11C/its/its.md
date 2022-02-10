@@ -21,6 +21,7 @@ permalink: /its/
   - [LS2.2 Netzwerke](#ls22-netzwerke)
   - [LS 2.3](#ls-23)
     - [LS 2.3.3 Weiterführende Themen: VLSM und CIDR](#ls-233-weiterführende-themen-vlsm-und-cidr)
+  - [LS 2.5 Routing](#ls-25-routing)
   - [Gruppen Labor Herbst](#gruppen-labor-herbst)
   - [Gruppen Labor Graf](#gruppen-labor-graf)
 
@@ -254,6 +255,30 @@ Aufgaben:
   191.168.4.0/22 -> 10111111.10101000.0000|01|00.00000000
   191.168.8.0/21 -> 10111111.10101000.0000|1|000.00000000
   -> *10111111.10101000.0000*0000.00000000 /20 -> 191.168.0.0 /20
+
+### LS 2.5 Routing
+
+[Mebis](https://lernplattform.mebis.bayern.de/mod/page/view.php?id=36431018)
+
+| Ziel-IP-Adresse | Maske         | Gateway        | Schnittstelle | Metrik |
+|-----------------|---------------|----------------|---------------|--------|
+| 192.168.70.0    | 255.255.255.0 | 192.168.70.254 | Eth_0         | 0      |
+| 192.168.50.0    | 255.255.255.0 | 192.168.50.254 | Eth_1         | 0      |
+
+Routing mit mehreren Routern:
+Router 1:
+| Ziel-IP-Adresse | Maske         | Gateway        | Schnittstelle | Metrik |
+|-----------------|---------------|----------------|---------------|--------|
+| 192.168.70.0    | 255.255.255.0 | 192.168.70.254 | Eth_0         | 0      |
+| 192.168.60.0    | 255.255.255.0 | 192.168.60.254 | Eth_1         | 0      |
+| 192.168.50.0    | 255.255.255.0 | 192.168.50.254 | Eth_1         | 1      |
+
+Router 2:
+| Ziel-IP-Adresse | Maske         | Gateway        | Schnittstelle | Metrik |
+|-----------------|---------------|----------------|---------------|--------|
+| 192.168.50.0    | 255.255.255.0 | 192.168.50.254 | Eth_0         | 0      |
+| 192.168.60.0    | 255.255.255.0 | 192.168.60.254 | Eth_0         | 0      |
+| 192.168.70.0    | 255.255.255.0 | 192.168.70.254 | Eth_1         | 1      |
 
 ---
 
