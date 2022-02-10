@@ -20,6 +20,8 @@ permalink: /itt/
 - [Laden des Python-Programm “Werkstatttore” auf den Raspberry Pi](#laden-des-python-programm-werkstatttore-auf-den-raspberry-pi)
 - [Vertikale Kommunikation](#vertikale-kommunikation)
 - [Klassische Automatisierungspyramide](#klassische-automatisierungspyramide)
+- [OPCUA](#opcua)
+- [OPC Anwendung](#opc-anwendung)
 
 ## Wie realisieren wir die Torüberwachung des AHN?
 
@@ -159,6 +161,49 @@ Feldebene: Horizontale Kommunikation. Sensoren kommunizieren im shop-Floor über
 | **Ebene** | Steuerung | Feld | Feld/Steuerung | Feld |
 | **Geräte** | Indultiver Sensor | Öffner/Schalter | Leitstand | Profi Bus |
 | **Ebene** | Feld | Feld | Betriebsleitung | Feldebene |
+
+## OPCUA
+
+Offener, betriebssystem und hersteller unabhängiger, industrie Standard zu kommunikation innerhalb und zwischen Maschienen, sowie Standorten. Einsetzbar im intra- sowie internet (über Firewalls hinweg) durch integrierte sicherheitsprotokolle. Einfach Skalierbar von kleinen zu großen, von einem zu hunderten geräten und programmen.
+
+Datenmodelle in OPC classic (Nur auf Windows möglich):
+
+- OPC DA: Data Access:
+  - Lesen von Daten z.B. Temperatur
+- OPC HA: Historical Access:
+  - Internes speichern von daten um ältere daten einsehen zu können
+- OPC A&E:
+  - Allerts bei Fehlern
+
+OPC folgt dem Client-Server prinzip. Der Server ist in der Regel die Steuerung und gibt die daten weiter an den Client.
+
+OPC UA releas 2008:
+Hauptunterschiede zu Classic:
+
+1. Cors Platform & Internet Ready -> Nicht mehr Windows abhängig; Integrierte (offene) Port(freigaben)
+2. Complex Information Model unterstützt -> Komplexere daten als nur ein einfacher wert (z.B. Beziehungen, Methoden, Konfigurationen)
+3. Service Oriented Architecture (SOA) -> Daten + Methoden/Funktionen (Service); Geräte können eigene Servies Anbieten/Ausführen.
+4. Simplified IT Integration -> Datenfluss kann über ebenen hinweg erfolgen (z.B. Plant Floor direkt zu Enterprise Level, Operational Level übersprungen)
+
+**OPC UA ist kein Protokoll, sondern ein Standard!** Eine sammlung an verschiedenen "Regeln"/Protokollen.
+Die zwei wichtigsten Säulen sind:
+
+- Einheitliche Datenmodellierung
+- Einheitliche Transportmechanismen
+
+**OPC UA Information modelling:**
+
+- OPC hat keine einzelnen Variablen mehr sondern bestimmte "Identifier" (z.B. "ns=2; i=5", "ns=2; s=Tor").
+- Eine "Node" ist das kleinste Teilchen und besteht aus den informationen über die Node selbst und verschieden Values.
+- Eine Node kann referencen zu anderen nodes beinhalten.
+- Alles in OPC UA ist eine Node/ein Knoten/ein Objekt, verbunden über referenzen.
+- Eine Node id ist aufgebaut: Namespace URI, identifier data type, identifiert (z.B. "ns=http://www.opcfoundation.org/UA/; string=1234", kann durch IDs verkürzt werden indem namespaces mit nummern angesprochen werden: "ns=0;s=1234")
+- Namspace-nummern: 0 OPC Foundation, 1 Verbände, ... , 5 Programmierer
+
+## OPC Anwendung
+
+URL/URI (Unified Resource Locator/Identifier): [Protokoll].[Transportprotokoll]://[IP-Adresse]:[Port]/
+Bsp.: opc.tcp://192.168.2.25:48010/ (alternativ 4840 als port möglich)
 
 ---
 
