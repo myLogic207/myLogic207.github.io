@@ -88,20 +88,20 @@ Match the definitions on the right to the corresponding basic programming terms 
 **Jerry**: Uh, Tom have you got a minute?\
 **Tom**: Well …\
 **Jerry**: Look, I know you’re busy and I wouldn’t bother you if the Hothouse people weren’t breaking down my door, but …\
-**Tom**: That’s OK, Jerry. No problem. Come in and have a seat. I suppose it’s about the appliance design software we put together for them, that _Multipurpose_ program.\
+**Tom**: That’s OK, Jerry. No problem. Come in and have a seat. I suppose it’s about the appliance design software we put together for them, that *Multipurpose* program.\
 **Jerry**: That’s right – Sleekware we called it.\
 **Tom**: So?\
-**Jerry**: Well, they really like Sleekware’s _user interface_ - it’s faster and more stable than the parent program. They only wish they’d had it all along. It would have saved them a lot of time and _hassle_. The thing is…\
+**Jerry**: Well, they really like Sleekware’s *user interface* - it’s faster and more stable than the parent program. They only wish they’d had it all along. It would have saved them a lot of time and *hassle*. The thing is…\
 **Tom**: Out with it.\
-**Jerry**: It’s the product planning part of the program. When they try to print their cost calculations they get _garbled output_.\
-**Tom**: The printing routines we used are absolutely standard and were _thoroughly_ tested.\
-**Jerry**: I realize that but I’m getting a lot of _flak_ from these Hothouse people – hotheads would be a better name for them. Can’t you do some kind of work around?\
-**Tom**: That’s not the point. It would be a waste of time and energy to try and doctor up a piece of perfectly sound software. When we were there the program ran _smoothly_ and they had no complaints. The question is: Have they changed anything since?\
+**Jerry**: It’s the product planning part of the program. When they try to print their cost calculations they get *garbled output*.\
+**Tom**: The printing routines we used are absolutely standard and were *thoroughly* tested.\
+**Jerry**: I realize that but I’m getting a lot of *flak* from these Hothouse people – hotheads would be a better name for them. Can’t you do some kind of work around?\
+**Tom**: That’s not the point. It would be a waste of time and energy to try and doctor up a piece of perfectly sound software. When we were there the program ran *smoothly* and they had no complaints. The question is: Have they changed anything since?\
 **Jerry**: Yes, you remember they said they wanted to invest in a couple of new printers and print servers.\
 **Tom**: And what did they end up buying?\
 **Jerry**: Quickie Print.\
-**Tom**: Well, no wonder they’re having trouble. I _recommended_ Jewel Packets. If they’d followed my advice and invested a few more hundred in decent hardware they wouldn’t be having these problems. We should have _pushed the point_ more.\
-**Jerry**: Maybe, but it was a hard sell. If we’d made it a _condition_, I’m afraid we would have _lost the contract_.\
+**Tom**: Well, no wonder they’re having trouble. I *recommended* Jewel Packets. If they’d followed my advice and invested a few more hundred in decent hardware they wouldn’t be having these problems. We should have *pushed the point* more.\
+**Jerry**: Maybe, but it was a hard sell. If we’d made it a *condition*, I’m afraid we would have *lost the contract*.\
 **Tom**: Could be but it’s too late now. My only suggestion at this point would be to lend them a printer and print server. If the software runs smoothly – and I’m sure it will – it would prove I’m right and that it’s their hardware and not our program that’s at fault.\
 **Jerry**: Good, that’s a fair offer - I’ll get back to you on that.
 
@@ -113,9 +113,9 @@ Match the definitions on the right to the corresponding basic programming terms 
 
 Every program logic consists of three main structural elements: Sequenz, Selection and Iteration (loop). Which is which?
 
-a. _Sequenz_ is a series of command wherby B automatically and necessarily follows A.\
-b. _Iteration (loop)_ repeats a given sequenz of commands as long as given conditions exists or until a given condition is fullfilled.\
-c. _Selection_ executes one of two or more possible functions in a program depending on whatever a given condition has been fulfilled or not
+a. *Sequenz* is a series of command wherby B automatically and necessarily follows A.\
+b. *Iteration (loop)* repeats a given sequenz of commands as long as given conditions exists or until a given condition is fullfilled.\
+c. *Selection* executes one of two or more possible functions in a program depending on whatever a given condition has been fulfilled or not
 
 ### 5. Structoral elements
 
