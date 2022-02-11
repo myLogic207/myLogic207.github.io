@@ -23,6 +23,8 @@ permalink: /bgp/
 - [2.2 Die Aufgabenorganisation](#22-die-aufgabenorganisation)
   - [2.3 Weisungssysteme](#23-weisungssysteme)
 - [2.4 Organigramm](#24-organigramm)
+- [3. Grundlagen ITSM](#3-grundlagen-itsm)
+- [4. Service Anfragen](#4-service-anfragen)
 
 ## Services
 
@@ -201,3 +203,21 @@ Aus Sicht des Prozessmanagements und in Bezug auf die Verantwortlichkeiten ergeb
 | Service Owner | Verwantwortlicher für den Service (Dienstleistung) |
 | Prozess Owner | Verantwortlicher für den Ablauf (Prozesse) |
 | Prozess Executer | Ausführende Kraft |
+
+## 3. Grundlagen ITSM
+
+[Arbeitsblatt](..\bgp\resources\3._Grundlagen_ITSM\1._Grundlagen_ITSM_S.pdf)
+
+## 4. Service Anfragen
+
+1. Überlegen Sie sich weitere Möglichkeiten der Kontaktaufnahme, die auch in Ihrem 
+Ausbildungsbetrieb Anwendung finden.
+2. Die o.g. Internetadressen deiten beim Ticket-System auf einen webbasierten Dienst hin. Solche Produkte werden häufig unter der Begrifflichket **Software as a Service (SaaS)** bereitgestellt.
+b) Vortiele, die mit diesem Konzept verbunden sind:
+
+- Schnelle Inbetriebnahme
+- Wird durch den Anbieter instandgehalten
+- Schnellerer Workflow
+- Schneller Support (bedeutet für uns: keine Wartung, keine Softwareaktualisierung, keine IT-Administration)
+- Entfall der Anschaffungs- und Betriebskosten (da Mietkosten)
+- Einbindung neuer MA (wir haben die Arbeit nicht, da exteren Firmen für Zuständig)

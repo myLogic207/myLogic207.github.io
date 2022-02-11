@@ -268,3 +268,17 @@ delete from tblbenutzer where nachname = 'Tabor';
 7. SELECT AVG(A_VK) AS Durchscnittspreis FROM artikel
 8. SELECT * FROM artikel WHERE A_VK>AVG(A_VK) ORDER BY A_VK DESC
 ```
+
+```SQL
+1. SELECT * FROM tblZutrittsversuche CROSS JOIN tblChips;
+2. SELECT ChipSerienNr FROM tblChips WHERE ChipSerienNr like '011%';
+3. SELECT Z.ZutruttsversucheIDs, C.ChipSerienNr FROM tblZutrittsversuche AS Z, tblChips AS C WHERE Z.tblChips_ChipsID = C.ChipsID;
+4. SELECT Z.ZutrittsversuchID, C.ChipSerienNr FROM tblZutrittsversuche AS Z INNER JOIN tblChips AS C ON Z.tblChips_ChipsID = C.ChipsID;
+5. SELECT C.tblBenutzer_BenutzerID FROM tblZutrittsversuche AS Z RIGHT JOIN tblChips AS C ON Z.tblChips_ChipsID = C.ChipsID WHERE Z.ZutrittsversuchID=2300;
+6. SELECT Z.Zeitstempel FROM tblZutrittsversuche AS Z INNER JOIN tblChips AS C ON Z.tblChips_ChipsID = C.ChipsID WHERE C.tblBenutzer_BenutzerID=5 AND Z.Ergebnis='Zutritt Abgelehnt' ORDER BY Z.Zeitstempel DESC;
+7. SELECT Z.ZutrittsversuchID, C.ChipSerienNr FROM tblZutrittsversuche AS Z INNER JOIN tblChips AS C ON Z.tblChips_ChipsID = C.ChipsID WHERE Z.Zeitstempel like '2017-11-20%';
+8. SELECT C.tblBenutzer_BenutzerID, COUNT(*) AS Summe FROM tblZutrittsversuche AS Z INNER JOIN tblChips AS C ON Z.tblChips_ChipsID = C.ChipsID WHERE Z.Ergebnis='Zutritt Abgelehnt' GROUP BY C.tblBenutzer_BenutzerID; 
+9. SELECT C.tblBenutzer_BenutzerID, Count(z.Ergebnis) FROM tblChips C LEFT JOIN tblZutrittsversuche Z ON c.ChipsID=Z.tblChips_ChipsID GROUP BY C.tblBenutzer_BenutzerID;
+10. SELECT C.tblBenutzer_BenutzerID, Count(z.Ergebnis) FROM tblZutrittsversuche Z RIGHT JOIN tblChips C ON c.ChipsID=Z.tblChips_ChipsID GROUP BY C.tblBenutzer_BenutzerID;
+11. SELECT C.tblBenutzer_BenutzerID, Count(z.Ergebnis) FROM tblZutrittsversuche Z RIGHT JOIN tblChips C ON c.ChipsID=Z.tblChips_ChipsID WHERE z.Ergebnis='Zutritt abgelehnt' OR z.Ergebnis IS NULL GROUP BY C.tblBenutzer_BenutzerID;
+```
