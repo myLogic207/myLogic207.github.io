@@ -254,7 +254,7 @@ delete from tblbenutzer where nachname = 'Tabor';
 12. delete from tblberechtigung where tblReader_Readerid = (select readerid from tblreader where bezeichnung like '%Lager') and not tblChips_chipsid = (select chipsid from tblchips where tblbenutzer_benutzerid = (select benutzerid from tblbenutzer where nachname like 'Nettmann'));
 ```
 
-```SQL
+```sql
 1. CREATE TABLE tblKunden(K_Nr int(11) NOT NULL, K_Vorname varchar(30), K_CreditCardNR varchar(16), PRIMARY KEY (K_Nr));
 2. CREATE TABLE tblLaptops(L_Nr int(11) NOT NULL, L_ProzTyp varchar(30), L_Akku varchar(30), L_MietgebuehrProTag decimal(8,2), PRIMARY KEY (L_Nr));
 3. CREATE TABLE tblVerleihdaten(V_Nr int(11) NOT NULL, V_MietBeginn date, V_MietEnde date, K_NR int(11), L_NR int(11), V_MietgebuehrProTag decimal(8,2), CONSTRAINT FS_Kunden FOREIGN KEY (K_Nr) REFERENCES tblKunden(K_Nr), CONSTRAINT FS_Laptops FOREIGN KEY (L_Nr) REFERENCES tblLaptops(L_Nr));
@@ -269,7 +269,7 @@ delete from tblbenutzer where nachname = 'Tabor';
 8. SELECT * FROM artikel WHERE A_VK>AVG(A_VK) ORDER BY A_VK DESC
 ```
 
-```SQL
+```sql
 1. SELECT * FROM tblZutrittsversuche CROSS JOIN tblChips;
 2. SELECT ChipSerienNr FROM tblChips WHERE ChipSerienNr like '011%';
 3. SELECT Z.ZutruttsversucheIDs, C.ChipSerienNr FROM tblZutrittsversuche AS Z, tblChips AS C WHERE Z.tblChips_ChipsID = C.ChipsID;
@@ -281,4 +281,29 @@ delete from tblbenutzer where nachname = 'Tabor';
 9. SELECT C.tblBenutzer_BenutzerID, Count(z.Ergebnis) FROM tblChips C LEFT JOIN tblZutrittsversuche Z ON c.ChipsID=Z.tblChips_ChipsID GROUP BY C.tblBenutzer_BenutzerID;
 10. SELECT C.tblBenutzer_BenutzerID, Count(z.Ergebnis) FROM tblZutrittsversuche Z RIGHT JOIN tblChips C ON c.ChipsID=Z.tblChips_ChipsID GROUP BY C.tblBenutzer_BenutzerID;
 11. SELECT C.tblBenutzer_BenutzerID, Count(z.Ergebnis) FROM tblZutrittsversuche Z RIGHT JOIN tblChips C ON c.ChipsID=Z.tblChips_ChipsID WHERE z.Ergebnis='Zutritt abgelehnt' OR z.Ergebnis IS NULL GROUP BY C.tblBenutzer_BenutzerID;
+```
+
+Mermaid Diagramm Test:
+
+```mermaid
+graph TD;
+A --> B;
+
+```
+
+```mermaid
+graph TD
+A[Christmas] -->|Get money| B(Go shopping)
+B --> C{Let me think}
+B --> G[/Another/]
+C ==>|One| D[Laptop]
+C -->|Two| E[iPhone]
+C -->|Three| F[fa:fa-car Car]
+subgraph section
+  C
+  D
+  E
+  F
+  G
+end
 ```
