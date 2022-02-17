@@ -18,6 +18,7 @@ permalink: /eng/
   - [5. Structoral elements](#5-structoral-elements)
 - [The Problem with Programming](#the-problem-with-programming)
 - [Business letters and Invitations](#business-letters-and-invitations)
+- [Netorking](#netorking)
 
 ## Programmin Languages - 04.10.2021
 
@@ -297,4 +298,31 @@ If you are interested in visiting our product presentation please respond with y
 
 We hope to receiver your answer soon.
 Best regards
+```
+
+## Netorking
+
+Following is a german guide, translatet from english, on how to crimp an ethernet cable.
+
+```txt
+Werkzeuge:
+   Abisolier Zange
+   Crimpwerkzeug
+   Schaltkreis tester
+Schritte:
+   - Gewünschte Kabellänge plus ein paar extra Zentimeter abschneiden.
+   - Auf beiden Seiten ein Stück Kabel mit der Abisolierzange abisloieren (nur Außenisolation).
+   - Ungefähr 20mm vorsichtig abisolieren, aufpassen nicht die Isolierung der inneren Kabel zu beschädigen.
+   - Die inneren Kabel betrachten und auf Schäden prüfen. Falls sie beschädigt sind, das komplette Kabelende abschneiden und von vorne anfangen. Eine kaputte Isolation kann zu Kreuzkommunikation führen.
+   - Es gibt acht Kabel, jeweils zwei Käbel sind miteinander verdreht und formen ein sog. "Twisted pair", davon gibt es somit vier paare.
+   - Besagte Paare entdrehen und sie in folgender Reihenfolge von links nach rechts anordnene:
+     Weiß-Orange | Orange | Weiß-Grün | Blau | Weiß-Blau | Grün | Weiß-Braun | Braun
+   - Wenn die kabel in der korrekten Reihenfolge (vor)liegen, alle um ungefähr 12mm kürzen
+   - Dies dient dazu, dass die Kabel genau in den RJ-45 Stecker passen
+   - Die Reiehnfolge noch mal überprüfen und dann in den Stecker schieben. Darauf achten, dass alle Kabel bis an das vordern ende (die Spitze?) des Steckers reichen.
+   - Den Stecker nun in das Crimpwerkzeug führen und gleichmäßig fest zusammendrücken. Es sollte ein ratschen Geräusch zu hören sein.
+   - Den Druck von der Zange nehmen und auf ihre Ursprüngliche Position zurückkehren lassen.
+   - Es schadet nicht das Werkzeug noch ein zweites mal zusammenzudrücken.
+   - Die Schritte für die andere Seite des Kabels wiederholen.
+   - Soabld beide ende mit einem Stecker ausgestatet worden sind, die Verbindung mit einem Schaltkreis-/Netzwerktester Überprüfen.
 ```

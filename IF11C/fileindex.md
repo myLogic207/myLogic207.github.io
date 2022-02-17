@@ -99,7 +99,9 @@ permalink: /files
 [Pin auslesen Beispiel](https://github.com/myLogic207/IF11C/blob/main/ITT/programms/read_pin_example.py) - [Download](..IF11C/itt/programms/read_pin_example.py){:target="_blank"}\
 [Torsteuerung](https://github.com/myLogic207/IF11C/blob/main/ITT/programms/torsteuerung.py) - [Download](..IF11C/itt/programms/torsteuerung.py){:target="_blank"}\
 [Torsteuerung v2](https://github.com/myLogic207/IF11C/blob/main/ITT/programms/torsteuerung_2.py) - [Download](..IF11C/itt/programms/torsteuerung_2.py){:target="_blank"}\
-[Werkstatttore Lösung](https://github.com/myLogic207/IF11C/blob/main/ITT/programms/werkstatttore_Simulator.py) - [Download](..IF11C/itt/programms/werkstatttore_Simulator.py){:target="_blank"}\
+[Werkstatttore Lösung](https://github.com/myLogic207/IF11C/blob/main/ITT/programms/werkstatttore_Simulator.py) - [Download](../IF11C/itt/programms/werkstatttore_Simulator.py){:target="_blank"}\
+
+[MQTT-XML](../IF11C/itt/resources/MQTT_Conf.xml){:target="_blank"}\
 
 ---
 

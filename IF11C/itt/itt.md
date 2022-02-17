@@ -197,7 +197,7 @@ Die zwei wichtigsten Säulen sind:
 - Eine "Node" ist das kleinste Teilchen und besteht aus den informationen über die Node selbst und verschieden Values.
 - Eine Node kann referencen zu anderen nodes beinhalten.
 - Alles in OPC UA ist eine Node/ein Knoten/ein Objekt, verbunden über referenzen.
-- Eine Node id ist aufgebaut: Namespace URI, identifier data type, identifiert (z.B. "ns=http://www.opcfoundation.org/UA/; string=1234", kann durch IDs verkürzt werden indem namespaces mit nummern angesprochen werden: "ns=0;s=1234")
+- Eine Node id ist aufgebaut: Namespace URI, identifier data type, identifiert (z.B. "ns=<http://www.opcfoundation.org/UA/>; string=1234", kann durch IDs verkürzt werden indem namespaces mit nummern angesprochen werden: "ns=0;s=1234")
 - Namspace-nummern: 0 OPC Foundation, 1 Verbände, ... , 5 Programmierer
 
 ## OPC Anwendung

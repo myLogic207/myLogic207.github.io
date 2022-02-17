@@ -1,0 +1,19 @@
+<MQTTConfiguration>
+    <MQTTServer
+        MQTTServerAddress="172.16.1.59:1883"
+        MQTTClientID="MQTT_Logo"
+        MQTTClientUserName="userMQTT" 
+        MQTTClientPassword="Mqtt-Fue-003">
+        <MQTTTopicDefinition>
+            <publish>
+                <topicname name="Heizung/Temperatur"> 
+                    <Kesseltemp type="Int16" opcvar="ns=4;s=LogoIBH.Logo.Generic.Kesseltemp" name="Kesseltemp" />
+                    <Kollektortemp type="Int16" opcvar="ns=4;s=LogoIBH.Logo.Generic.Kollektortemp" name="Kollektortemp" />
+                    <Pumpe type="Boolean" opcvar="ns=4;s=LogoIBH.Logo.Generic.Pumpe" name="Pumpe" />
+                </topicname>
+            </publish>
+            <subscribe>
+            </subscribe>
+        </MQTTTopicDefinition>     
+    </MQTTServer>
+</MQTTConfiguration>
