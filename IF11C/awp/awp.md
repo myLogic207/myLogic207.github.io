@@ -20,6 +20,8 @@ permalink: /awp/
   - [2.2.1 ER-Diagramm](#221-er-diagramm)
   - [SQL Übungen](#sql-übungen)
 - [DDL - Anlegen von Tabellen](#ddl---anlegen-von-tabellen)
+- [Logisches Modell](#logisches-modell)
+- [Weitere Übungen](#weitere-übungen)
 
 ## 1. Grundlagen
 
@@ -283,27 +285,28 @@ delete from tblbenutzer where nachname = 'Tabor';
 11. SELECT C.tblBenutzer_BenutzerID, Count(z.Ergebnis) FROM tblZutrittsversuche Z RIGHT JOIN tblChips C ON c.ChipsID=Z.tblChips_ChipsID WHERE z.Ergebnis='Zutritt abgelehnt' OR z.Ergebnis IS NULL GROUP BY C.tblBenutzer_BenutzerID;
 ```
 
-Mermaid Diagramm Test:
+## Logisches Modell
 
-```mermaid
-graph TD;
-A --> B;
+![Logisches Modell](./images/logisches_modell_skater.png)
 
+## Weitere Übungen
+
+```sql
+1. SELECT * FROM tblZutrittsversuche, tblChips, tblBenutzer;
+2. SELECT B.BenutzerID FROM tblBenutzer AS B INNER JOIN tblChips AS C ON B.BenutzerId = C.tblBenutzer_BenutzerId WHERE C.ChipSerienNr = '01104A3EE085';
+3. SELECT B.Nachname, B.BenutzerID FROM tblbenutzer AS B INNER JOIN tblchips AS C ON B.BenutzerID = C.tblBenutzer_BenutzerID WHERE C.ChipSerienNr='01104A3EE085';
+4. SELECT C.ChipSerienNr FROM tblchips AS C INNER JOIN tblbenutzer AS B ON C.tblBenutzer_BenutzerID = B.BenutzerID WHERE B.Nachname = 'Nettmann';
+5. SELECT Count(Z.Ergebnis) AS 'Zutritte' FROM tblzutrittsversuche AS Z INNER JOIN tblchips AS C ON Z.tblChips_ChipsID = C.ChipsID INNER JOIN tblbenutzer AS B ON C.tblBenutzer_BenutzerID = B.BenutzerID WHERE B.Nachname = 'Maier' AND Z.Ergebnis = "Zutritt gestattet";
+6. SELECT B.Nachname, Count(Z.Ergebnis) AS 'Zutritte' FROM tblzutrittsversuche AS Z INNER JOIN tblchips AS C ON Z.tblChips_ChipsID = C.ChipsID INNER JOIN tblbenutzer AS B ON C.tblBenutzer_BenutzerID = B.BenutzerID WHERE Z.Ergebnis = "Zutritt abgelehnt" GROUP BY B.BenutzerID ORDER BY Zutritte DESC;
+7. SELECT B.Nachname, Count(Z.Ergebnis) AS 'Zutritte' FROM tblzutrittsversuche AS Z INNER JOIN tblchips AS C ON Z.tblChips_ChipsID = C.ChipsID INNER JOIN tblbenutzer AS B ON C.tblBenutzer_BenutzerID = B.BenutzerID WHERE Z.Ergebnis = "Zutritt abgelehnt" GROUP BY B.BenutzerID HAVING Zutritte > 8 ORDER BY Zutritte DESC;
+8. SELECT Count(Z.Ergebnis) AS 'Zutritte', B.Nachname FROM tblzutrittsversuche AS Z RIGHT JOIN tblchips AS C ON Z.tblChips_ChipsID = C.ChipsID RIGHT JOIN tblbenutzer AS B ON C.tblBenutzer_BenutzerID = B.BenutzerID GROUP BY B.BenutzerID ORDER BY Zutritte ASC, B.Nachname ASC;
+9. SELECT MAX(Z.Zeitstempel), B.Nachname FROM tblzutrittsversuche AS Z INNER JOIN tblchips AS C ON Z.tblChips_ChipsID = C.ChipsID INNER JOIN tblbenutzer AS B ON C.tblBenutzer_BenutzerID = B.BenutzerID WHERE Z.Ergebnis = 'Zutritt abgelehnt' GROUP BY B.Nachname ORDER BY B.Nachname DESC
+10. SELECT MAX(Z.Zeitstempel) AS Letzer, MIN(Z.Zeitstempel) AS Erster, B.Nachname FROM tblzutrittsversuche AS Z INNER JOIN tblchips AS C ON Z.tblChips_ChipsID = C.ChipsID INNER JOIN tblbenutzer AS B ON C.tblBenutzer_BenutzerID = B.BenutzerID WHERE Z.Ergebnis = 'Zutritt abgelehnt' GROUP BY B.Nachname ORDER BY B.Nachname ASC
+11. SELECT B.Nachname, COUNT(Z.Ergebnis) AS avgZutritte FROM tblzutrittsversuche AS Z INNER JOIN tblChips AS C ON Z.tblChips_ChipsID = C.ChipsID INNER JOIN tblbenutzer AS B ON C.tblBenutzer_BenutzerID = B.BenutzerID WHERE Z.Ergebnis = 'Zutritt abgelehnt' GROUP BY B.BenutzerID HAVING avgZutritte > (SELECT AVG(it.Zutritte) FROM (SELECT COUNT(Z.Ergebnis) AS 'Zutritte' FROM tblzutrittsversuche AS Z INNER JOIN tblChips AS C ON Z.tblChips_ChipsID = C.ChipsID INNER JOIN tblbenutzer AS B ON C.tblBenutzer_BenutzerID = B.BenutzerID WHERE Ergebnis = 'Zutritt abgelehnt' GROUP BY B.BenutzerID) AS it)
 ```
 
-```mermaid
-graph TD
-A[Christmas] -->|Get money| B(Go shopping)
-B --> C{Let me think}
-B --> G[/Another/]
-C ==>|One| D[Laptop]
-C -->|Two| E[iPhone]
-C -->|Three| F[fa:fa-car Car]
-subgraph section
-  C
-  D
-  E
-  F
-  G
-end
+## 2.4 Datenintegrität
+
+```sql
+ALTER TABLE tblPersonal ADD CONSTRAINT A_ID FOREIGN KEY (A_ID) REFERENCES tblAbteilung(A_ID) ON DELETE RESTRICT ON UPDATE CASCADE 
 ```
