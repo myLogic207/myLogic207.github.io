@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Logics Page
-subtitle: atuff from logic doing coding
+subtitle: stuff from logic doing coding
 email: lijon.fogel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Don't you want to donate instead of reading this?
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://myLogic207.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://myLogic207.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: myLogic207
 github_username:  myLogic207
 copyright: "Copyright Lijon Fogel"
