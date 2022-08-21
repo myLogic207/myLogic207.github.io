@@ -1,0 +1,50 @@
+---
+layout: compressed
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+  <link rel="manifest" href="/manifest.json">
+  <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+    <script>
+        kofiWidgetOverlay.draw('mylogic207', {
+            'type': 'floating-chat',
+            'floating-chat.donateButton.text': 'Spenden',
+            'floating-chat.donateButton.background-color': '#29353D',
+            'floating-chat.donateButton.text-color': '#adb5bd'
+        });
+  </script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      if (navigator.serviceWorker.controller) {
+        console.log("An active service worker found, no need to register");
+      } else {
+        navigator.serviceWorker
+          .register("/service-worker.js", {scope: "./"})
+          .then(function(reg) {
+            console.log("Service worker has been registered for scope:" + reg.scope);
+          });
+      }
+    }
+  </script>
+    
+  <body>
+
+    {%- include header.html -%}
+
+    <a id="top"></a>
+
+    <main class="page-content" aria-label="Content">
+      <div class="top_spacer"></div>
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
