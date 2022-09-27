@@ -9,7 +9,6 @@ Hello, welcome on this humble site!
 Before we start, maybe you are here for some of my work?
 
 [budder](https://myLogic207.github.io/budderAPI)\
-[vocational school](https://myLogic207.github.io/IF11C) (beware the german)\
 [Test repo](https://myLogic207.github.io/test)
 
 Otherwise, welcome to my site!
