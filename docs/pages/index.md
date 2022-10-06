@@ -17,8 +17,10 @@ I am logic! Qualified idiot, CEO of CFVR Technologies, system engineer and hobby
 
 Here a short list of facts:
 
-- 🔭 I’m currently working on a VR headset at [CFVR](https://cfvrtech.net/) and my [website](https://myLogic207.github.io) (and other fun stuff)
+- 🔭 I’m currently working on a VR headset at [CFVR](https://cfvrtech.com/), my [website](https://myLogic207.github.io) and [budder](https://github.com/myLogic207/budderAPI) (and other fun stuff)
 - 🌱 I’m currently learning IT stuff for work, school and my projects
-- 📫 How to reach me: Issue on this repo, mail [*lijon.fogel@gmail.com*](mailto:lijon.fogel@gmail.com?subject=github) or contact me via [Discord](https://discord.gg/zqtMSyH) or [Twitter](https://twitter.com/myLogic207) 😉
+- 📫 How to reach me: Per mail [*lijon.fogel@gmail.com*](mailto:lijon.fogel@gmail.com?subject=github) or contact me via [Discord](https://discord.gg/zqtMSyH) or [Twitter](https://twitter.com/myLogic207) 😉
 - 😄 Pronouns: He/they
 - ⚡ Fun fact: I like "Mohnschnecken" and am indeed from germany ^~^
+
+WIP!
